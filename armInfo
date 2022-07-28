@@ -1,0 +1,113 @@
+
+ot@ip-172-31-20-62 tempRepo]# lscpu
+Architecture:        aarch64
+Byte Order:          Little Endian
+CPU(s):              2
+On-line CPU(s) list: 0,1
+Thread(s) per core:  1
+Core(s) per socket:  2
+Socket(s):           1
+NUMA node(s):        1
+Vendor ID:           ARM
+BIOS Vendor ID:      AWS
+Model:               1
+BIOS Model name:     AWS Graviton3
+Stepping:            r1p1
+BogoMIPS:            2100.00
+L1d cache:           64K
+L1i cache:           64K
+L2 cache:            1024K
+L3 cache:            32768K
+NUMA node0 CPU(s):   0,1
+Flags:               fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc
+ dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm ssbs dcpodp svei8mm svebf16 i8mm bf16 dgh rng
+
+
+
+ot@ip-172-31-20-62 tempRepo]# uname -a
+Linux ip-172-31-20-62.ec2.internal 4.18.0-372.9.1.el8.aarch64 #1 SMP Fri Apr 15 22:01:11 EDT 2022 aarch64 aarch64 aa
+rch64 GNU/Linux
+
+
+ot@ip-172-31-20-62 tempRepo]# cat /proc/meminfo 
+MemTotal:        3511488 kB
+MemFree:         1286976 kB
+MemAvailable:    2380736 kB
+Buffers:            5440 kB
+Cached:          1537856 kB
+SwapCached:            0 kB
+Active:          1023744 kB
+Inactive:         701888 kB
+Active(anon):       4416 kB
+Inactive(anon):   200576 kB
+Active(file):    1019328 kB
+Inactive(file):   501312 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                64 kB
+Writeback:             0 kB
+AnonPages:        182336 kB
+Mapped:            89728 kB
+Shmem:             22656 kB
+KReclaimable:     114112 kB
+Slab:             288448 kB
+SReclaimable:     114112 kB
+SUnreclaim:       174336 kB
+KernelStack:        9984 kB
+PageTables:         9216 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     1755712 kB
+Committed_AS:     423296 kB
+VmallocTotal:   133009506240 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+Percpu:             2560 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:     524288 kB
+Hugetlb:               0 kB
+
+
+
+ot@ip-172-31-20-62 tempRepo]# cat /proc/cpuinfo 
+processor: 0
+BogoMIPS: 2100.00
+Features: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dc
+pop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm ssbs dcpodp svei8mm svebf16 i8mm bf16 dgh rng
+CPU implementer: 0x41
+CPU architecture: 8
+CPU variant: 0x1
+CPU part: 0xd40
+CPU revision: 1
+
+processor: 1
+BogoMIPS: 2100.00
+Features: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dc
+pop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm ssbs dcpodp svei8mm svebf16 i8mm bf16 dgh rng
+CPU implementer: 0x41
+CPU architecture: 8
+CPU variant: 0x1
+CPU part: 0xd40
+CPU revision: 1
+
+
+ot@ip-172-31-20-62 tempRepo]# dmidecode --type memory
+# dmidecode 3.3
+Getting SMBIOS data from sysfs.
+SMBIOS 3.0.0 present.
+
+
+ot@ip-172-31-20-62 tempRepo]# /usr/local/ssl/bin/openssl version
+OpenSSL 3.1.0-dev  (Library: OpenSSL 3.1.0-dev )

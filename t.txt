@@ -1,0 +1,9 @@
+Forked child 0
+Got: +F6:1:456:Ed448:3354.600000:4678.900000 from 0
+version: 3.1.0-dev
+built on: Wed Jul 27 10:29:30 2022 UTC
+options: bn(64,64)
+compiler: gcc -fPIC -pthread -Wa,--noexecstack -Wall -O3 -DOPENSSL_USE_NODELETE -DOPENSSL_PIC -DOPENSSL_BUILDING_OPENSSL -DNDEBUG
+CPUINFO: OPENSSL_armcap=0x3fff
+                              sign    verify    sign/s verify/s
+ 456 bits EdDSA (Ed448)   0.0003s   0.0002s   3354.6   4678.9

@@ -224,8 +224,8 @@ length=(16 64 256 1024 8192 16384 32768 65536 131072 262144 524288 1048576 20971
 
 
 echo ${time}
-mkdir -p /home/zqd/openssl_test/${time}
-resultfile="/home/zqd/openssl_test/${time}/${time}"
+mkdir -p /home/ec2-user/tempRepo/${time}
+resultfile="/home/ec2-user/tempRepo/${time}/${time}"
 
 
   for w in ${evptypes[*]}
@@ -233,7 +233,7 @@ resultfile="/home/zqd/openssl_test/${time}/${time}"
     for b in ${length[*]}
 	do
 		echo -e "${w} ${b}B \c" >> ${resultfile}
-                openssl speed -elapsed -multi 1 -bytes ${b} -evp ${w} > t.txt ; cat t.txt | grep evp >> ${resultfile}
+                /usr/local/ssl/bin/openssl speed -elapsed -multi 1 -bytes ${b} -evp ${w} > t.txt ; cat t.txt | grep evp >> ${resultfile}
                 sleep 10
 	done
   done
@@ -244,7 +244,7 @@ resultfile="/home/zqd/openssl_test/${time}/${time}"
     for by in ${length[*]}
 	do
 		echo -e "${al} ${by}B \c" >> ${resultfile}
-                openssl speed -elapsed -multi 1 -bytes ${by} ${al} > t.txt ; awk 'END {print}' t.txt >> ${resultfile}
+                /usr/local/ssl/bin/openssl speed -elapsed -multi 1 -bytes ${by} ${al} > t.txt ; awk 'END {print}' t.txt >> ${resultfile}
                 sleep 10
 	done
   done

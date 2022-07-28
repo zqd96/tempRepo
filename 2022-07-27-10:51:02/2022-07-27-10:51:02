@@ -1,0 +1,3376 @@
+md4 16B md4 64B md4 256B md4 1024B md4 8192B md4 16384B md4 32768B md4 65536B md4 131072B md4 262144B md4 524288B md4 1048576B md4 2097152B md4 4194304B md4 8388608B md4 16777216B md5 16B evp              70006.04k
+md5 64B evp             188191.85k
+md5 256B evp             369272.58k
+md5 1024B evp             487019.86k
+md5 8192B evp             536985.60k
+md5 16384B evp             540863.15k
+md5 32768B evp             542932.99k
+md5 65536B evp             543730.35k
+md5 131072B evp             544298.33k
+md5 262144B evp             544647.85k
+md5 524288B evp             544909.99k
+md5 1048576B evp             544210.94k
+md5 2097152B evp             544560.47k
+md5 4194304B evp             543448.03k
+md5 8388608B evp             543448.03k
+md5 16777216B evp             544426.21k
+md5-sha1 16B evp              54133.74k
+md5-sha1 64B evp             147205.06k
+md5-sha1 256B evp             281086.98k
+md5-sha1 1024B evp             365686.44k
+md5-sha1 8192B evp             400812.71k
+md5-sha1 16384B evp             403445.08k
+md5-sha1 32768B evp             404848.64k
+md5-sha1 65536B evp             405602.30k
+md5-sha1 131072B evp             405973.67k
+md5-sha1 262144B evp             406235.82k
+md5-sha1 524288B evp             406323.20k
+md5-sha1 1048576B evp             405798.91k
+md5-sha1 2097152B evp             406148.44k
+md5-sha1 4194304B evp             405495.84k
+md5-sha1 8388608B evp             405541.98k
+md5-sha1 16777216B evp             406889.29k
+blake2b512 16B evp              47268.04k
+blake2b512 64B evp             188896.06k
+blake2b512 256B evp             482402.47k
+blake2b512 1024B evp             695549.95k
+blake2b512 8192B evp             802084.18k
+blake2b512 16384B evp             810653.01k
+blake2b512 32768B evp             814208.34k
+blake2b512 65536B evp             815835.82k
+blake2b512 131072B evp             818195.11k
+blake2b512 262144B evp             814997.86k
+blake2b512 524288B evp             818588.33k
+blake2b512 1048576B evp             818937.86k
+blake2b512 2097152B evp             818588.33k
+blake2b512 4194304B evp             819287.38k
+blake2b512 8388608B evp             819287.38k
+blake2b512 16777216B evp             819352.41k
+blake2s256 16B evp              54732.96k
+blake2s256 64B evp             217588.16k
+blake2s256 256B evp             368922.62k
+blake2s256 1024B evp             454439.59k
+blake2s256 8192B evp             487219.20k
+blake2s256 16384B evp             489324.54k
+blake2s256 32768B evp             490635.26k
+blake2s256 65536B evp             490689.88k
+blake2s256 131072B evp             491825.83k
+blake2s256 262144B evp             492044.29k
+blake2s256 524288B evp             491257.86k
+blake2s256 1048576B evp             490733.57k
+blake2s256 2097152B evp             491432.62k
+blake2s256 4194304B evp             492131.67k
+blake2s256 8388608B evp             492131.67k
+blake2s256 16777216B evp             490496.68k
+sha1 16B evp             103552.62k
+sha1 64B evp             335227.46k
+sha1 256B evp             820117.76k
+sha1 1024B evp            1293606.91k
+sha1 8192B evp            1552285.70k
+sha1 16384B evp            1575206.91k
+sha1 32768B evp            1586648.41k
+sha1 65536B evp            1591650.99k
+sha1 131072B evp            1594753.02k
+sha1 262144B evp            1596544.34k
+sha1 524288B evp            1597156.01k
+sha1 1048576B evp            1596282.20k
+sha1 2097152B evp            1597330.77k
+sha1 4194304B evp            1598029.82k
+sha1 8388608B evp            1599427.93k
+sha1 16777216B evp            1594114.21k
+sha224 16B evp             108605.60k
+sha224 64B evp             349499.03k
+sha224 256B evp             857149.27k
+sha224 1024B evp            1349177.34k
+sha224 8192B evp            1615489.71k
+sha224 16384B evp            1638438.23k
+sha224 32768B evp            1650262.02k
+sha224 65536B evp            1655308.29k
+sha224 131072B evp            1658847.23k
+sha224 262144B evp            1660420.10k
+sha224 524288B evp            1661119.15k
+sha224 1048576B evp            1659895.81k
+sha224 2097152B evp            1656123.02k
+sha224 4194304B evp            1662342.49k
+sha224 8388608B evp            1663740.59k
+sha224 16777216B evp            1661000.12k
+sha384 16B evp              64755.89k
+sha384 64B evp             260811.80k
+sha384 256B evp             506589.95k
+sha384 1024B evp             793657.00k
+sha384 8192B evp             951566.34k
+sha384 16384B evp             976939.69k
+sha384 32768B evp             992258.73k
+sha384 65536B evp             994770.94k
+sha384 131072B evp             989156.69k
+sha384 262144B evp             994486.95k
+sha384 524288B evp             999817.22k
+sha384 1048576B evp            1013972.99k
+sha384 2097152B evp            1015021.57k
+sha384 4194304B evp             998244.35k
+sha384 8388608B evp             987059.54k
+sha384 16777216B evp             986567.19k
+sha512 16B evp              64913.36k
+sha512 64B evp             259082.86k
+sha512 256B evp             510331.48k
+sha512 1024B evp             811190.61k
+sha512 8192B evp             980353.02k
+sha512 16384B evp             995693.91k
+sha512 32768B evp            1003836.76k
+sha512 65536B evp            1005912.06k
+sha512 131072B evp             996321.96k
+sha512 262144B evp             966699.69k
+sha512 524288B evp            1008031.06k
+sha512 1048576B evp            1013623.47k
+sha512 2097152B evp            1012924.42k
+sha512 4194304B evp             993534.47k
+sha512 8388608B evp             983780.27k
+sha512 16777216B evp             992141.01k
+sha512-224 16B evp              64889.95k
+sha512-224 64B evp             260795.09k
+sha512-224 256B evp             510815.49k
+sha512-224 1024B evp             812077.74k
+sha512-224 8192B evp             978493.44k
+sha512-224 16384B evp             992411.65k
+sha512-224 32768B evp            1000407.04k
+sha512-224 65536B evp            1005802.84k
+sha512-224 131072B evp            1002788.18k
+sha512-224 262144B evp             979457.37k
+sha512-224 524288B evp            1004535.81k
+sha512-224 1048576B evp            1010255.95k
+sha512-224 2097152B evp            1014322.52k
+sha512-224 4194304B evp             992651.95k
+sha512-224 8388608B evp             987059.54k
+sha512-224 16777216B evp             986567.19k
+sha512-256 16B evp              65147.95k
+sha512-256 64B evp             260482.79k
+sha512-256 256B evp             510562.82k
+sha512-256 1024B evp             810961.92k
+sha512-256 8192B evp             977122.65k
+sha512-256 16384B evp             988441.26k
+sha512-256 32768B evp            1002307.58k
+sha512-256 65536B evp            1005628.07k
+sha512-256 131072B evp            1001521.15k
+sha512-256 262144B evp             966088.02k
+sha512-256 524288B evp            1001040.55k
+sha512-256 1048576B evp            1013972.99k
+sha512-256 2097152B evp            1012924.42k
+sha512-256 4194304B evp             985661.44k
+sha512-256 8388608B evp             987059.54k
+sha512-256 16777216B evp             986567.19k
+sha3-224 16B evp              33579.02k
+sha3-224 64B evp             134211.05k
+sha3-224 256B evp             324392.53k
+sha3-224 1024B evp             383039.83k
+sha3-224 8192B evp             452952.06k
+sha3-224 16384B evp             454907.22k
+sha3-224 32768B evp             455857.49k
+sha3-224 65536B evp             456305.32k
+sha3-224 131072B evp             457266.52k
+sha3-224 262144B evp             457703.42k
+sha3-224 524288B evp             457878.19k
+sha3-224 1048576B evp             457528.66k
+sha3-224 2097152B evp             457878.19k
+sha3-224 4194304B evp             458577.24k
+sha3-224 8388608B evp             457053.72k
+sha3-224 16777216B evp             457053.72k
+sha3-256 16B evp              33730.85k
+sha3-256 64B evp             134677.53k
+sha3-256 256B evp             324857.77k
+sha3-256 1024B evp             383562.41k
+sha3-256 8192B evp             423881.39k
+sha3-256 16384B evp             429206.19k
+sha3-256 32768B evp             432046.08k
+sha3-256 65536B evp             432319.15k
+sha3-256 131072B evp             432712.36k
+sha3-256 262144B evp             432799.74k
+sha3-256 524288B evp             432887.13k
+sha3-256 1048576B evp             432712.36k
+sha3-256 2097152B evp             433411.41k
+sha3-256 4194304B evp             433411.41k
+sha3-256 8388608B evp             433411.41k
+sha3-256 16777216B evp             433318.82k
+sha3-512 16B evp              33597.95k
+sha3-512 64B evp             133934.23k
+sha3-512 256B evp             181863.34k
+sha3-512 1024B evp             211717.80k
+sha3-512 8192B evp             229859.33k
+sha3-512 16384B evp             230375.42k
+sha3-512 32768B evp             230741.33k
+sha3-512 65536B evp             231101.78k
+sha3-512 131072B evp             231298.39k
+sha3-512 262144B evp             231473.15k
+sha3-512 524288B evp             230617.05k
+sha3-512 1048576B evp             231385.77k
+sha3-512 2097152B evp             231385.77k
+sha3-512 4194304B evp             231313.78k
+sha3-512 8388608B evp             231313.78k
+sha3-512 16777216B evp             231790.48k
+shake128 16B evp              33278.23k
+shake128 64B evp             133247.08k
+shake128 256B evp             321982.12k
+shake128 1024B evp             431804.07k
+shake128 8192B evp             523446.95k
+shake128 16384B evp             526559.91k
+shake128 32768B evp             528220.16k
+shake128 65536B evp             530033.32k
+shake128 131072B evp             531278.51k
+shake128 262144B evp             531890.18k
+shake128 524288B evp             532152.32k
+shake128 1048576B evp             531628.03k
+shake128 2097152B evp             531977.56k
+shake128 4194304B evp             530906.92k
+shake128 8388608B evp             532300.37k
+shake128 16777216B evp             531555.36k
+shake256 16B evp              33328.61k
+shake256 64B evp             133432.53k
+shake256 256B evp             322925.91k
+shake256 1024B evp             382704.64k
+shake256 8192B evp             423780.35k
+shake256 16384B evp             429304.49k
+shake256 32768B evp             431958.70k
+shake256 65536B evp             432340.99k
+shake256 131072B evp             432668.67k
+shake256 262144B evp             432887.13k
+shake256 524288B evp             432887.13k
+shake256 1048576B evp             432712.36k
+shake256 2097152B evp             433411.41k
+shake256 4194304B evp             433411.41k
+shake256 8388608B evp             433411.41k
+shake256 16777216B evp             431888.73k
+mdc2 16B mdc2 64B mdc2 256B mdc2 1024B mdc2 8192B mdc2 16384B mdc2 32768B mdc2 65536B mdc2 131072B mdc2 262144B mdc2 524288B mdc2 1048576B mdc2 2097152B mdc2 4194304B mdc2 8388608B mdc2 16777216B ripemd160 16B ripemd160 64B ripemd160 256B ripemd160 1024B ripemd160 8192B ripemd160 16384B ripemd160 32768B ripemd160 65536B ripemd160 131072B ripemd160 262144B ripemd160 524288B ripemd160 1048576B ripemd160 2097152B ripemd160 4194304B ripemd160 8388608B ripemd160 16777216B whirlpool 16B whirlpool 64B whirlpool 256B whirlpool 1024B whirlpool 8192B whirlpool 16384B whirlpool 32768B whirlpool 65536B whirlpool 131072B whirlpool 262144B whirlpool 524288B whirlpool 1048576B whirlpool 2097152B whirlpool 4194304B whirlpool 8388608B whirlpool 16777216B sm3 16B evp              64993.01k
+sm3 64B evp             173296.45k
+sm3 256B evp             344925.95k
+sm3 1024B evp             455471.79k
+sm3 8192B evp             502393.51k
+sm3 16384B evp             506118.14k
+sm3 32768B evp             507947.69k
+sm3 65536B evp             508777.81k
+sm3 131072B evp             509345.79k
+sm3 262144B evp             509607.94k
+sm3 524288B evp             509782.70k
+sm3 1048576B evp             509607.94k
+sm3 2097152B evp             509607.94k
+sm3 4194304B evp             508611.61k
+sm3 8388608B evp             508316.31k
+sm3 16777216B evp             509407.22k
+des-ecb 16B evp                  0.00 
+des-ecb 64B evp                  0.00 
+des-ecb 256B evp                  0.00 
+des-ecb 1024B evp                  0.00 
+des-ecb 8192B evp                  0.00 
+des-ecb 16384B evp                  0.00 
+des-ecb 32768B evp                  0.00 
+des-ecb 65536B evp                  0.00 
+des-ecb 131072B evp                  0.00 
+des-ecb 262144B evp                  0.00 
+des-ecb 524288B evp                  0.00 
+des-ecb 1048576B evp                  0.00 
+des-ecb 2097152B evp                  0.00 
+des-ecb 4194304B evp                  0.00 
+des-ecb 8388608B evp                  0.00 
+des-ecb 16777216B evp                  0.00 
+des-ede 16B evp              29121.34k
+des-ede 64B evp              29499.24k
+des-ede 256B evp              29631.91k
+des-ede 1024B evp              29678.25k
+des-ede 8192B evp              29687.81k
+des-ede 16384B evp              29687.81k
+des-ede 32768B evp              29687.81k
+des-ede 65536B evp              29687.81k
+des-ede 131072B evp              29709.65k
+des-ede 262144B evp              29709.65k
+des-ede 524288B evp              29709.65k
+des-ede 1048576B evp              29709.65k
+des-ede 2097152B evp              29663.66k
+des-ede 4194304B evp              29575.22k
+des-ede 8388608B evp              29670.32k
+des-ede 16777216B evp              29694.19k
+des-ede3 16B evp              29120.46k
+des-ede3 64B evp              29508.14k
+des-ede3 256B evp              29636.78k
+des-ede3 1024B evp              29671.77k
+des-ede3 8192B evp              29685.08k
+des-ede3 16384B evp              29687.81k
+des-ede3 32768B evp              29676.89k
+des-ede3 65536B evp              29589.18k
+des-ede3 131072B evp              29709.65k
+des-ede3 262144B evp              29709.65k
+des-ede3 524288B evp              29709.65k
+des-ede3 1048576B evp              29709.65k
+des-ede3 2097152B evp              29663.66k
+des-ede3 4194304B evp              29575.22k
+des-ede3 8388608B evp              29575.22k
+des-ede3 16777216B evp              29694.19k
+des-ede-ecb 16B evp              29117.88k
+des-ede-ecb 64B evp              29498.97k
+des-ede-ecb 256B evp              29626.88k
+des-ede-ecb 1024B evp              29670.40k
+des-ede-ecb 8192B evp              29682.35k
+des-ede-ecb 16384B evp              29693.27k
+des-ede-ecb 32768B evp              29676.89k
+des-ede-ecb 65536B evp              29665.96k
+des-ede-ecb 131072B evp              29610.95k
+des-ede-ecb 262144B evp              29709.65k
+des-ede-ecb 524288B evp              29709.65k
+des-ede-ecb 1048576B evp              29610.95k
+des-ede-ecb 2097152B evp              29663.66k
+des-ede-ecb 4194304B evp              29766.03k
+des-ede-ecb 8388608B evp              29670.32k
+des-ede-ecb 16777216B evp              29694.19k
+des-ede3-ecb 16B evp              29131.35k
+des-ede3-ecb 64B evp              29507.29k
+des-ede3-ecb 256B evp              29632.51k
+des-ede3-ecb 1024B evp              29673.13k
+des-ede3-ecb 8192B evp              29685.08k
+des-ede3-ecb 16384B evp              29693.27k
+des-ede3-ecb 32768B evp              29676.89k
+des-ede3-ecb 65536B evp              29687.81k
+des-ede3-ecb 131072B evp              29709.65k
+des-ede3-ecb 262144B evp              29709.65k
+des-ede3-ecb 524288B evp              29709.65k
+des-ede3-ecb 1048576B evp              29709.65k
+des-ede3-ecb 2097152B evp              29663.66k
+des-ede3-ecb 4194304B evp              29670.32k
+des-ede3-ecb 8388608B evp              29670.32k
+des-ede3-ecb 16777216B evp              29606.85k
+des-cfb1 16B evp                  0.00 
+des-cfb1 64B evp                  0.00 
+des-cfb1 256B evp                  0.00 
+des-cfb1 1024B evp                  0.00 
+des-cfb1 8192B evp                  0.00 
+des-cfb1 16384B evp                  0.00 
+des-cfb1 32768B evp                  0.00 
+des-cfb1 65536B evp                  0.00 
+des-cfb1 131072B evp                  0.00 
+des-cfb1 262144B evp                  0.00 
+des-cfb1 524288B evp                  0.00 
+des-cfb1 1048576B evp                  0.00 
+des-cfb1 2097152B evp                  0.00 
+des-cfb1 4194304B evp                  0.00 
+des-cfb1 8388608B evp                  0.00 
+des-cfb1 16777216B evp                  0.00 
+des-cfb8 16B evp                  0.00 
+des-cfb8 64B evp                  0.00 
+des-cfb8 256B evp                  0.00 
+des-cfb8 1024B evp                  0.00 
+des-cfb8 8192B evp                  0.00 
+des-cfb8 16384B evp                  0.00 
+des-cfb8 32768B evp                  0.00 
+des-cfb8 65536B evp                  0.00 
+des-cfb8 131072B evp                  0.00 
+des-cfb8 262144B evp                  0.00 
+des-cfb8 524288B evp                  0.00 
+des-cfb8 1048576B evp                  0.00 
+des-cfb8 2097152B evp                  0.00 
+des-cfb8 4194304B evp                  0.00 
+des-cfb8 8388608B evp                  0.00 
+des-cfb8 16777216B evp                  0.00 
+des-ede3-cfb1 16B evp                420.91k
+des-ede3-cfb1 64B evp                422.27k
+des-ede3-cfb1 256B evp                421.29k
+des-ede3-cfb1 1024B evp                422.57k
+des-ede3-cfb1 8192B evp                423.25k
+des-ede3-cfb1 16384B evp                423.16k
+des-ede3-cfb1 32768B evp                421.77k
+des-ede3-cfb1 65536B evp                421.45k
+des-ede3-cfb1 131072B evp                421.45k
+des-ede3-cfb1 262144B evp                421.45k
+des-ede3-cfb1 524288B evp                421.68k
+des-ede3-cfb1 1048576B evp                419.43k
+des-ede3-cfb1 2097152B evp                421.11k
+des-ede3-cfb1 4194304B evp                420.69k
+des-ede3-cfb1 8388608B evp                421.11k
+des-ede3-cfb1 16777216B evp                421.01k
+des-ede3-cfb8 16B evp               3499.85k
+des-ede3-cfb8 64B evp               3502.57k
+des-ede3-cfb8 256B evp               3504.13k
+des-ede3-cfb8 1024B evp               3505.15k
+des-ede3-cfb8 8192B evp               3503.45k
+des-ede3-cfb8 16384B evp               3494.53k
+des-ede3-cfb8 32768B evp               3506.18k
+des-ede3-cfb8 65536B evp               3505.41k
+des-ede3-cfb8 131072B evp               3503.90k
+des-ede3-cfb8 262144B evp               3500.95k
+des-ede3-cfb8 524288B evp               3495.25k
+des-ede3-cfb8 1048576B evp               3495.25k
+des-ede3-cfb8 2097152B evp               3504.99k
+des-ede3-cfb8 4194304B evp               3504.99k
+des-ede3-cfb8 8388608B evp               3502.55k
+des-ede3-cfb8 16777216B evp               3502.55k
+des-ofb 16B evp                  0.00 
+des-ofb 64B evp                  0.00 
+des-ofb 256B evp                  0.00 
+des-ofb 1024B evp                  0.00 
+des-ofb 8192B evp                  0.00 
+des-ofb 16384B evp                  0.00 
+des-ofb 32768B evp                  0.00 
+des-ofb 65536B evp                  0.00 
+des-ofb 131072B evp                  0.00 
+des-ofb 262144B evp                  0.00 
+des-ofb 524288B evp                  0.00 
+des-ofb 1048576B evp                  0.00 
+des-ofb 2097152B evp                  0.00 
+des-ofb 4194304B evp                  0.00 
+des-ofb 8388608B evp                  0.00 
+des-ofb 16777216B evp                  0.00 
+des-ede-ofb 16B evp              28057.34k
+des-ede-ofb 64B evp              28242.07k
+des-ede-ofb 256B evp              28371.88k
+des-ede-ofb 1024B evp              28414.98k
+des-ede-ofb 8192B evp              28423.51k
+des-ede-ofb 16384B evp              28426.24k
+des-ede-ofb 32768B evp              28431.70k
+des-ede-ofb 65536B evp              28420.78k
+des-ede-ofb 131072B evp              28442.62k
+des-ede-ofb 262144B evp              28398.93k
+des-ede-ofb 524288B evp              28391.68k
+des-ede-ofb 1048576B evp              28471.27k
+des-ede-ofb 2097152B evp              28471.27k
+des-ede-ofb 4194304B evp              28413.03k
+des-ede-ofb 8388608B evp              28392.21k
+des-ede-ofb 16777216B evp              28435.96k
+des-ede3-ofb 16B evp              28048.49k
+des-ede3-ofb 64B evp              28232.73k
+des-ede3-ofb 256B evp              28379.22k
+des-ede3-ofb 1024B evp              28404.05k
+des-ede3-ofb 8192B evp              28418.05k
+des-ede3-ofb 16384B evp              28437.16k
+des-ede3-ofb 32768B evp              28431.70k
+des-ede3-ofb 65536B evp              28442.62k
+des-ede3-ofb 131072B evp              28348.13k
+des-ede3-ofb 262144B evp              28391.68k
+des-ede3-ofb 524288B evp              28391.68k
+des-ede3-ofb 1048576B evp              28377.30k
+des-ede3-ofb 2097152B evp              28377.30k
+des-ede3-ofb 4194304B evp              28321.67k
+des-ede3-ofb 8388608B evp              28392.21k
+des-ede3-ofb 16777216B evp              28435.96k
+des-cbc 16B evp                  0.00 
+des-cbc 64B evp                  0.00 
+des-cbc 256B evp                  0.00 
+des-cbc 1024B evp                  0.00 
+des-cbc 8192B evp                  0.00 
+des-cbc 16384B evp                  0.00 
+des-cbc 32768B evp                  0.00 
+des-cbc 65536B evp                  0.00 
+des-cbc 131072B evp                  0.00 
+des-cbc 262144B evp                  0.00 
+des-cbc 524288B evp                  0.00 
+des-cbc 1048576B evp                  0.00 
+des-cbc 2097152B evp                  0.00 
+des-cbc 4194304B evp                  0.00 
+des-cbc 8388608B evp                  0.00 
+des-cbc 16777216B evp                  0.00 
+des-ede-cbc 16B evp              27805.93k
+des-ede-cbc 64B evp              28106.01k
+des-ede-cbc 256B evp              28183.21k
+des-ede-cbc 1024B evp              28190.38k
+des-ede-cbc 8192B evp              28213.25k
+des-ede-cbc 16384B evp              28207.79k
+des-ede-cbc 32768B evp              28213.25k
+des-ede-cbc 65536B evp              28202.33k
+des-ede-cbc 131072B evp              28130.40k
+des-ede-cbc 262144B evp              28224.17k
+des-ede-cbc 524288B evp              28217.49k
+des-ede-cbc 1048576B evp              28217.49k
+des-ede-cbc 2097152B evp              28191.22k
+des-ede-cbc 4194304B evp              28140.70k
+des-ede-cbc 8388608B evp              28132.53k
+des-ede-cbc 16777216B evp              28118.24k
+des-ede3-cbc 16B evp              27803.62k
+des-ede3-cbc 64B evp              28104.90k
+des-ede3-cbc 256B evp              28175.53k
+des-ede3-cbc 1024B evp              28188.67k
+des-ede3-cbc 8192B evp              28207.79k
+des-ede3-cbc 16384B evp              28207.79k
+des-ede3-cbc 32768B evp              28213.25k
+des-ede3-cbc 65536B evp              28202.33k
+des-ede3-cbc 131072B evp              28224.17k
+des-ede3-cbc 262144B evp              28130.40k
+des-ede3-cbc 524288B evp              28124.06k
+des-ede3-cbc 1048576B evp              28217.49k
+des-ede3-cbc 2097152B evp              28191.22k
+des-ede3-cbc 4194304B evp              26043.06k
+des-ede3-cbc 8388608B evp              28132.53k
+des-ede3-cbc 16777216B evp              28118.24k
+desx-cbc 16B evp                  0.00 
+desx-cbc 64B evp                  0.00 
+desx-cbc 256B evp                  0.00 
+desx-cbc 1024B evp                  0.00 
+desx-cbc 8192B evp                  0.00 
+desx-cbc 16384B evp                  0.00 
+desx-cbc 32768B evp                  0.00 
+desx-cbc 65536B evp                  0.00 
+desx-cbc 131072B evp                  0.00 
+desx-cbc 262144B evp                  0.00 
+desx-cbc 524288B evp                  0.00 
+desx-cbc 1048576B evp                  0.00 
+desx-cbc 2097152B evp                  0.00 
+desx-cbc 4194304B evp                  0.00 
+desx-cbc 8388608B evp                  0.00 
+desx-cbc 16777216B evp                  0.00 
+rc4 16B evp                  0.00 
+rc4 64B evp                  0.00 
+rc4 256B evp                  0.00 
+rc4 1024B evp                  0.00 
+rc4 8192B evp                  0.00 
+rc4 16384B evp                  0.00 
+rc4 32768B evp                  0.00 
+rc4 65536B evp                  0.00 
+rc4 131072B evp                  0.00 
+rc4 262144B evp                  0.00 
+rc4 524288B evp                  0.00 
+rc4 1048576B evp                  0.00 
+rc4 2097152B evp                  0.00 
+rc4 4194304B evp                  0.00 
+rc4 8388608B evp                  0.00 
+rc4 16777216B evp                  0.00 
+rc4-40 16B evp                  0.00 
+rc4-40 64B evp                  0.00 
+rc4-40 256B evp                  0.00 
+rc4-40 1024B evp                  0.00 
+rc4-40 8192B evp                  0.00 
+rc4-40 16384B evp                  0.00 
+rc4-40 32768B evp                  0.00 
+rc4-40 65536B evp                  0.00 
+rc4-40 131072B evp                  0.00 
+rc4-40 262144B evp                  0.00 
+rc4-40 524288B evp                  0.00 
+rc4-40 1048576B evp                  0.00 
+rc4-40 2097152B evp                  0.00 
+rc4-40 4194304B evp                  0.00 
+rc4-40 8388608B evp                  0.00 
+rc4-40 16777216B evp                  0.00 
+rc4-hmac-md5 16B evp                  0.00 
+rc4-hmac-md5 64B evp                  0.00 
+rc4-hmac-md5 256B evp                  0.00 
+rc4-hmac-md5 1024B evp                  0.00 
+rc4-hmac-md5 8192B evp                  0.00 
+rc4-hmac-md5 16384B evp                  0.00 
+rc4-hmac-md5 32768B evp                  0.00 
+rc4-hmac-md5 65536B evp                  0.00 
+rc4-hmac-md5 131072B evp                  0.00 
+rc4-hmac-md5 262144B evp                  0.00 
+rc4-hmac-md5 524288B evp                  0.00 
+rc4-hmac-md5 1048576B evp                  0.00 
+rc4-hmac-md5 2097152B evp                  0.00 
+rc4-hmac-md5 4194304B evp                  0.00 
+rc4-hmac-md5 8388608B evp                  0.00 
+rc4-hmac-md5 16777216B evp                  0.00 
+idea-ecb 16B evp                  0.00 
+idea-ecb 64B evp                  0.00 
+idea-ecb 256B evp                  0.00 
+idea-ecb 1024B evp                  0.00 
+idea-ecb 8192B evp                  0.00 
+idea-ecb 16384B evp                  0.00 
+idea-ecb 32768B evp                  0.00 
+idea-ecb 65536B evp                  0.00 
+idea-ecb 131072B evp                  0.00 
+idea-ecb 262144B evp                  0.00 
+idea-ecb 524288B evp                  0.00 
+idea-ecb 1048576B evp                  0.00 
+idea-ecb 2097152B evp                  0.00 
+idea-ecb 4194304B evp                  0.00 
+idea-ecb 8388608B evp                  0.00 
+idea-ecb 16777216B evp                  0.00 
+idea-cfb64 16B idea-cfb64 64B idea-cfb64 256B idea-cfb64 1024B idea-cfb64 8192B idea-cfb64 16384B idea-cfb64 32768B idea-cfb64 65536B idea-cfb64 131072B idea-cfb64 262144B idea-cfb64 524288B idea-cfb64 1048576B idea-cfb64 2097152B idea-cfb64 4194304B idea-cfb64 8388608B idea-cfb64 16777216B idea-ofb 16B evp                  0.00 
+idea-ofb 64B evp                  0.00 
+idea-ofb 256B evp                  0.00 
+idea-ofb 1024B evp                  0.00 
+idea-ofb 8192B evp                  0.00 
+idea-ofb 16384B evp                  0.00 
+idea-ofb 32768B evp                  0.00 
+idea-ofb 65536B evp                  0.00 
+idea-ofb 131072B evp                  0.00 
+idea-ofb 262144B evp                  0.00 
+idea-ofb 524288B evp                  0.00 
+idea-ofb 1048576B evp                  0.00 
+idea-ofb 2097152B evp                  0.00 
+idea-ofb 4194304B evp                  0.00 
+idea-ofb 8388608B evp                  0.00 
+idea-ofb 16777216B evp                  0.00 
+idea-cbc 16B evp                  0.00 
+idea-cbc 64B evp                  0.00 
+idea-cbc 256B evp                  0.00 
+idea-cbc 1024B evp                  0.00 
+idea-cbc 8192B evp                  0.00 
+idea-cbc 16384B evp                  0.00 
+idea-cbc 32768B evp                  0.00 
+idea-cbc 65536B evp                  0.00 
+idea-cbc 131072B evp                  0.00 
+idea-cbc 262144B evp                  0.00 
+idea-cbc 524288B evp                  0.00 
+idea-cbc 1048576B evp                  0.00 
+idea-cbc 2097152B evp                  0.00 
+idea-cbc 4194304B evp                  0.00 
+idea-cbc 8388608B evp                  0.00 
+idea-cbc 16777216B evp                  0.00 
+rc2-ecb 16B evp                  0.00 
+rc2-ecb 64B evp                  0.00 
+rc2-ecb 256B evp                  0.00 
+rc2-ecb 1024B evp                  0.00 
+rc2-ecb 8192B evp                  0.00 
+rc2-ecb 16384B evp                  0.00 
+rc2-ecb 32768B evp                  0.00 
+rc2-ecb 65536B evp                  0.00 
+rc2-ecb 131072B evp                  0.00 
+rc2-ecb 262144B evp                  0.00 
+rc2-ecb 524288B evp                  0.00 
+rc2-ecb 1048576B evp                  0.00 
+rc2-ecb 2097152B evp                  0.00 
+rc2-ecb 4194304B evp                  0.00 
+rc2-ecb 8388608B evp                  0.00 
+rc2-ecb 16777216B evp                  0.00 
+rc2-cbc 16B evp                  0.00 
+rc2-cbc 64B evp                  0.00 
+rc2-cbc 256B evp                  0.00 
+rc2-cbc 1024B evp                  0.00 
+rc2-cbc 8192B evp                  0.00 
+rc2-cbc 16384B evp                  0.00 
+rc2-cbc 32768B evp                  0.00 
+rc2-cbc 65536B evp                  0.00 
+rc2-cbc 131072B evp                  0.00 
+rc2-cbc 262144B evp                  0.00 
+rc2-cbc 524288B evp                  0.00 
+rc2-cbc 1048576B evp                  0.00 
+rc2-cbc 2097152B evp                  0.00 
+rc2-cbc 4194304B evp                  0.00 
+rc2-cbc 8388608B evp                  0.00 
+rc2-cbc 16777216B evp                  0.00 
+rc2-40-cbc 16B evp                  0.00 
+rc2-40-cbc 64B evp                  0.00 
+rc2-40-cbc 256B evp                  0.00 
+rc2-40-cbc 1024B evp                  0.00 
+rc2-40-cbc 8192B evp                  0.00 
+rc2-40-cbc 16384B evp                  0.00 
+rc2-40-cbc 32768B evp                  0.00 
+rc2-40-cbc 65536B evp                  0.00 
+rc2-40-cbc 131072B evp                  0.00 
+rc2-40-cbc 262144B evp                  0.00 
+rc2-40-cbc 524288B evp                  0.00 
+rc2-40-cbc 1048576B evp                  0.00 
+rc2-40-cbc 2097152B evp                  0.00 
+rc2-40-cbc 4194304B evp                  0.00 
+rc2-40-cbc 8388608B evp                  0.00 
+rc2-40-cbc 16777216B evp                  0.00 
+rc2-64-cbc 16B evp                  0.00 
+rc2-64-cbc 64B evp                  0.00 
+rc2-64-cbc 256B evp                  0.00 
+rc2-64-cbc 1024B evp                  0.00 
+rc2-64-cbc 8192B evp                  0.00 
+rc2-64-cbc 16384B evp                  0.00 
+rc2-64-cbc 32768B evp                  0.00 
+rc2-64-cbc 65536B evp                  0.00 
+rc2-64-cbc 131072B evp                  0.00 
+rc2-64-cbc 262144B evp                  0.00 
+rc2-64-cbc 524288B evp                  0.00 
+rc2-64-cbc 1048576B evp                  0.00 
+rc2-64-cbc 2097152B evp                  0.00 
+rc2-64-cbc 4194304B evp                  0.00 
+rc2-64-cbc 8388608B evp                  0.00 
+rc2-64-cbc 16777216B evp                  0.00 
+rc2-ofb 16B evp                  0.00 
+rc2-ofb 64B evp                  0.00 
+rc2-ofb 256B evp                  0.00 
+rc2-ofb 1024B evp                  0.00 
+rc2-ofb 8192B evp                  0.00 
+rc2-ofb 16384B evp                  0.00 
+rc2-ofb 32768B evp                  0.00 
+rc2-ofb 65536B evp                  0.00 
+rc2-ofb 131072B evp                  0.00 
+rc2-ofb 262144B evp                  0.00 
+rc2-ofb 524288B evp                  0.00 
+rc2-ofb 1048576B evp                  0.00 
+rc2-ofb 2097152B evp                  0.00 
+rc2-ofb 4194304B evp                  0.00 
+rc2-ofb 8388608B evp                  0.00 
+rc2-ofb 16777216B evp                  0.00 
+bf-ecb 16B evp                  0.00 
+bf-ecb 64B evp                  0.00 
+bf-ecb 256B evp                  0.00 
+bf-ecb 1024B evp                  0.00 
+bf-ecb 8192B evp                  0.00 
+bf-ecb 16384B evp                  0.00 
+bf-ecb 32768B evp                  0.00 
+bf-ecb 65536B evp                  0.00 
+bf-ecb 131072B evp                  0.00 
+bf-ecb 262144B evp                  0.00 
+bf-ecb 524288B evp                  0.00 
+bf-ecb 1048576B evp                  0.00 
+bf-ecb 2097152B evp                  0.00 
+bf-ecb 4194304B evp                  0.00 
+bf-ecb 8388608B evp                  0.00 
+bf-ecb 16777216B evp                  0.00 
+bf-cbc 16B evp                  0.00 
+bf-cbc 64B evp                  0.00 
+bf-cbc 256B evp                  0.00 
+bf-cbc 1024B evp                  0.00 
+bf-cbc 8192B evp                  0.00 
+bf-cbc 16384B evp                  0.00 
+bf-cbc 32768B evp                  0.00 
+bf-cbc 65536B evp                  0.00 
+bf-cbc 131072B evp                  0.00 
+bf-cbc 262144B evp                  0.00 
+bf-cbc 524288B evp                  0.00 
+bf-cbc 1048576B evp                  0.00 
+bf-cbc 2097152B evp                  0.00 
+bf-cbc 4194304B evp                  0.00 
+bf-cbc 8388608B evp                  0.00 
+bf-cbc 16777216B evp                  0.00 
+bf-ofb 16B evp                  0.00 
+bf-ofb 64B evp                  0.00 
+bf-ofb 256B evp                  0.00 
+bf-ofb 1024B evp                  0.00 
+bf-ofb 8192B evp                  0.00 
+bf-ofb 16384B evp                  0.00 
+bf-ofb 32768B evp                  0.00 
+bf-ofb 65536B evp                  0.00 
+bf-ofb 131072B evp                  0.00 
+bf-ofb 262144B evp                  0.00 
+bf-ofb 524288B evp                  0.00 
+bf-ofb 1048576B evp                  0.00 
+bf-ofb 2097152B evp                  0.00 
+bf-ofb 4194304B evp                  0.00 
+bf-ofb 8388608B evp                  0.00 
+bf-ofb 16777216B evp                  0.00 
+cast5-ecb 16B evp                  0.00 
+cast5-ecb 64B evp                  0.00 
+cast5-ecb 256B evp                  0.00 
+cast5-ecb 1024B evp                  0.00 
+cast5-ecb 8192B evp                  0.00 
+cast5-ecb 16384B evp                  0.00 
+cast5-ecb 32768B evp                  0.00 
+cast5-ecb 65536B evp                  0.00 
+cast5-ecb 131072B evp                  0.00 
+cast5-ecb 262144B evp                  0.00 
+cast5-ecb 524288B evp                  0.00 
+cast5-ecb 1048576B evp                  0.00 
+cast5-ecb 2097152B evp                  0.00 
+cast5-ecb 4194304B evp                  0.00 
+cast5-ecb 8388608B evp                  0.00 
+cast5-ecb 16777216B evp                  0.00 
+cast5-cbc 16B evp                  0.00 
+cast5-cbc 64B evp                  0.00 
+cast5-cbc 256B evp                  0.00 
+cast5-cbc 1024B evp                  0.00 
+cast5-cbc 8192B evp                  0.00 
+cast5-cbc 16384B evp                  0.00 
+cast5-cbc 32768B evp                  0.00 
+cast5-cbc 65536B evp                  0.00 
+cast5-cbc 131072B evp                  0.00 
+cast5-cbc 262144B evp                  0.00 
+cast5-cbc 524288B evp                  0.00 
+cast5-cbc 1048576B evp                  0.00 
+cast5-cbc 2097152B evp                  0.00 
+cast5-cbc 4194304B evp                  0.00 
+cast5-cbc 8388608B evp                  0.00 
+cast5-cbc 16777216B evp                  0.00 
+cast5-ofb 16B evp                  0.00 
+cast5-ofb 64B evp                  0.00 
+cast5-ofb 256B evp                  0.00 
+cast5-ofb 1024B evp                  0.00 
+cast5-ofb 8192B evp                  0.00 
+cast5-ofb 16384B evp                  0.00 
+cast5-ofb 32768B evp                  0.00 
+cast5-ofb 65536B evp                  0.00 
+cast5-ofb 131072B evp                  0.00 
+cast5-ofb 262144B evp                  0.00 
+cast5-ofb 524288B evp                  0.00 
+cast5-ofb 1048576B evp                  0.00 
+cast5-ofb 2097152B evp                  0.00 
+cast5-ofb 4194304B evp                  0.00 
+cast5-ofb 8388608B evp                  0.00 
+cast5-ofb 16777216B evp                  0.00 
+aes-128-ecb 16B evp            1345231.16k
+aes-128-ecb 64B evp            3221462.02k
+aes-128-ecb 256B evp            6343576.06k
+aes-128-ecb 1024B evp            8042648.58k
+aes-128-ecb 8192B evp            8816746.50k
+aes-128-ecb 16384B evp            8873142.95k
+aes-128-ecb 32768B evp            8902464.85k
+aes-128-ecb 65536B evp            8810681.69k
+aes-128-ecb 131072B evp            8525621.93k
+aes-128-ecb 262144B evp            8536894.12k
+aes-128-ecb 524288B evp            8542748.67k
+aes-128-ecb 1048576B evp            8511640.92k
+aes-128-ecb 2097152B evp            8376724.14k
+aes-128-ecb 4194304B evp            8350859.26k
+aes-128-ecb 8388608B evp            8296333.31k
+aes-128-ecb 16777216B evp            8299129.51k
+aes-128-cbc 16B evp            1282249.03k
+aes-128-cbc 64B evp            1793317.87k
+aes-128-cbc 256B evp            1987236.35k
+aes-128-cbc 1024B evp            2041816.75k
+aes-128-cbc 8192B evp            2060640.26k
+aes-128-cbc 16384B evp            2061664.26k
+aes-128-cbc 32768B evp            2060855.98k
+aes-128-cbc 65536B evp            2058573.14k
+aes-128-cbc 131072B evp            2060976.13k
+aes-128-cbc 262144B evp            2055471.10k
+aes-128-cbc 524288B evp            2058704.21k
+aes-128-cbc 1048576B evp            2056607.06k
+aes-128-cbc 2097152B evp            2057306.11k
+aes-128-cbc 4194304B evp            2059403.26k
+aes-128-cbc 8388608B evp            2060801.37k
+aes-128-cbc 16777216B evp            2058005.16k
+aes-128-cfb1 16B evp               6146.06k
+aes-128-cfb1 64B evp               6166.98k
+aes-128-cfb1 256B evp               6178.13k
+aes-128-cfb1 1024B evp               6178.82k
+aes-128-cfb1 8192B evp               6153.53k
+aes-128-cfb1 16384B evp               6176.77k
+aes-128-cfb1 32768B evp               6182.23k
+aes-128-cfb1 65536B evp               6182.23k
+aes-128-cfb1 131072B evp               6183.46k
+aes-128-cfb1 262144B evp               6183.46k
+aes-128-cfb1 524288B evp               6188.32k
+aes-128-cfb1 1048576B evp               6168.09k
+aes-128-cfb1 2097152B evp               6168.09k
+aes-128-cfb1 4194304B evp               6186.29k
+aes-128-cfb1 8388608B evp               6168.09k
+aes-128-cfb1 16777216B evp               6168.09k
+aes-128-cfb8 16B evp              57270.69k
+aes-128-cfb8 64B evp              57102.70k
+aes-128-cfb8 256B evp              56963.75k
+aes-128-cfb8 1024B evp              57136.13k
+aes-128-cfb8 8192B evp              57139.20k
+aes-128-cfb8 16384B evp              57043.63k
+aes-128-cfb8 32768B evp              56819.71k
+aes-128-cfb8 65536B evp              56885.25k
+aes-128-cfb8 131072B evp              56972.63k
+aes-128-cfb8 262144B evp              57147.39k
+aes-128-cfb8 524288B evp              56957.53k
+aes-128-cfb8 1048576B evp              56783.35k
+aes-128-cfb8 2097152B evp              56754.61k
+aes-128-cfb8 4194304B evp              56754.61k
+aes-128-cfb8 8388608B evp              56643.33k
+aes-128-cfb8 16777216B evp              56784.42k
+aes-128-ctr 16B evp            1027026.64k
+aes-128-ctr 64B evp            2828569.13k
+aes-128-ctr 256B evp            5256159.83k
+aes-128-ctr 1024B evp            6366021.97k
+aes-128-ctr 8192B evp            7089255.77k
+aes-128-ctr 16384B evp            7223869.44k
+aes-128-ctr 32768B evp            7262961.66k
+aes-128-ctr 65536B evp            7219707.90k
+aes-128-ctr 131072B evp            6992079.53k
+aes-128-ctr 262144B evp            7000031.23k
+aes-128-ctr 524288B evp            7011478.19k
+aes-128-ctr 1048576B evp            6968137.05k
+aes-128-ctr 2097152B evp            6938776.92k
+aes-128-ctr 4194304B evp            6910814.89k
+aes-128-ctr 8388608B evp            6898231.98k
+aes-128-ctr 16777216B evp            6901028.18k
+aes-128-ccm 16B evp             360829.00k
+aes-128-ccm 64B evp             765132.86k
+aes-128-ccm 256B evp            1040117.59k
+aes-128-ccm 1024B evp            1140159.49k
+aes-128-ccm 8192B evp            1176406.70k
+aes-128-ccm 16384B evp            1177403.39k
+aes-128-ccm 32768B evp            1179254.78k
+aes-128-ccm 65536B evp            1179888.30k
+aes-128-ccm 131072B evp            1179953.83k
+aes-128-ccm 262144B evp            1180871.34k
+aes-128-ccm 524288B evp            1179997.53k
+aes-128-ccm 1048576B evp            1179648.00k
+aes-128-ccm 2097152B evp            1180696.58k
+aes-128-ccm 4194304B evp            1176077.27k
+aes-128-ccm 8388608B evp            1176077.27k
+aes-128-ccm 16777216B evp            1176077.27k
+aes-128-gcm 16B evp             647303.18k
+aes-128-gcm 64B evp            1825304.55k
+aes-128-gcm 256B evp            2828674.73k
+aes-128-gcm 1024B evp            4851895.98k
+aes-128-gcm 8192B evp            5643086.51k
+aes-128-gcm 16384B evp            5711964.84k
+aes-128-gcm 32768B evp            5738583.38k
+aes-128-gcm 65536B evp            5747834.88k
+aes-128-gcm 131072B evp            5707705.00k
+aes-128-gcm 262144B evp            5719457.79k
+aes-128-gcm 524288B evp            5724001.62k
+aes-128-gcm 1048576B evp            5674893.31k
+aes-128-gcm 2097152B evp            5626658.82k
+aes-128-gcm 4194304B evp            5606386.35k
+aes-128-gcm 8388608B evp            5592405.33k
+aes-128-gcm 16777216B evp            5586812.93k
+aes-128-xts 16B evp            1217349.49k
+aes-128-xts 64B evp            2003418.75k
+aes-128-xts 256B evp            4344434.01k
+aes-128-xts 1024B evp            5901748.57k
+aes-128-xts 8192B evp            6660797.78k
+aes-128-xts 16384B evp            6710433.11k
+aes-128-xts 32768B evp            6740235.61k
+aes-128-xts 65536B evp            6723491.16k
+aes-128-xts 131072B evp            6584461.10k
+aes-128-xts 262144B evp            6565658.62k
+aes-128-xts 524288B evp            6566357.67k
+aes-128-xts 1048576B evp            6516550.31k
+aes-128-xts 2097152B evp            6546609.49k
+aes-128-xts 4194304B evp            6541716.14k
+aes-128-xts 8388608B evp            6523540.82k
+aes-128-xts 16777216B evp            6537521.83k
+aes-128-ocb 16B evp             785603.87k
+aes-128-ocb 64B evp            1579880.30k
+aes-128-ocb 256B evp            2205297.32k
+aes-128-ocb 1024B evp            2347731.97k
+aes-128-ocb 8192B evp            2446734.68k
+aes-128-ocb 16384B evp            2453034.33k
+aes-128-ocb 32768B evp            2448151.89k
+aes-128-ocb 65536B evp            2449408.00k
+aes-128-ocb 131072B evp            2385728.85k
+aes-128-ocb 262144B evp            2392675.67k
+aes-128-ocb 524288B evp            2423259.14k
+aes-128-ocb 1048576B evp            2452269.74k
+aes-128-ocb 2097152B evp            2447376.38k
+aes-128-ocb 4194304B evp            2450871.64k
+aes-128-ocb 8388608B evp            2443881.13k
+aes-128-ocb 16777216B evp            2443881.13k
+aes-192-ecb 16B evp            1243758.95k
+aes-192-ecb 64B evp            2881474.28k
+aes-192-ecb 256B evp            5539411.97k
+aes-192-ecb 1024B evp            7272530.26k
+aes-192-ecb 8192B evp            7863123.97k
+aes-192-ecb 16384B evp            7923007.49k
+aes-192-ecb 32768B evp            7959631.19k
+aes-192-ecb 65536B evp            7739255.47k
+aes-192-ecb 131072B evp            7402509.65k
+aes-192-ecb 262144B evp            7438772.91k
+aes-192-ecb 524288B evp            7436151.47k
+aes-192-ecb 1048576B evp            7363100.67k
+aes-192-ecb 2097152B evp            7305778.52k
+aes-192-ecb 4194304B evp            7282709.85k
+aes-192-ecb 8388608B evp            7214202.88k
+aes-192-ecb 16777216B evp            7270126.93k
+aes-192-cbc 16B evp            1170537.33k
+aes-192-cbc 64B evp            1537815.45k
+aes-192-cbc 256B evp            1673155.07k
+aes-192-cbc 1024B evp            1712432.81k
+aes-192-cbc 8192B evp            1726903.64k
+aes-192-cbc 16384B evp            1725584.73k
+aes-192-cbc 32768B evp            1729538.73k
+aes-192-cbc 65536B evp            1729232.90k
+aes-192-cbc 131072B evp            1730499.93k
+aes-192-cbc 262144B evp            1729363.97k
+aes-192-cbc 524288B evp            1728752.30k
+aes-192-cbc 1048576B evp            1722312.21k
+aes-192-cbc 2097152B evp            1727354.20k
+aes-192-cbc 4194304B evp            1729451.35k
+aes-192-cbc 8388608B evp            1722312.21k
+aes-192-cbc 16777216B evp            1727886.03k
+aes-192-cfb1 16B evp               5717.15k
+aes-192-cfb1 64B evp               5720.30k
+aes-192-cfb1 256B evp               5724.33k
+aes-192-cfb1 1024B evp               5722.45k
+aes-192-cfb1 8192B evp               5709.82k
+aes-192-cfb1 16384B evp               5712.55k
+aes-192-cfb1 32768B evp               5712.55k
+aes-192-cfb1 65536B evp               5723.48k
+aes-192-cfb1 131072B evp               5723.48k
+aes-192-cfb1 262144B evp               5728.97k
+aes-192-cfb1 524288B evp               5710.07k
+aes-192-cfb1 1048576B evp               5713.39k
+aes-192-cfb1 2097152B evp               5719.51k
+aes-192-cfb1 4194304B evp               5714.31k
+aes-192-cfb1 8388608B evp               5719.51k
+aes-192-cfb1 16777216B evp               5716.26k
+aes-192-cfb8 16B evp              52470.40k
+aes-192-cfb8 64B evp              52303.98k
+aes-192-cfb8 256B evp              51912.53k
+aes-192-cfb8 1024B evp              52273.15k
+aes-192-cfb8 8192B evp              51912.70k
+aes-192-cfb8 16384B evp              52210.35k
+aes-192-cfb8 32768B evp              52068.35k
+aes-192-cfb8 65536B evp              51991.89k
+aes-192-cfb8 131072B evp              51904.51k
+aes-192-cfb8 262144B evp              52079.27k
+aes-192-cfb8 524288B evp              52080.44k
+aes-192-cfb8 1048576B evp              51557.89k
+aes-192-cfb8 2097152B evp              52081.59k
+aes-192-cfb8 4194304B evp              51557.89k
+aes-192-cfb8 8388608B evp              51916.47k
+aes-192-cfb8 16777216B evp              51941.85k
+aes-192-ofb 16B evp             982676.84k
+aes-192-ofb 64B evp            1221420.10k
+aes-192-ofb 256B evp            1210013.01k
+aes-192-ofb 1024B evp            1204410.03k
+aes-192-ofb 8192B evp            1202001.24k
+aes-192-ofb 16384B evp            1201810.09k
+aes-192-ofb 32768B evp            1201853.78k
+aes-192-ofb 65536B evp            1204311.38k
+aes-192-ofb 131072B evp            1202672.98k
+aes-192-ofb 262144B evp            1205250.73k
+aes-192-ofb 524288B evp            1203240.96k
+aes-192-ofb 1048576B evp            1200969.05k
+aes-192-ofb 2097152B evp            1200269.99k
+aes-192-ofb 4194304B evp            1200969.05k
+aes-192-ofb 8388608B evp            1202367.15k
+aes-192-ofb 16777216B evp            1198372.57k
+aes-192-ctr 16B evp             990460.12k
+aes-192-ctr 64B evp            2605103.72k
+aes-192-ctr 256B evp            4672956.42k
+aes-192-ctr 1024B evp            5937179.31k
+aes-192-ctr 8192B evp            6294353.24k
+aes-192-ctr 16384B evp            6294487.04k
+aes-192-ctr 32768B evp            6326004.39k
+aes-192-ctr 65536B evp            6244357.46k
+aes-192-ctr 131072B evp            6182098.26k
+aes-192-ctr 262144B evp            6185637.21k
+aes-192-ctr 524288B evp            6183277.91k
+aes-192-ctr 1048576B evp            6158985.90k
+aes-192-ctr 2097152B evp            6128577.19k
+aes-192-ctr 4194304B evp            6102712.32k
+aes-192-ctr 8388608B evp            6092925.61k
+aes-192-ctr 16777216B evp            6106906.62k
+aes-192-ccm 16B evp             334193.57k
+aes-192-ccm 64B evp             696503.91k
+aes-192-ccm 256B evp             944562.01k
+aes-192-ccm 1024B evp            1035226.11k
+aes-192-ccm 8192B evp            1072054.27k
+aes-192-ccm 16384B evp            1075063.47k
+aes-192-ccm 32768B evp            1074440.87k
+aes-192-ccm 65536B evp            1073807.36k
+aes-192-ccm 131072B evp            1076669.10k
+aes-192-ccm 262144B evp            1078635.18k
+aes-192-ccm 524288B evp            1078460.42k
+aes-192-ccm 1048576B evp            1077936.13k
+aes-192-ccm 2097152B evp            1076538.03k
+aes-192-ccm 4194304B evp            1079334.23k
+aes-192-ccm 8388608B evp            1076538.03k
+aes-192-ccm 16777216B evp            1075748.40k
+aes-192-gcm 16B evp             628355.05k
+aes-192-gcm 64B evp            1718637.42k
+aes-192-gcm 256B evp            2645254.49k
+aes-192-gcm 1024B evp            4593824.09k
+aes-192-gcm 8192B evp            5261374.81k
+aes-192-gcm 16384B evp            5327039.15k
+aes-192-gcm 32768B evp            5362308.44k
+aes-192-gcm 65536B evp            5361740.46k
+aes-192-gcm 131072B evp            5304090.62k
+aes-192-gcm 262144B evp            5311212.20k
+aes-192-gcm 524288B evp            5302648.83k
+aes-192-gcm 1048576B evp            5267696.30k
+aes-192-gcm 2097152B evp            5241481.90k
+aes-192-gcm 4194304B evp            5224704.68k
+aes-192-gcm 8388608B evp            5214917.97k
+aes-192-gcm 16777216B evp            5200379.58k
+aes-192-xts 16B aes-192-xts 64B aes-192-xts 256B aes-192-xts 1024B aes-192-xts 8192B aes-192-xts 16384B aes-192-xts 32768B aes-192-xts 65536B aes-192-xts 131072B aes-192-xts 262144B aes-192-xts 524288B aes-192-xts 1048576B aes-192-xts 2097152B aes-192-xts 4194304B aes-192-xts 8388608B aes-192-xts 16777216B aes-192-ocb 16B evp             730228.22k
+aes-192-ocb 64B evp            1465295.57k
+aes-192-ocb 256B evp            1975124.48k
+aes-192-ocb 1024B evp            2132449.28k
+aes-192-ocb 8192B evp            2140132.69k
+aes-192-ocb 16384B evp            2137817.09k
+aes-192-ocb 32768B evp            2186717.87k
+aes-192-ocb 65536B evp            2179268.61k
+aes-192-ocb 131072B evp            2175620.44k
+aes-192-ocb 262144B evp            2174397.10k
+aes-192-ocb 524288B evp            2098550.10k
+aes-192-ocb 1048576B evp            2170901.85k
+aes-192-ocb 2097152B evp            2170552.32k
+aes-192-ocb 4194304B evp            2175445.67k
+aes-192-ocb 8388608B evp            2175445.67k
+aes-192-ocb 16777216B evp            2173792.11k
+aes-256-ecb 16B evp            1129010.44k
+aes-256-ecb 64B evp            2601662.78k
+aes-256-ecb 256B evp            4696526.76k
+aes-256-ecb 1024B evp            6390946.47k
+aes-256-ecb 8192B evp            6876334.76k
+aes-256-ecb 16384B evp            6918378.84k
+aes-256-ecb 32768B evp            6947635.20k
+aes-256-ecb 65536B evp            6893731.84k
+aes-256-ecb 131072B evp            6531274.07k
+aes-256-ecb 262144B evp            6570289.83k
+aes-256-ecb 524288B evp            6540842.33k
+aes-256-ecb 1048576B evp            6514453.16k
+aes-256-ecb 2097152B evp            6417984.17k
+aes-256-ecb 4194304B evp            6390721.19k
+aes-256-ecb 8388608B evp            6378138.28k
+aes-256-ecb 16777216B evp            6370883.02k
+aes-256-cbc 16B evp            1064817.56k
+aes-256-cbc 64B evp            1326690.50k
+aes-256-cbc 256B evp            1430079.74k
+aes-256-cbc 1024B evp            1461066.07k
+aes-256-cbc 8192B evp            1467091.63k
+aes-256-cbc 16384B evp            1469546.50k
+aes-256-cbc 32768B evp            1469612.03k
+aes-256-cbc 65536B evp            1471173.97k
+aes-256-cbc 131072B evp            1469666.65k
+aes-256-cbc 262144B evp            1476657.15k
+aes-256-cbc 524288B evp            1474647.38k
+aes-256-cbc 1048576B evp            1470453.08k
+aes-256-cbc 2097152B evp            1472200.70k
+aes-256-cbc 4194304B evp            1472200.70k
+aes-256-cbc 8388608B evp            1473598.81k
+aes-256-cbc 16777216B evp            1476395.01k
+aes-256-cfb1 16B evp               5362.55k
+aes-256-cfb1 64B evp               5369.00k
+aes-256-cfb1 256B evp               5374.46k
+aes-256-cfb1 1024B evp               5372.59k
+aes-256-cfb1 8192B evp               5352.11k
+aes-256-cfb1 16384B evp               5357.57k
+aes-256-cfb1 32768B evp               5345.21k
+aes-256-cfb1 65536B evp               5356.10k
+aes-256-cfb1 131072B evp               5356.10k
+aes-256-cfb1 262144B evp               5346.36k
+aes-256-cfb1 524288B evp               5346.36k
+aes-256-cfb1 1048576B evp               5360.13k
+aes-256-cfb1 2097152B evp               5360.13k
+aes-256-cfb1 4194304B evp               5360.13k
+aes-256-cfb1 8388608B evp               5360.13k
+aes-256-cfb1 16777216B evp               5343.06k
+aes-256-cfb8 16B evp              48261.75k
+aes-256-cfb8 64B evp              48542.74k
+aes-256-cfb8 256B evp              48619.78k
+aes-256-cfb8 1024B evp              48645.80k
+aes-256-cfb8 8192B evp              48439.30k
+aes-256-cfb8 16384B evp              48693.25k
+aes-256-cfb8 32768B evp              42926.08k
+aes-256-cfb8 65536B evp              48715.09k
+aes-256-cfb8 131072B evp              48553.25k
+aes-256-cfb8 262144B evp              48758.78k
+aes-256-cfb8 524288B evp              48758.78k
+aes-256-cfb8 1048576B evp              48609.48k
+aes-256-cfb8 2097152B evp              48609.48k
+aes-256-cfb8 4194304B evp              48609.48k
+aes-256-cfb8 8388608B evp              48551.43k
+aes-256-cfb8 16777216B evp              48708.05k
+aes-256-ofb 16B evp             941604.04k
+aes-256-ofb 64B evp            1097417.17k
+aes-256-ofb 256B evp            1082676.48k
+aes-256-ofb 1024B evp            1074810.20k
+aes-256-ofb 8192B evp            1072865.28k
+aes-256-ofb 16384B evp            1072742.40k
+aes-256-ofb 32768B evp            1072682.33k
+aes-256-ofb 65536B evp            1072212.65k
+aes-256-ofb 131072B evp            1072343.72k
+aes-256-ofb 262144B evp            1072343.72k
+aes-256-ofb 524288B evp            1072518.49k
+aes-256-ofb 1048576B evp            1071295.15k
+aes-256-ofb 2097152B evp            1072343.72k
+aes-256-ofb 4194304B evp            1072343.72k
+aes-256-ofb 8388608B evp            1070174.58k
+aes-256-ofb 16777216B evp            1073741.82k
+aes-256-ctr 16B evp             948383.81k
+aes-256-ctr 64B evp            2391116.95k
+aes-256-ctr 256B evp            4176499.80k
+aes-256-ctr 1024B evp            5410202.62k
+aes-256-ctr 8192B evp            5865532.07k
+aes-256-ctr 16384B evp            5876618.58k
+aes-256-ctr 32768B evp            5917747.88k
+aes-256-ctr 65536B evp            5829339.82k
+aes-256-ctr 131072B evp            5572351.32k
+aes-256-ctr 262144B evp            5586376.02k
+aes-256-ctr 524288B evp            5581570.05k
+aes-256-ctr 1048576B evp            5538927.96k
+aes-256-ctr 2097152B evp            5495936.34k
+aes-256-ctr 4194304B evp            5462349.40k
+aes-256-ctr 8388608B evp            5460983.81k
+aes-256-ctr 16777216B evp            5469372.42k
+aes-256-ccm 16B evp             310078.03k
+aes-256-ccm 64B evp             635958.17k
+aes-256-ccm 256B evp             864209.15k
+aes-256-ccm 1024B evp             947658.07k
+aes-256-ccm 8192B evp             980557.82k
+aes-256-ccm 16384B evp             981887.66k
+aes-256-ccm 32768B evp             982963.54k
+aes-256-ccm 65536B evp             984066.73k
+aes-256-ccm 131072B evp             984612.86k
+aes-256-ccm 262144B evp             983651.67k
+aes-256-ccm 524288B evp             984438.10k
+aes-256-ccm 1048576B evp             983564.29k
+aes-256-ccm 2097152B evp             984962.39k
+aes-256-ccm 4194304B evp             984263.34k
+aes-256-ccm 8388608B evp             980993.36k
+aes-256-ccm 16777216B evp             980993.36k
+aes-256-gcm 16B evp             583035.09k
+aes-256-gcm 64B evp            1617862.36k
+aes-256-gcm 256B evp            2482679.21k
+aes-256-gcm 1024B evp            4224812.03k
+aes-256-gcm 8192B evp            4823621.63k
+aes-256-gcm 16384B evp            4872623.45k
+aes-256-gcm 32768B evp            4897112.06k
+aes-256-gcm 65536B evp            4896937.30k
+aes-256-gcm 131072B evp            4888417.62k
+aes-256-gcm 262144B evp            4899820.89k
+aes-256-gcm 524288B evp            4891257.51k
+aes-256-gcm 1048576B evp            4836032.51k
+aes-256-gcm 2097152B evp            4855605.93k
+aes-256-gcm 4194304B evp            4833236.31k
+aes-256-gcm 8388608B evp            4831838.21k
+aes-256-gcm 16777216B evp            4815060.99k
+aes-256-xts 16B evp             925340.18k
+aes-256-xts 64B evp            1644525.44k
+aes-256-xts 256B evp            3487666.86k
+aes-256-xts 1024B evp            4701649.58k
+aes-256-xts 8192B evp            5364386.47k
+aes-256-xts 16384B evp            5410384.55k
+aes-256-xts 32768B evp            5435577.69k
+aes-256-xts 65536B evp            5413317.29k
+aes-256-xts 131072B evp            5308022.78k
+aes-256-xts 262144B evp            5309464.58k
+aes-256-xts 524288B evp            5311736.49k
+aes-256-xts 1048576B evp            5245326.68k
+aes-256-xts 2097152B evp            5277832.53k
+aes-256-xts 4194304B evp            5275036.33k
+aes-256-xts 8388608B evp            5265249.62k
+aes-256-xts 16777216B evp            5205953.40k
+aes-256-ocb 16B evp             691203.27k
+aes-256-ocb 64B evp            1379827.07k
+aes-256-ocb 256B evp            1811356.76k
+aes-256-ocb 1024B evp            1933251.24k
+aes-256-ocb 8192B evp            1975088.47k
+aes-256-ocb 16384B evp            1979187.20k
+aes-256-ocb 32768B evp            1991344.13k
+aes-256-ocb 65536B evp            1992731.31k
+aes-256-ocb 131072B evp            1976827.90k
+aes-256-ocb 262144B evp            1949477.55k
+aes-256-ocb 524288B evp            1972196.69k
+aes-256-ocb 1048576B evp            1978662.91k
+aes-256-ocb 2097152B evp            1973134.37k
+aes-256-ocb 4194304B evp            1974119.08k
+aes-256-ocb 8388608B evp            1937768.45k
+aes-256-ocb 16777216B evp            1940564.65k
+aria-128-ecb 16B evp             124710.58k
+aria-128-ecb 64B evp             131935.68k
+aria-128-ecb 256B evp             133840.81k
+aria-128-ecb 1024B evp             134345.73k
+aria-128-ecb 8192B evp             134755.67k
+aria-128-ecb 16384B evp             134840.32k
+aria-128-ecb 32768B evp             134676.48k
+aria-128-ecb 65536B evp             134807.55k
+aria-128-ecb 131072B evp             134567.25k
+aria-128-ecb 262144B evp             134742.02k
+aria-128-ecb 524288B evp             134294.37k
+aria-128-ecb 1048576B evp             134468.55k
+aria-128-ecb 2097152B evp             134468.55k
+aria-128-ecb 4194304B evp             134273.10k
+aria-128-ecb 8388608B evp             134327.38k
+aria-128-ecb 16777216B evp             134865.08k
+aria-128-cbc 16B evp             115542.18k
+aria-128-cbc 64B evp             124710.08k
+aria-128-cbc 256B evp             127238.23k
+aria-128-cbc 1024B evp             128195.93k
+aria-128-cbc 8192B evp             128494.25k
+aria-128-cbc 16384B evp             128494.25k
+aria-128-cbc 32768B evp             128352.26k
+aria-128-cbc 65536B evp             128089.13k
+aria-128-cbc 131072B evp             128537.94k
+aria-128-cbc 262144B evp             128537.94k
+aria-128-cbc 524288B evp             128450.56k
+aria-128-cbc 1048576B evp             128625.32k
+aria-128-cbc 2097152B evp             128625.32k
+aria-128-cbc 4194304B evp             128198.00k
+aria-128-cbc 8388608B evp             128198.00k
+aria-128-cbc 16777216B evp             128625.32k
+aria-128-cfb1 16B evp                986.88k
+aria-128-cfb1 64B evp                986.71k
+aria-128-cfb1 256B evp                987.14k
+aria-128-cfb1 1024B evp                988.84k
+aria-128-cfb1 8192B evp                982.50k
+aria-128-cfb1 16384B evp                985.22k
+aria-128-cfb1 32768B evp                984.12k
+aria-128-cfb1 65536B evp                981.97k
+aria-128-cfb1 131072B evp                985.18k
+aria-128-cfb1 262144B evp                986.12k
+aria-128-cfb1 524288B evp                992.34k
+aria-128-cfb1 1048576B evp                986.12k
+aria-128-cfb1 2097152B evp                986.90k
+aria-128-cfb1 4194304B evp                986.90k
+aria-128-cfb1 8388608B evp                986.90k
+aria-128-cfb1 16777216B evp                985.74k
+aria-128-cfb8 16B evp               7765.18k
+aria-128-cfb8 64B evp               7773.35k
+aria-128-cfb8 256B evp               7774.38k
+aria-128-cfb8 1024B evp               7774.89k
+aria-128-cfb8 8192B evp               7776.94k
+aria-128-cfb8 16384B evp               7782.40k
+aria-128-cfb8 32768B evp               7787.86k
+aria-128-cfb8 65536B evp               7776.94k
+aria-128-cfb8 131072B evp               7768.84k
+aria-128-cfb8 262144B evp               7776.94k
+aria-128-cfb8 524288B evp               7786.46k
+aria-128-cfb8 1048576B evp               7779.76k
+aria-128-cfb8 2097152B evp               7767.23k
+aria-128-cfb8 4194304B evp               7791.28k
+aria-128-cfb8 8388608B evp               7767.23k
+aria-128-cfb8 16777216B evp               7767.23k
+aria-128-ctr 16B evp             117493.30k
+aria-128-ctr 64B evp             123363.46k
+aria-128-ctr 256B evp             125068.37k
+aria-128-ctr 1024B evp             125299.37k
+aria-128-ctr 8192B evp             125566.98k
+aria-128-ctr 16384B evp             125392.21k
+aria-128-ctr 32768B evp             124966.23k
+aria-128-ctr 65536B evp             125173.76k
+aria-128-ctr 131072B evp             125304.83k
+aria-128-ctr 262144B evp             125304.83k
+aria-128-ctr 524288B evp             125479.59k
+aria-128-ctr 1048576B evp             125479.59k
+aria-128-ctr 2097152B evp             124714.35k
+aria-128-ctr 4194304B evp             125411.08k
+aria-128-ctr 8388608B evp             124173.47k
+aria-128-ctr 16777216B evp             125284.41k
+aria-128-ofb 16B evp             121454.57k
+aria-128-ofb 64B evp             128824.32k
+aria-128-ofb 256B evp             130627.84k
+aria-128-ofb 1024B evp             131655.23k
+aria-128-ofb 8192B evp             131429.72k
+aria-128-ofb 16384B evp             131421.53k
+aria-128-ofb 32768B evp             131345.07k
+aria-128-ofb 65536B evp             131334.14k
+aria-128-ofb 131072B evp             131290.45k
+aria-128-ofb 262144B evp             130897.82k
+aria-128-ofb 524288B evp             131246.76k
+aria-128-ofb 1048576B evp             131421.53k
+aria-128-ofb 2097152B evp             131421.53k
+aria-128-ofb 4194304B evp             131421.53k
+aria-128-ofb 8388608B evp             130984.91k
+aria-128-ofb 16777216B evp             130731.55k
+aria-128-gcm 16B evp             118373.37k
+aria-128-gcm 64B evp             128367.70k
+aria-128-gcm 256B evp             128927.40k
+aria-128-gcm 1024B evp             128584.36k
+aria-128-gcm 8192B evp             129944.23k
+aria-128-gcm 16384B evp             130236.42k
+aria-128-gcm 32768B evp             130165.42k
+aria-128-gcm 65536B evp             130132.65k
+aria-128-gcm 131072B evp             130241.88k
+aria-128-gcm 262144B evp             130285.57k
+aria-128-gcm 524288B evp             128894.72k
+aria-128-gcm 1048576B evp             129939.82k
+aria-128-gcm 2097152B evp             130288.18k
+aria-128-gcm 4194304B evp             128736.06k
+aria-128-gcm 8388608B evp             130120.32k
+aria-128-gcm 16777216B evp             130308.47k
+aria-128-ccm 16B evp              30628.71k
+aria-128-ccm 64B evp              50811.24k
+aria-128-ccm 256B evp              61305.09k
+aria-128-ccm 1024B evp              64273.41k
+aria-128-ccm 8192B evp              65265.66k
+aria-128-ccm 16384B evp              65344.85k
+aria-128-ccm 32768B evp              65645.23k
+aria-128-ccm 65536B evp              65404.93k
+aria-128-ccm 131072B evp              65361.24k
+aria-128-ccm 262144B evp              65448.62k
+aria-128-ccm 524288B evp              65536.00k
+aria-128-ccm 1048576B evp              65361.24k
+aria-128-ccm 2097152B evp              65710.76k
+aria-128-ccm 4194304B evp              65275.59k
+aria-128-ccm 8388608B evp              65578.69k
+aria-128-ccm 16777216B evp              64527.75k
+aria-192-ecb 16B evp             107828.19k
+aria-192-ecb 64B evp             112673.26k
+aria-192-ecb 256B evp             113903.45k
+aria-192-ecb 1024B evp             114177.71k
+aria-192-ecb 8192B evp             114335.74k
+aria-192-ecb 16384B evp             114376.70k
+aria-192-ecb 32768B evp             114382.17k
+aria-192-ecb 65536B evp             113958.61k
+aria-192-ecb 131072B evp             114294.78k
+aria-192-ecb 262144B evp             114294.78k
+aria-192-ecb 524288B evp             114294.78k
+aria-192-ecb 1048576B evp             114294.78k
+aria-192-ecb 2097152B evp             114263.43k
+aria-192-ecb 4194304B evp             114263.43k
+aria-192-ecb 8388608B evp             114263.43k
+aria-192-ecb 16777216B evp             114390.11k
+aria-192-cbc 16B evp             101313.73k
+aria-192-cbc 64B evp             107850.41k
+aria-192-cbc 256B evp             110012.59k
+aria-192-cbc 1024B evp             110454.10k
+aria-192-cbc 8192B evp             110613.85k
+aria-192-cbc 16384B evp             109494.27k
+aria-192-cbc 32768B evp             110635.69k
+aria-192-cbc 65536B evp             110624.77k
+aria-192-cbc 131072B evp             110624.77k
+aria-192-cbc 262144B evp             110624.77k
+aria-192-cbc 524288B evp             110624.77k
+aria-192-cbc 1048576B evp             110799.53k
+aria-192-cbc 2097152B evp             110412.97k
+aria-192-cbc 4194304B evp             110376.42k
+aria-192-cbc 8388608B evp             110376.42k
+aria-192-cbc 16777216B evp             110740.70k
+aria-192-cfb1 16B evp                851.23k
+aria-192-cfb1 64B evp                848.79k
+aria-192-cfb1 256B evp                849.24k
+aria-192-cfb1 1024B evp                854.02k
+aria-192-cfb1 8192B evp                851.97k
+aria-192-cfb1 16384B evp                851.97k
+aria-192-cfb1 32768B evp                843.53k
+aria-192-cfb1 65536B evp                851.97k
+aria-192-cfb1 131072B evp                853.89k
+aria-192-cfb1 262144B evp                853.89k
+aria-192-cfb1 524288B evp                856.68k
+aria-192-cfb1 1048576B evp                852.50k
+aria-192-cfb1 2097152B evp                852.50k
+aria-192-cfb1 4194304B evp                845.63k
+aria-192-cfb1 8388608B evp                851.64k
+aria-192-cfb1 16777216B evp                852.07k
+aria-192-cfb8 16B evp               6704.91k
+aria-192-cfb8 64B evp               6703.34k
+aria-192-cfb8 256B evp               6708.82k
+aria-192-cfb8 1024B evp               6710.95k
+aria-192-cfb8 8192B evp               6709.25k
+aria-192-cfb8 16384B evp               6711.98k
+aria-192-cfb8 32768B evp               6717.44k
+aria-192-cfb8 65536B evp               6728.36k
+aria-192-cfb8 131072B evp               6706.01k
+aria-192-cfb8 262144B evp               6706.01k
+aria-192-cfb8 524288B evp               6726.06k
+aria-192-cfb8 1048576B evp               6721.64k
+aria-192-cfb8 2097152B evp               6700.17k
+aria-192-cfb8 4194304B evp               6700.17k
+aria-192-cfb8 8388608B evp               6710.89k
+aria-192-cfb8 16777216B evp               6710.89k
+aria-192-ctr 16B evp             102919.30k
+aria-192-ctr 64B evp             106525.06k
+aria-192-ctr 256B evp             108074.15k
+aria-192-ctr 1024B evp             108435.80k
+aria-192-ctr 8192B evp             107861.33k
+aria-192-ctr 16384B evp             108494.85k
+aria-192-ctr 32768B evp             108210.86k
+aria-192-ctr 65536B evp             108134.40k
+aria-192-ctr 131072B evp             108309.16k
+aria-192-ctr 262144B evp             108178.09k
+aria-192-ctr 524288B evp             108352.85k
+aria-192-ctr 1048576B evp             108352.85k
+aria-192-ctr 2097152B evp             108352.85k
+aria-192-ctr 4194304B evp             107617.01k
+aria-192-ctr 8388608B evp             108329.71k
+aria-192-ctr 16777216B evp             108240.10k
+aria-192-ofb 16B evp             105012.54k
+aria-192-ofb 64B evp             110823.17k
+aria-192-ofb 256B evp             112244.31k
+aria-192-ofb 1024B evp             112603.14k
+aria-192-ofb 8192B evp             112686.42k
+aria-192-ofb 16384B evp             112869.38k
+aria-192-ofb 32768B evp             112918.53k
+aria-192-ofb 65536B evp             112874.84k
+aria-192-ofb 131072B evp             112852.99k
+aria-192-ofb 262144B evp             112809.30k
+aria-192-ofb 524288B evp             112896.68k
+aria-192-ofb 1048576B evp             112896.68k
+aria-192-ofb 2097152B evp             112869.97k
+aria-192-ofb 4194304B evp             112869.97k
+aria-192-ofb 8388608B evp             112764.89k
+aria-192-ofb 16777216B evp             112923.57k
+aria-192-gcm 16B evp             103386.49k
+aria-192-gcm 64B evp             110549.46k
+aria-192-gcm 256B evp             111343.27k
+aria-192-gcm 1024B evp             111304.36k
+aria-192-gcm 8192B evp             111626.92k
+aria-192-gcm 16384B evp             111875.41k
+aria-192-gcm 32768B evp             111749.80k
+aria-192-gcm 65536B evp             111891.80k
+aria-192-gcm 131072B evp             111848.11k
+aria-192-gcm 262144B evp             111848.11k
+aria-192-gcm 524288B evp             111848.11k
+aria-192-gcm 1048576B evp             111848.11k
+aria-192-gcm 2097152B evp             111848.11k
+aria-192-gcm 4194304B evp             111848.11k
+aria-192-gcm 8388608B evp             111848.11k
+aria-192-gcm 16777216B evp             111848.11k
+aria-192-ccm 16B evp              26549.19k
+aria-192-ccm 64B evp              43821.48k
+aria-192-ccm 256B evp              52597.93k
+aria-192-ccm 1024B evp              54358.36k
+aria-192-ccm 8192B evp              56169.81k
+aria-192-ccm 16384B evp              55459.84k
+aria-192-ccm 32768B evp              56240.81k
+aria-192-ccm 65536B evp              56273.58k
+aria-192-ccm 131072B evp              56273.58k
+aria-192-ccm 262144B evp              56360.96k
+aria-192-ccm 524288B evp              56273.58k
+aria-192-ccm 1048576B evp              56273.58k
+aria-192-ccm 2097152B evp              56248.12k
+aria-192-ccm 4194304B evp              56198.19k
+aria-192-ccm 8388608B evp              56281.40k
+aria-192-ccm 16777216B evp              56265.05k
+aria-256-ecb 16B evp              95152.87k
+aria-256-ecb 64B evp              99178.54k
+aria-256-ecb 256B evp             100244.14k
+aria-256-ecb 1024B evp             100662.61k
+aria-256-ecb 8192B evp             100838.06k
+aria-256-ecb 16384B evp             100827.14k
+aria-256-ecb 32768B evp             100892.67k
+aria-256-ecb 65536B evp             100728.83k
+aria-256-ecb 131072B evp             100794.37k
+aria-256-ecb 262144B evp             100838.06k
+aria-256-ecb 524288B evp             100503.05k
+aria-256-ecb 1048576B evp             100663.30k
+aria-256-ecb 2097152B evp             100691.07k
+aria-256-ecb 4194304B evp             100663.30k
+aria-256-ecb 8388608B evp             100772.24k
+aria-256-ecb 16777216B evp             100663.30k
+aria-256-cbc 16B evp              89175.43k
+aria-256-cbc 64B evp              94968.60k
+aria-256-cbc 256B evp              96659.88k
+aria-256-cbc 1024B evp              96974.85k
+aria-256-cbc 8192B evp              97146.20k
+aria-256-cbc 16384B evp              97162.58k
+aria-256-cbc 32768B evp              97222.66k
+aria-256-cbc 65536B evp              97189.89k
+aria-256-cbc 131072B evp              97168.04k
+aria-256-cbc 262144B evp              97168.04k
+aria-256-cbc 524288B evp              97168.04k
+aria-256-cbc 1048576B evp              97168.04k
+aria-256-cbc 2097152B evp              96845.23k
+aria-256-cbc 4194304B evp              97218.97k
+aria-256-cbc 8388608B evp              96898.11k
+aria-256-cbc 16777216B evp              97102.86k
+aria-256-cfb1 16B evp                745.26k
+aria-256-cfb1 64B evp                744.85k
+aria-256-cfb1 256B evp                749.14k
+aria-256-cfb1 1024B evp                748.89k
+aria-256-cfb1 8192B evp                748.20k
+aria-256-cfb1 16384B evp                748.67k
+aria-256-cfb1 32768B evp                748.67k
+aria-256-cfb1 65536B evp                749.59k
+aria-256-cfb1 131072B evp                746.61k
+aria-256-cfb1 262144B evp                748.98k
+aria-256-cfb1 524288B evp                751.13k
+aria-256-cfb1 1048576B evp                748.98k
+aria-256-cfb1 2097152B evp                748.98k
+aria-256-cfb1 4194304B evp                747.65k
+aria-256-cfb1 8388608B evp                748.31k
+aria-256-cfb1 16777216B evp                748.98k
+aria-256-cfb8 16B evp               5923.26k
+aria-256-cfb8 64B evp               5925.31k
+aria-256-cfb8 256B evp               5927.85k
+aria-256-cfb8 1024B evp               5931.01k
+aria-256-cfb8 8192B evp               5931.01k
+aria-256-cfb8 16384B evp               5931.01k
+aria-256-cfb8 32768B evp               5931.01k
+aria-256-cfb8 65536B evp               5922.19k
+aria-256-cfb8 131072B evp               5922.19k
+aria-256-cfb8 262144B evp               5922.19k
+aria-256-cfb8 524288B evp               5922.19k
+aria-256-cfb8 1048576B evp               5922.19k
+aria-256-cfb8 2097152B evp               5935.34k
+aria-256-cfb8 4194304B evp               5924.16k
+aria-256-cfb8 8388608B evp               5935.34k
+aria-256-cfb8 16777216B evp               5928.34k
+aria-256-ctr 16B evp              90781.62k
+aria-256-ctr 64B evp              94173.31k
+aria-256-ctr 256B evp              95190.27k
+aria-256-ctr 1024B evp              95318.70k
+aria-256-ctr 8192B evp              95453.18k
+aria-256-ctr 16384B evp              95458.65k
+aria-256-ctr 32768B evp              95376.73k
+aria-256-ctr 65536B evp              95333.03k
+aria-256-ctr 131072B evp              95289.34k
+aria-256-ctr 262144B evp              95333.03k
+aria-256-ctr 524288B evp              95420.42k
+aria-256-ctr 1048576B evp              95103.40k
+aria-256-ctr 2097152B evp              95135.70k
+aria-256-ctr 4194304B evp              95199.66k
+aria-256-ctr 8388608B evp              95325.09k
+aria-256-ctr 16777216B evp              95264.95k
+aria-256-ofb 16B evp              93137.69k
+aria-256-ofb 64B evp              97258.15k
+aria-256-ofb 256B evp              98382.93k
+aria-256-ofb 1024B evp              98708.82k
+aria-256-ofb 8192B evp              98852.86k
+aria-256-ofb 16384B evp              98839.21k
+aria-256-ofb 32768B evp              98850.13k
+aria-256-ofb 65536B evp              98806.44k
+aria-256-ofb 131072B evp              98828.29k
+aria-256-ofb 262144B evp              98740.91k
+aria-256-ofb 524288B evp              98587.05k
+aria-256-ofb 1048576B evp              98587.05k
+aria-256-ofb 2097152B evp              98607.81k
+aria-256-ofb 4194304B evp              98607.81k
+aria-256-ofb 8388608B evp              98689.51k
+aria-256-ofb 16777216B evp              98689.51k
+aria-256-gcm 16B evp              91284.90k
+aria-256-gcm 64B evp              96876.93k
+aria-256-gcm 256B evp              97638.23k
+aria-256-gcm 1024B evp              97706.67k
+aria-256-gcm 8192B evp              98041.86k
+aria-256-gcm 16384B evp              98151.08k
+aria-256-gcm 32768B evp              98151.08k
+aria-256-gcm 65536B evp              98216.62k
+aria-256-gcm 131072B evp              98260.31k
+aria-256-gcm 262144B evp              98216.62k
+aria-256-gcm 524288B evp              98216.62k
+aria-256-gcm 1048576B evp              98216.62k
+aria-256-gcm 2097152B evp              98238.68k
+aria-256-gcm 4194304B evp              98282.37k
+aria-256-gcm 8388608B evp              98048.66k
+aria-256-gcm 16777216B evp              98368.04k
+aria-256-ccm 16B evp              23417.93k
+aria-256-ccm 64B evp              38604.67k
+aria-256-ccm 256B evp              46145.37k
+aria-256-ccm 1024B evp              48561.49k
+aria-256-ccm 8192B evp              49225.73k
+aria-256-ccm 16384B evp              49288.53k
+aria-256-ccm 32768B evp              49392.30k
+aria-256-ccm 65536B evp              49414.14k
+aria-256-ccm 131072B evp              49326.76k
+aria-256-ccm 262144B evp              49370.45k
+aria-256-ccm 524288B evp              49293.52k
+aria-256-ccm 1048576B evp              49303.90k
+aria-256-ccm 2097152B evp              49303.90k
+aria-256-ccm 4194304B evp              49344.75k
+aria-256-ccm 8388608B evp              49344.75k
+aria-256-ccm 16777216B evp              49184.02k
+camellia-128-ecb 16B evp             145772.74k
+camellia-128-ecb 64B evp             149497.11k
+camellia-128-ecb 256B evp             157134.17k
+camellia-128-ecb 1024B evp             157920.94k
+camellia-128-ecb 8192B evp             158157.48k
+camellia-128-ecb 16384B evp             158176.60k
+camellia-128-ecb 32768B evp             157832.53k
+camellia-128-ecb 65536B evp             158160.21k
+camellia-128-ecb 131072B evp             158072.83k
+camellia-128-ecb 262144B evp             158072.83k
+camellia-128-ecb 524288B evp             157808.95k
+camellia-128-ecb 1048576B evp             157808.95k
+camellia-128-ecb 2097152B evp             158157.31k
+camellia-128-ecb 4194304B evp             158328.03k
+camellia-128-ecb 8388608B evp             158328.03k
+camellia-128-ecb 16777216B evp             157967.29k
+camellia-128-cbc 16B evp             132972.90k
+camellia-128-cbc 64B evp             141624.55k
+camellia-128-cbc 256B evp             141206.19k
+camellia-128-cbc 1024B evp             145605.97k
+camellia-128-cbc 8192B evp             145836.71k
+camellia-128-cbc 16384B evp             145844.91k
+camellia-128-cbc 32768B evp             145806.68k
+camellia-128-cbc 65536B evp             145773.91k
+camellia-128-cbc 131072B evp             145708.37k
+camellia-128-cbc 262144B evp             145664.68k
+camellia-128-cbc 524288B evp             145752.06k
+camellia-128-cbc 1048576B evp             145752.06k
+camellia-128-cbc 2097152B evp             145616.20k
+camellia-128-cbc 4194304B evp             145828.45k
+camellia-128-cbc 8388608B evp             145769.25k
+camellia-128-cbc 16777216B evp             145402.54k
+camellia-128-cfb1 16B evp               1159.77k
+camellia-128-cfb1 64B evp               1160.87k
+camellia-128-cfb1 256B evp               1164.63k
+camellia-128-cfb1 1024B evp               1158.49k
+camellia-128-cfb1 8192B evp               1163.26k
+camellia-128-cfb1 16384B evp               1157.80k
+camellia-128-cfb1 32768B evp               1168.73k
+camellia-128-cfb1 65536B evp               1160.31k
+camellia-128-cfb1 131072B evp               1160.31k
+camellia-128-cfb1 262144B evp               1157.73k
+camellia-128-cfb1 524288B evp               1165.08k
+camellia-128-cfb1 1048576B evp               1158.65k
+camellia-128-cfb1 2097152B evp               1155.46k
+camellia-128-cfb1 4194304B evp               1161.86k
+camellia-128-cfb1 8388608B evp               1168.33k
+camellia-128-cfb1 16777216B evp               1161.05k
+camellia-128-cfb8 16B evp               8748.71k
+camellia-128-cfb8 64B evp               8768.51k
+camellia-128-cfb8 256B evp               8771.07k
+camellia-128-cfb8 1024B evp               8629.25k
+camellia-128-cfb8 8192B evp               8792.75k
+camellia-128-cfb8 16384B evp               8798.21k
+camellia-128-cfb8 32768B evp               8752.65k
+camellia-128-cfb8 65536B evp               8730.88k
+camellia-128-cfb8 131072B evp               8709.10k
+camellia-128-cfb8 262144B evp               8796.19k
+camellia-128-cfb8 524288B evp               8824.65k
+camellia-128-cfb8 1048576B evp               8738.13k
+camellia-128-cfb8 2097152B evp               8794.51k
+camellia-128-cfb8 4194304B evp               8816.86k
+camellia-128-cfb8 8388608B evp               8760.95k
+camellia-128-cfb8 16777216B evp               8806.94k
+camellia-128-ofb 16B evp             142559.28k
+camellia-128-ofb 64B evp             146751.30k
+camellia-128-ofb 256B evp             147206.23k
+camellia-128-ofb 1024B evp             147763.88k
+camellia-128-ofb 8192B evp             147996.67k
+camellia-128-ofb 16384B evp             147991.21k
+camellia-128-ofb 32768B evp             147936.60k
+camellia-128-ofb 65536B evp             147871.06k
+camellia-128-ofb 131072B evp             147718.14k
+camellia-128-ofb 262144B evp             147761.83k
+camellia-128-ofb 524288B evp             147674.45k
+camellia-128-ofb 1048576B evp             147358.02k
+camellia-128-ofb 2097152B evp             147706.39k
+camellia-128-ofb 4194304B evp             147217.29k
+camellia-128-ofb 8388608B evp             147706.39k
+camellia-128-ofb 16777216B evp             147073.00k
+camellia-128-ctr 16B evp             137461.08k
+camellia-128-ctr 64B evp             143084.14k
+camellia-128-ctr 256B evp             144161.02k
+camellia-128-ctr 1024B evp             145087.49k
+camellia-128-ctr 8192B evp             145364.31k
+camellia-128-ctr 16384B evp             145462.61k
+camellia-128-ctr 32768B evp             145435.31k
+camellia-128-ctr 65536B evp             145533.61k
+camellia-128-ctr 131072B evp             137407.15k
+camellia-128-ctr 262144B evp             145489.92k
+camellia-128-ctr 524288B evp             145093.66k
+camellia-128-ctr 1048576B evp             145267.84k
+camellia-128-ctr 2097152B evp             145402.54k
+camellia-128-ctr 4194304B evp             137952.19k
+camellia-128-ctr 8388608B evp             139345.65k
+camellia-128-ctr 16777216B evp             145402.54k
+camellia-192-ecb 16B evp             111220.06k
+camellia-192-ecb 64B evp             116504.41k
+camellia-192-ecb 256B evp             117575.59k
+camellia-192-ecb 1024B evp             117936.81k
+camellia-192-ecb 8192B evp             113967.10k
+camellia-192-ecb 16384B evp             118336.17k
+camellia-192-ecb 32768B evp             118325.25k
+camellia-192-ecb 65536B evp             118336.17k
+camellia-192-ecb 131072B evp             118358.02k
+camellia-192-ecb 262144B evp             118314.33k
+camellia-192-ecb 524288B evp             118314.33k
+camellia-192-ecb 1048576B evp             118095.44k
+camellia-192-ecb 2097152B evp             118051.60k
+camellia-192-ecb 4194304B evp             114263.43k
+camellia-192-ecb 8388608B evp             118265.62k
+camellia-192-ecb 16777216B evp             117922.92k
+camellia-192-cbc 16B evp             103030.31k
+camellia-192-cbc 64B evp             109267.54k
+camellia-192-cbc 256B evp             109457.58k
+camellia-192-cbc 1024B evp             111099.22k
+camellia-192-cbc 8192B evp             111230.98k
+camellia-192-cbc 16384B evp             111252.82k
+camellia-192-cbc 32768B evp             110845.11k
+camellia-192-cbc 65536B evp             111192.75k
+camellia-192-cbc 131072B evp             106867.37k
+camellia-192-cbc 262144B evp             111149.06k
+camellia-192-cbc 524288B evp             111149.06k
+camellia-192-cbc 1048576B evp             111149.06k
+camellia-192-cbc 2097152B evp             111149.06k
+camellia-192-cbc 4194304B evp             111107.39k
+camellia-192-cbc 8388608B evp             110740.70k
+camellia-192-cbc 16777216B evp             110740.70k
+camellia-192-cfb1 16B evp                881.11k
+camellia-192-cfb1 64B evp                881.58k
+camellia-192-cfb1 256B evp                881.83k
+camellia-192-cfb1 1024B evp                882.01k
+camellia-192-cfb1 8192B evp                882.01k
+camellia-192-cfb1 16384B evp                876.35k
+camellia-192-cfb1 32768B evp                881.80k
+camellia-192-cfb1 65536B evp                880.98k
+camellia-192-cfb1 131072B evp                885.05k
+camellia-192-cfb1 262144B evp                881.83k
+camellia-192-cfb1 524288B evp                883.63k
+camellia-192-cfb1 1048576B evp                886.12k
+camellia-192-cfb1 2097152B evp                881.16k
+camellia-192-cfb1 4194304B evp                842.23k
+camellia-192-cfb1 8388608B evp                882.08k
+camellia-192-cfb1 16777216B evp                881.62k
+camellia-192-cfb8 16B evp               6735.64k
+camellia-192-cfb8 64B evp               6736.49k
+camellia-192-cfb8 256B evp               6747.90k
+camellia-192-cfb8 1024B evp               6754.99k
+camellia-192-cfb8 8192B evp               6772.05k
+camellia-192-cfb8 16384B evp               6755.67k
+camellia-192-cfb8 32768B evp               6455.30k
+camellia-192-cfb8 65536B evp               6772.05k
+camellia-192-cfb8 131072B evp               6772.05k
+camellia-192-cfb8 262144B evp               6770.61k
+camellia-192-cfb8 524288B evp               6748.26k
+camellia-192-cfb8 1048576B evp               6765.01k
+camellia-192-cfb8 2097152B evp               6743.25k
+camellia-192-cfb8 4194304B evp               6765.01k
+camellia-192-cfb8 8388608B evp               6746.87k
+camellia-192-cfb8 16777216B evp               6751.39k
+camellia-192-ofb 16B evp             109968.96k
+camellia-192-ofb 64B evp             111750.93k
+camellia-192-ofb 256B evp             112047.36k
+camellia-192-ofb 1024B evp             112352.26k
+camellia-192-ofb 8192B evp             112487.08k
+camellia-192-ofb 16384B evp             112470.70k
+camellia-192-ofb 32768B evp             112481.62k
+camellia-192-ofb 65536B evp             112394.24k
+camellia-192-ofb 131072B evp             112241.32k
+camellia-192-ofb 262144B evp             111650.70k
+camellia-192-ofb 524288B evp             112372.39k
+camellia-192-ofb 1048576B evp             112173.25k
+camellia-192-ofb 2097152B evp             112173.25k
+camellia-192-ofb 4194304B evp             112496.23k
+camellia-192-ofb 8388608B evp             112030.27k
+camellia-192-ofb 16777216B evp             111848.11k
+camellia-192-ctr 16B evp             106391.45k
+camellia-192-ctr 64B evp             109886.38k
+camellia-192-ctr 256B evp             110468.44k
+camellia-192-ctr 1024B evp             110768.81k
+camellia-192-ctr 8192B evp             110925.14k
+camellia-192-ctr 16384B evp             110799.53k
+camellia-192-ctr 32768B evp             111039.83k
+camellia-192-ctr 65536B evp             110908.76k
+camellia-192-ctr 131072B evp             111105.37k
+camellia-192-ctr 262144B evp             106605.23k
+camellia-192-ctr 524288B evp             110779.79k
+camellia-192-ctr 1048576B evp             110779.79k
+camellia-192-ctr 2097152B evp             110779.79k
+camellia-192-ctr 4194304B evp             110740.70k
+camellia-192-ctr 8388608B evp             111107.39k
+camellia-192-ctr 16777216B evp             111107.39k
+camellia-256-ecb 16B evp             111237.15k
+camellia-256-ecb 64B evp             116488.81k
+camellia-256-ecb 256B evp             117572.52k
+camellia-256-ecb 1024B evp             118155.26k
+camellia-256-ecb 8192B evp             118338.90k
+camellia-256-ecb 16384B evp             118336.17k
+camellia-256-ecb 32768B evp             118336.17k
+camellia-256-ecb 65536B evp             118314.33k
+camellia-256-ecb 131072B evp             114338.47k
+camellia-256-ecb 262144B evp             118008.35k
+camellia-256-ecb 524288B evp             118314.33k
+camellia-256-ecb 1048576B evp             118489.09k
+camellia-256-ecb 2097152B evp             118443.80k
+camellia-256-ecb 4194304B evp             118051.60k
+camellia-256-ecb 8388608B evp             118265.62k
+camellia-256-ecb 16777216B evp             118300.88k
+camellia-256-cbc 16B evp             103284.96k
+camellia-256-cbc 64B evp             109215.08k
+camellia-256-cbc 256B evp             110604.80k
+camellia-256-cbc 1024B evp             109498.03k
+camellia-256-cbc 8192B evp             110974.29k
+camellia-256-cbc 16384B evp             111241.90k
+camellia-256-cbc 32768B evp             111225.51k
+camellia-256-cbc 65536B evp             111192.75k
+camellia-256-cbc 131072B evp             111105.37k
+camellia-256-cbc 262144B evp             111149.06k
+camellia-256-cbc 524288B evp             111149.06k
+camellia-256-cbc 1048576B evp             111149.06k
+camellia-256-cbc 2097152B evp             110779.79k
+camellia-256-cbc 4194304B evp             111107.39k
+camellia-256-cbc 8388608B evp             111107.39k
+camellia-256-cbc 16777216B evp             111107.39k
+camellia-256-cfb1 16B evp                881.00k
+camellia-256-cfb1 64B evp                877.74k
+camellia-256-cfb1 256B evp                883.29k
+camellia-256-cfb1 1024B evp                881.32k
+camellia-256-cfb1 8192B evp                882.01k
+camellia-256-cfb1 16384B evp                890.20k
+camellia-256-cfb1 32768B evp                881.80k
+camellia-256-cfb1 65536B evp                883.87k
+camellia-256-cfb1 131072B evp                882.22k
+camellia-256-cfb1 262144B evp                881.83k
+camellia-256-cfb1 524288B evp                881.16k
+camellia-256-cfb1 1048576B evp                888.62k
+camellia-256-cfb1 2097152B evp                881.16k
+camellia-256-cfb1 4194304B evp                883.01k
+camellia-256-cfb1 8388608B evp                881.16k
+camellia-256-cfb1 16777216B evp                881.62k
+camellia-256-cfb8 16B evp               6755.41k
+camellia-256-cfb8 64B evp               6758.46k
+camellia-256-cfb8 256B evp               6718.98k
+camellia-256-cfb8 1024B evp               6736.21k
+camellia-256-cfb8 8192B evp               6761.13k
+camellia-256-cfb8 16384B evp               6761.13k
+camellia-256-cfb8 32768B evp               6738.67k
+camellia-256-cfb8 65536B evp               6727.78k
+camellia-256-cfb8 131072B evp               6727.21k
+camellia-256-cfb8 262144B evp               6748.26k
+camellia-256-cfb8 524288B evp               6748.26k
+camellia-256-cfb8 1048576B evp               6743.25k
+camellia-256-cfb8 2097152B evp               6743.25k
+camellia-256-cfb8 4194304B evp               6765.01k
+camellia-256-cfb8 8388608B evp               6728.83k
+camellia-256-cfb8 16777216B evp               6737.84k
+camellia-256-ofb 16B evp             109953.16k
+camellia-256-ofb 64B evp             107675.97k
+camellia-256-ofb 256B evp             112041.13k
+camellia-256-ofb 1024B evp             112367.62k
+camellia-256-ofb 8192B evp             112467.97k
+camellia-256-ofb 16384B evp             112470.70k
+camellia-256-ofb 32768B evp             112459.78k
+camellia-256-ofb 65536B evp             112394.24k
+camellia-256-ofb 131072B evp             112285.01k
+camellia-256-ofb 262144B evp             112372.39k
+camellia-256-ofb 524288B evp             112372.39k
+camellia-256-ofb 1048576B evp             112173.25k
+camellia-256-ofb 2097152B evp             112173.25k
+camellia-256-ofb 4194304B evp             112124.96k
+camellia-256-ofb 8388608B evp             112396.38k
+camellia-256-ofb 16777216B evp             107546.26k
+camellia-256-ctr 16B evp             102277.80k
+camellia-256-ctr 64B evp             109842.03k
+camellia-256-ctr 256B evp             110235.65k
+camellia-256-ctr 1024B evp             110601.56k
+camellia-256-ctr 8192B evp             110968.83k
+camellia-256-ctr 16384B evp             105660.42k
+camellia-256-ctr 32768B evp             111094.44k
+camellia-256-ctr 65536B evp             111039.83k
+camellia-256-ctr 131072B evp             111061.67k
+camellia-256-ctr 262144B evp             104683.42k
+camellia-256-ctr 524288B evp             110779.79k
+camellia-256-ctr 1048576B evp             110779.79k
+camellia-256-ctr 2097152B evp             110779.79k
+camellia-256-ctr 4194304B evp             111107.39k
+camellia-256-ctr 8388608B evp             111107.39k
+camellia-256-ctr 16777216B evp             110740.70k
+chacha20 16B evp             320920.83k
+chacha20 64B evp             535009.30k
+chacha20 256B evp            1013226.50k
+chacha20 1024B evp            1540708.35k
+chacha20 8192B evp            1594015.74k
+chacha20 16384B evp            1596440.58k
+chacha20 32768B evp            1596948.48k
+chacha20 65536B evp            1562269.01k
+chacha20 131072B evp            1474385.24k
+chacha20 262144B evp            1474385.24k
+chacha20 524288B evp            1474472.62k
+chacha20 1048576B evp            1472899.75k
+chacha20 2097152B evp            1474297.86k
+chacha20 4194304B evp            1474996.91k
+chacha20 8388608B evp            1473598.81k
+chacha20 16777216B evp            1476395.01k
+chacha20-poly1305 16B evp             258139.99k
+chacha20-poly1305 64B evp             435706.39k
+chacha20-poly1305 256B evp             785976.06k
+chacha20-poly1305 1024B evp            1107999.06k
+chacha20-poly1305 8192B evp            1152450.56k
+chacha20-poly1305 16384B evp            1158337.88k
+chacha20-poly1305 32768B evp            1161090.39k
+chacha20-poly1305 65536B evp            1139212.29k
+chacha20-poly1305 131072B evp            1094451.20k
+chacha20-poly1305 262144B evp            1093926.91k
+chacha20-poly1305 524288B evp            1093664.77k
+chacha20-poly1305 1048576B evp            1092616.19k
+chacha20-poly1305 2097152B evp            1092616.19k
+chacha20-poly1305 4194304B evp            1093315.24k
+chacha20-poly1305 8388608B evp            1093315.24k
+chacha20-poly1305 16777216B evp            1092469.88k
+seed-ecb 16B evp                  0.00 
+seed-ecb 64B evp                  0.00 
+seed-ecb 256B evp                  0.00 
+seed-ecb 1024B evp                  0.00 
+seed-ecb 8192B evp                  0.00 
+seed-ecb 16384B evp                  0.00 
+seed-ecb 32768B evp                  0.00 
+seed-ecb 65536B evp                  0.00 
+seed-ecb 131072B evp                  0.00 
+seed-ecb 262144B evp                  0.00 
+seed-ecb 524288B evp                  0.00 
+seed-ecb 1048576B evp                  0.00 
+seed-ecb 2097152B evp                  0.00 
+seed-ecb 4194304B evp                  0.00 
+seed-ecb 8388608B evp                  0.00 
+seed-ecb 16777216B evp                  0.00 
+seed-cbc 16B evp                  0.00 
+seed-cbc 64B evp                  0.00 
+seed-cbc 256B evp                  0.00 
+seed-cbc 1024B evp                  0.00 
+seed-cbc 8192B evp                  0.00 
+seed-cbc 16384B evp                  0.00 
+seed-cbc 32768B evp                  0.00 
+seed-cbc 65536B evp                  0.00 
+seed-cbc 131072B evp                  0.00 
+seed-cbc 262144B evp                  0.00 
+seed-cbc 524288B evp                  0.00 
+seed-cbc 1048576B evp                  0.00 
+seed-cbc 2097152B evp                  0.00 
+seed-cbc 4194304B evp                  0.00 
+seed-cbc 8388608B evp                  0.00 
+seed-cbc 16777216B evp                  0.00 
+seed-ofb 16B evp                  0.00 
+seed-ofb 64B evp                  0.00 
+seed-ofb 256B evp                  0.00 
+seed-ofb 1024B evp                  0.00 
+seed-ofb 8192B evp                  0.00 
+seed-ofb 16384B evp                  0.00 
+seed-ofb 32768B evp                  0.00 
+seed-ofb 65536B evp                  0.00 
+seed-ofb 131072B evp                  0.00 
+seed-ofb 262144B evp                  0.00 
+seed-ofb 524288B evp                  0.00 
+seed-ofb 1048576B evp                  0.00 
+seed-ofb 2097152B evp                  0.00 
+seed-ofb 4194304B evp                  0.00 
+seed-ofb 8388608B evp                  0.00 
+seed-ofb 16777216B evp                  0.00 
+sm4-ecb 16B evp             847999.17k
+sm4-ecb 64B evp            3047887.98k
+sm4-ecb 256B evp            4156587.09k
+sm4-ecb 1024B evp            4628921.34k
+sm4-ecb 8192B evp            4793496.92k
+sm4-ecb 16384B evp            4806049.79k
+sm4-ecb 32768B evp            4812079.10k
+sm4-ecb 65536B evp            4806585.00k
+sm4-ecb 131072B evp            4812745.39k
+sm4-ecb 262144B evp            4815060.99k
+sm4-ecb 524288B evp            4816459.09k
+sm4-ecb 1048576B evp            4810866.69k
+sm4-ecb 2097152B evp            4814361.94k
+sm4-ecb 4194304B evp            4813662.89k
+sm4-ecb 8388608B evp            4812264.79k
+sm4-ecb 16777216B evp            4815060.99k
+sm4-cbc 16B evp             799092.35k
+sm4-cbc 64B evp             960821.95k
+sm4-cbc 256B evp             990904.49k
+sm4-cbc 1024B evp             998734.17k
+sm4-cbc 8192B evp            1001054.21k
+sm4-cbc 16384B evp            1001198.93k
+sm4-cbc 32768B evp            1001291.78k
+sm4-cbc 65536B evp            1001280.85k
+sm4-cbc 131072B evp            1001302.70k
+sm4-cbc 262144B evp            1001302.70k
+sm4-cbc 524288B evp            1001390.08k
+sm4-cbc 1048576B evp             999991.98k
+sm4-cbc 2097152B evp            1001040.55k
+sm4-cbc 4194304B evp            1001040.55k
+sm4-cbc 8388608B evp            1001040.55k
+sm4-cbc 16777216B evp            1001040.55k
+sm4-ofb 16B evp             833427.87k
+sm4-ofb 64B evp             833887.32k
+sm4-ofb 256B evp             827605.50k
+sm4-ofb 1024B evp             825977.86k
+sm4-ofb 8192B evp             825638.91k
+sm4-ofb 16384B evp             825633.45k
+sm4-ofb 32768B evp             825611.61k
+sm4-ofb 65536B evp             825338.54k
+sm4-ofb 131072B evp             825491.46k
+sm4-ofb 262144B evp             825578.84k
+sm4-ofb 524288B evp             821965.14k
+sm4-ofb 1048576B evp             824879.79k
+sm4-ofb 2097152B evp             825578.84k
+sm4-ofb 4194304B evp             823532.78k
+sm4-ofb 8388608B evp             824926.24k
+sm4-ofb 16777216B evp             824926.24k
+sm4-ctr 16B evp             728663.81k
+sm4-ctr 64B evp            2466180.01k
+sm4-ctr 256B evp            3814183.25k
+sm4-ctr 1024B evp            4420299.43k
+sm4-ctr 8192B evp            4675750.57k
+sm4-ctr 16384B evp            4696593.75k
+sm4-ctr 32768B evp            4705801.56k
+sm4-ctr 65536B evp            4704261.46k
+sm4-ctr 131072B evp            4709897.56k
+sm4-ctr 262144B evp            4712650.07k
+sm4-ctr 524288B evp            4712475.31k
+sm4-ctr 1048576B evp            4710203.39k
+sm4-ctr 2097152B evp            4711601.49k
+sm4-ctr 4194304B evp            4710203.39k
+sm4-ctr 8388608B evp            4708805.29k
+sm4-ctr 16777216B evp            4708805.29k
+md2 16B md2                  0.00 
+md2 64B md2                  0.00 
+md2 256B md2                  0.00 
+md2 1024B md2                  0.00 
+md2 8192B md2                  0.00 
+md2 16384B md2                  0.00 
+md2 32768B md2                  0.00 
+md2 65536B md2                  0.00 
+md2 131072B md2                  0.00 
+md2 262144B md2                  0.00 
+md2 524288B md2                  0.00 
+md2 1048576B md2                  0.00 
+md2 2097152B md2                  0.00 
+md2 4194304B md2                  0.00 
+md2 8388608B md2                  0.00 
+md2 16777216B md2                  0.00 
+mdc2 16B mdc2                 0.00 
+mdc2 64B mdc2                 0.00 
+mdc2 256B mdc2                 0.00 
+mdc2 1024B mdc2                 0.00 
+mdc2 8192B mdc2                 0.00 
+mdc2 16384B mdc2                 0.00 
+mdc2 32768B mdc2                 0.00 
+mdc2 65536B mdc2                 0.00 
+mdc2 131072B mdc2                 0.00 
+mdc2 262144B mdc2                 0.00 
+mdc2 524288B mdc2                 0.00 
+mdc2 1048576B mdc2                 0.00 
+mdc2 2097152B mdc2                 0.00 
+mdc2 4194304B mdc2                 0.00 
+mdc2 8388608B mdc2                 0.00 
+mdc2 16777216B mdc2                 0.00 
+md4 16B md4                  0.00 
+md4 64B md4                  0.00 
+md4 256B md4                  0.00 
+md4 1024B md4                  0.00 
+md4 8192B md4                  0.00 
+md4 16384B md4                  0.00 
+md4 32768B md4                  0.00 
+md4 65536B md4                  0.00 
+md4 131072B md4                  0.00 
+md4 262144B md4                  0.00 
+md4 524288B md4                  0.00 
+md4 1048576B md4                  0.00 
+md4 2097152B md4                  0.00 
+md4 4194304B md4                  0.00 
+md4 8388608B md4                  0.00 
+md4 16777216B md4                  0.00 
+md5 16B md5              70095.99k
+md5 64B md5             187395.50k
+md5 256B md5             369202.69k
+md5 1024B md5             486959.79k
+md5 8192B md5             536895.49k
+md5 16384B md5             540846.76k
+md5 32768B md5             542801.92k
+md5 65536B md5             543642.97k
+md5 131072B md5             544298.33k
+md5 262144B md5             544647.85k
+md5 524288B md5             544735.23k
+md5 1048576B md5             544560.47k
+md5 2097152B md5             544560.47k
+md5 4194304B md5             543448.03k
+md5 8388608B md5             545259.52k
+md5 16777216B md5             544426.21k
+hmac 16B hmac(md5)        39342.65k
+hmac 64B hmac(md5)       124220.31k
+hmac 256B hmac(md5)       295247.45k
+hmac 1024B hmac(md5)       449756.50k
+hmac 8192B hmac(md5)       530915.33k
+hmac 16384B hmac(md5)       537684.65k
+hmac 32768B hmac(md5)       541294.59k
+hmac 65536B hmac(md5)       542922.07k
+hmac 131072B hmac(md5)       543948.80k
+hmac 262144B hmac(md5)       544473.09k
+hmac 524288B hmac(md5)       544735.23k
+hmac 1048576B hmac(md5)       543861.42k
+hmac 2097152B hmac(md5)       544560.47k
+hmac 4194304B hmac(md5)       545259.52k
+hmac 8388608B hmac(md5)       545259.52k
+hmac 16777216B hmac(md5)       544426.21k
+sha1 16B sha1            103764.96k
+sha1 64B sha1            335591.55k
+sha1 256B sha1            821261.99k
+sha1 1024B sha1           1292998.31k
+sha1 8192B sha1           1552646.14k
+sha1 16384B sha1           1575015.77k
+sha1 32768B sha1           1586451.80k
+sha1 65536B sha1           1591498.07k
+sha1 131072B sha1           1594840.41k
+sha1 262144B sha1           1596282.20k
+sha1 524288B sha1           1597156.01k
+sha1 1048576B sha1           1596282.20k
+sha1 2097152B sha1           1597330.77k
+sha1 4194304B sha1           1598029.82k
+sha1 8388608B sha1           1594114.21k
+sha1 16777216B sha1           1594114.21k
+sha256 16B sha256          108157.23k
+sha256 64B sha256          349616.79k
+sha256 256B sha256          855143.94k
+sha256 1024B sha256         1348029.10k
+sha256 8192B sha256         1614984.53k
+sha256 16384B sha256         1638258.01k
+sha256 32768B sha256         1649999.87k
+sha256 65536B sha256         1655264.60k
+sha256 131072B sha256         1658585.09k
+sha256 262144B sha256         1660157.95k
+sha256 524288B sha256         1660769.62k
+sha256 1048576B sha256         1659546.28k
+sha256 2097152B sha256         1660944.38k
+sha256 4194304B sha256         1660944.38k
+sha256 8388608B sha256         1663740.59k
+sha256 16777216B sha256         1661000.12k
+sha512 16B sha512           65064.54k
+sha512 64B sha512          260159.10k
+sha512 256B sha512          510206.38k
+sha512 1024B sha512          812265.47k
+sha512 8192B sha512          980347.56k
+sha512 16384B sha512          992515.41k
+sha512 32768B sha512          992062.12k
+sha512 65536B sha512         1005300.39k
+sha512 131072B sha512         1001302.70k
+sha512 262144B sha512          997982.21k
+sha512 524288B sha512         1007506.77k
+sha512 1048576B sha512         1013623.47k
+sha512 2097152B sha512         1012225.37k
+sha512 4194304B sha512          987960.64k
+sha512 8388608B sha512          984263.34k
+sha512 16777216B sha512          984263.34k
+whirlpool 16B whirlpool            0.00 
+whirlpool 64B whirlpool            0.00 
+whirlpool 256B whirlpool            0.00 
+whirlpool 1024B whirlpool            0.00 
+whirlpool 8192B whirlpool            0.00 
+whirlpool 16384B whirlpool            0.00 
+whirlpool 32768B whirlpool            0.00 
+whirlpool 65536B whirlpool            0.00 
+whirlpool 131072B whirlpool            0.00 
+whirlpool 262144B whirlpool            0.00 
+whirlpool 524288B whirlpool            0.00 
+whirlpool 1048576B whirlpool            0.00 
+whirlpool 2097152B whirlpool            0.00 
+whirlpool 4194304B whirlpool            0.00 
+whirlpool 8388608B whirlpool            0.00 
+whirlpool 16777216B whirlpool            0.00 
+ripemd160 16B rmd160               0.00 
+ripemd160 64B rmd160               0.00 
+ripemd160 256B rmd160               0.00 
+ripemd160 1024B rmd160               0.00 
+ripemd160 8192B rmd160               0.00 
+ripemd160 16384B rmd160               0.00 
+ripemd160 32768B rmd160               0.00 
+ripemd160 65536B rmd160               0.00 
+ripemd160 131072B rmd160               0.00 
+ripemd160 262144B rmd160               0.00 
+ripemd160 524288B rmd160               0.00 
+ripemd160 1048576B rmd160               0.00 
+ripemd160 2097152B rmd160               0.00 
+ripemd160 4194304B rmd160               0.00 
+ripemd160 8388608B rmd160               0.00 
+ripemd160 16777216B rmd160               0.00 
+rc4 16B rc4                  0.00 
+rc4 64B rc4                  0.00 
+rc4 256B rc4                  0.00 
+rc4 1024B rc4                  0.00 
+rc4 8192B rc4                  0.00 
+rc4 16384B rc4                  0.00 
+rc4 32768B rc4                  0.00 
+rc4 65536B rc4                  0.00 
+rc4 131072B rc4                  0.00 
+rc4 262144B rc4                  0.00 
+rc4 524288B rc4                  0.00 
+rc4 1048576B rc4                  0.00 
+rc4 2097152B rc4                  0.00 
+rc4 4194304B rc4                  0.00 
+rc4 8388608B rc4                  0.00 
+rc4 16777216B rc4                  0.00 
+des-cbc 16B des-cbc              0.00 
+des-cbc 64B des-cbc              0.00 
+des-cbc 256B des-cbc              0.00 
+des-cbc 1024B des-cbc              0.00 
+des-cbc 8192B des-cbc              0.00 
+des-cbc 16384B des-cbc              0.00 
+des-cbc 32768B des-cbc              0.00 
+des-cbc 65536B des-cbc              0.00 
+des-cbc 131072B des-cbc              0.00 
+des-cbc 262144B des-cbc              0.00 
+des-cbc 524288B des-cbc              0.00 
+des-cbc 1048576B des-cbc              0.00 
+des-cbc 2097152B des-cbc              0.00 
+des-cbc 4194304B des-cbc              0.00 
+des-cbc 8388608B des-cbc              0.00 
+des-cbc 16777216B des-cbc              0.00 
+des-ede3 16B des-ede3         27818.96k
+des-ede3 64B des-ede3         28105.92k
+des-ede3 256B des-ede3         28184.83k
+des-ede3 1024B des-ede3         28198.57k
+des-ede3 8192B des-ede3         28199.59k
+des-ede3 16384B des-ede3         28191.40k
+des-ede3 32768B des-ede3         28191.40k
+des-ede3 65536B des-ede3         28202.33k
+des-ede3 131072B des-ede3         28130.40k
+des-ede3 262144B des-ede3         28224.17k
+des-ede3 524288B des-ede3         28217.49k
+des-ede3 1048576B des-ede3         28124.06k
+des-ede3 2097152B des-ede3         28191.22k
+des-ede3 4194304B des-ede3         28230.89k
+des-ede3 8388608B des-ede3         28218.56k
+des-ede3 16777216B des-ede3         28197.00k
+aes-128-cbc 16B aes-128-cbc    1287073.05k
+aes-128-cbc 64B aes-128-cbc    1796387.29k
+aes-128-cbc 256B aes-128-cbc    1989082.03k
+aes-128-cbc 1024B aes-128-cbc    2039283.37k
+aes-128-cbc 8192B aes-128-cbc    2061262.85k
+aes-128-cbc 16384B aes-128-cbc    2064411.31k
+aes-128-cbc 32768B aes-128-cbc    2058234.54k
+aes-128-cbc 65536B aes-128-cbc    2057983.32k
+aes-128-cbc 131072B aes-128-cbc    2061762.56k
+aes-128-cbc 262144B aes-128-cbc    2060277.08k
+aes-128-cbc 524288B aes-128-cbc    2058179.93k
+aes-128-cbc 1048576B aes-128-cbc    2055558.49k
+aes-128-cbc 2097152B aes-128-cbc    2048218.45k
+aes-128-cbc 4194304B aes-128-cbc    2058005.16k
+aes-128-cbc 8388608B aes-128-cbc    2058005.16k
+aes-128-cbc 16777216B aes-128-cbc    2058005.16k
+aes-192-cbc 16B aes-192-cbc    1175448.38k
+aes-192-cbc 64B aes-192-cbc    1530424.36k
+aes-192-cbc 256B aes-192-cbc    1666035.80k
+aes-192-cbc 1024B aes-192-cbc    1714471.94k
+aes-192-cbc 8192B aes-192-cbc    1726595.07k
+aes-192-cbc 16384B aes-192-cbc    1729653.42k
+aes-192-cbc 32768B aes-192-cbc    1728763.22k
+aes-192-cbc 65536B aes-192-cbc    1729473.19k
+aes-192-cbc 131072B aes-192-cbc    1728228.01k
+aes-192-cbc 262144B aes-192-cbc    1728228.01k
+aes-192-cbc 524288B aes-192-cbc    1729276.59k
+aes-192-cbc 1048576B aes-192-cbc    1728752.30k
+aes-192-cbc 2097152B aes-192-cbc    1728053.25k
+aes-192-cbc 4194304B aes-192-cbc    1729451.35k
+aes-192-cbc 8388608B aes-192-cbc    1728053.25k
+aes-192-cbc 16777216B aes-192-cbc    1728053.25k
+aes-256-cbc 16B aes-256-cbc    1046611.48k
+aes-256-cbc 64B aes-256-cbc    1337372.57k
+aes-256-cbc 256B aes-256-cbc    1430186.33k
+aes-256-cbc 1024B aes-256-cbc    1457127.08k
+aes-256-cbc 8192B aes-256-cbc    1466791.25k
+aes-256-cbc 16384B aes-256-cbc    1464707.75k
+aes-256-cbc 32768B aes-256-cbc    1468104.70k
+aes-256-cbc 65536B aes-256-cbc    1468792.83k
+aes-256-cbc 131072B aes-256-cbc    1470322.01k
+aes-256-cbc 262144B aes-256-cbc    1471414.27k
+aes-256-cbc 524288B aes-256-cbc    1466787.13k
+aes-256-cbc 1048576B aes-256-cbc    1470802.60k
+aes-256-cbc 2097152B aes-256-cbc    1472200.70k
+aes-256-cbc 4194304B aes-256-cbc    1472200.70k
+aes-256-cbc 8388608B aes-256-cbc    1473598.81k
+aes-256-cbc 16777216B aes-256-cbc    1471490.04k
+aes-128-ige 16B 
+aes-128-ige 64B 
+aes-128-ige 256B 
+aes-128-ige 1024B 
+aes-128-ige 8192B 
+aes-128-ige 16384B 
+aes-128-ige 32768B 
+aes-128-ige 65536B 
+aes-128-ige 131072B 
+aes-128-ige 262144B 
+aes-128-ige 524288B 
+aes-128-ige 1048576B 
+aes-128-ige 2097152B 
+aes-128-ige 4194304B 
+aes-128-ige 8388608B 
+aes-128-ige 16777216B 
+aes-192-ige 16B 
+aes-192-ige 64B 
+aes-192-ige 256B 
+aes-192-ige 1024B 
+aes-192-ige 8192B 
+aes-192-ige 16384B 
+aes-192-ige 32768B 
+aes-192-ige 65536B 
+aes-192-ige 131072B 
+aes-192-ige 262144B 
+aes-192-ige 524288B 
+aes-192-ige 1048576B 
+aes-192-ige 2097152B 
+aes-192-ige 4194304B 
+aes-192-ige 8388608B 
+aes-192-ige 16777216B 
+aes-256-ige 16B 
+aes-256-ige 64B 
+aes-256-ige 256B 
+aes-256-ige 1024B 
+aes-256-ige 8192B 
+aes-256-ige 16384B 
+aes-256-ige 32768B 
+aes-256-ige 65536B 
+aes-256-ige 131072B 
+aes-256-ige 262144B 
+aes-256-ige 524288B 
+aes-256-ige 1048576B 
+aes-256-ige 2097152B 
+aes-256-ige 4194304B 
+aes-256-ige 8388608B 
+aes-256-ige 16777216B 
+rc2-cbc 16B rc2-cbc              0.00 
+rc2-cbc 64B rc2-cbc              0.00 
+rc2-cbc 256B rc2-cbc              0.00 
+rc2-cbc 1024B rc2-cbc              0.00 
+rc2-cbc 8192B rc2-cbc              0.00 
+rc2-cbc 16384B rc2-cbc              0.00 
+rc2-cbc 32768B rc2-cbc              0.00 
+rc2-cbc 65536B rc2-cbc              0.00 
+rc2-cbc 131072B rc2-cbc              0.00 
+rc2-cbc 262144B rc2-cbc              0.00 
+rc2-cbc 524288B rc2-cbc              0.00 
+rc2-cbc 1048576B rc2-cbc              0.00 
+rc2-cbc 2097152B rc2-cbc              0.00 
+rc2-cbc 4194304B rc2-cbc              0.00 
+rc2-cbc 8388608B rc2-cbc              0.00 
+rc2-cbc 16777216B rc2-cbc              0.00 
+rc5-cbc 16B rc5-cbc              0.00 
+rc5-cbc 64B rc5-cbc              0.00 
+rc5-cbc 256B rc5-cbc              0.00 
+rc5-cbc 1024B rc5-cbc              0.00 
+rc5-cbc 8192B rc5-cbc              0.00 
+rc5-cbc 16384B rc5-cbc              0.00 
+rc5-cbc 32768B rc5-cbc              0.00 
+rc5-cbc 65536B rc5-cbc              0.00 
+rc5-cbc 131072B rc5-cbc              0.00 
+rc5-cbc 262144B rc5-cbc              0.00 
+rc5-cbc 524288B rc5-cbc              0.00 
+rc5-cbc 1048576B rc5-cbc              0.00 
+rc5-cbc 2097152B rc5-cbc              0.00 
+rc5-cbc 4194304B rc5-cbc              0.00 
+rc5-cbc 8388608B rc5-cbc              0.00 
+rc5-cbc 16777216B rc5-cbc              0.00 
+idea-cbc 16B idea-cbc             0.00 
+idea-cbc 64B idea-cbc             0.00 
+idea-cbc 256B idea-cbc             0.00 
+idea-cbc 1024B idea-cbc             0.00 
+idea-cbc 8192B idea-cbc             0.00 
+idea-cbc 16384B idea-cbc             0.00 
+idea-cbc 32768B idea-cbc             0.00 
+idea-cbc 65536B idea-cbc             0.00 
+idea-cbc 131072B idea-cbc             0.00 
+idea-cbc 262144B idea-cbc             0.00 
+idea-cbc 524288B idea-cbc             0.00 
+idea-cbc 1048576B idea-cbc             0.00 
+idea-cbc 2097152B idea-cbc             0.00 
+idea-cbc 4194304B idea-cbc             0.00 
+idea-cbc 8388608B idea-cbc             0.00 
+idea-cbc 16777216B idea-cbc             0.00 
+seed-cbc 16B seed-cbc             0.00 
+seed-cbc 64B seed-cbc             0.00 
+seed-cbc 256B seed-cbc             0.00 
+seed-cbc 1024B seed-cbc             0.00 
+seed-cbc 8192B seed-cbc             0.00 
+seed-cbc 16384B seed-cbc             0.00 
+seed-cbc 32768B seed-cbc             0.00 
+seed-cbc 65536B seed-cbc             0.00 
+seed-cbc 131072B seed-cbc             0.00 
+seed-cbc 262144B seed-cbc             0.00 
+seed-cbc 524288B seed-cbc             0.00 
+seed-cbc 1048576B seed-cbc             0.00 
+seed-cbc 2097152B seed-cbc             0.00 
+seed-cbc 4194304B seed-cbc             0.00 
+seed-cbc 8388608B seed-cbc             0.00 
+seed-cbc 16777216B seed-cbc             0.00 
+bf-cbc 16B blowfish             0.00 
+bf-cbc 64B blowfish             0.00 
+bf-cbc 256B blowfish             0.00 
+bf-cbc 1024B blowfish             0.00 
+bf-cbc 8192B blowfish             0.00 
+bf-cbc 16384B blowfish             0.00 
+bf-cbc 32768B blowfish             0.00 
+bf-cbc 65536B blowfish             0.00 
+bf-cbc 131072B blowfish             0.00 
+bf-cbc 262144B blowfish             0.00 
+bf-cbc 524288B blowfish             0.00 
+bf-cbc 1048576B blowfish             0.00 
+bf-cbc 2097152B blowfish             0.00 
+bf-cbc 4194304B blowfish             0.00 
+bf-cbc 8388608B blowfish             0.00 
+bf-cbc 16777216B blowfish             0.00 
+cast-cbc 16B cast-cbc             0.00 
+cast-cbc 64B cast-cbc             0.00 
+cast-cbc 256B cast-cbc             0.00 
+cast-cbc 1024B cast-cbc             0.00 
+cast-cbc 8192B cast-cbc             0.00 
+cast-cbc 16384B cast-cbc             0.00 
+cast-cbc 32768B cast-cbc             0.00 
+cast-cbc 65536B cast-cbc             0.00 
+cast-cbc 131072B cast-cbc             0.00 
+cast-cbc 262144B cast-cbc             0.00 
+cast-cbc 524288B cast-cbc             0.00 
+cast-cbc 1048576B cast-cbc             0.00 
+cast-cbc 2097152B cast-cbc             0.00 
+cast-cbc 4194304B cast-cbc             0.00 
+cast-cbc 8388608B cast-cbc             0.00 
+cast-cbc 16777216B cast-cbc             0.00 
+dsa512 16B dsa  512 bits 0.000053s 0.000032s  19013.3  31638.5
+dsa512 64B dsa  512 bits 0.000053s 0.000032s  19027.1  31599.7
+dsa512 256B dsa  512 bits 0.000053s 0.000032s  19002.1  31709.1
+dsa512 1024B dsa  512 bits 0.000053s 0.000032s  19040.6  31451.7
+dsa512 8192B dsa  512 bits 0.000053s 0.000031s  19018.9  32045.9
+dsa512 16384B dsa  512 bits 0.000053s 0.000031s  18745.7  32226.4
+dsa512 32768B dsa  512 bits 0.000053s 0.000032s  19025.2  31283.2
+dsa512 65536B dsa  512 bits 0.000053s 0.000031s  19007.8  32318.3
+dsa512 131072B dsa  512 bits 0.000053s 0.000031s  18989.2  31893.6
+dsa512 262144B dsa  512 bits 0.000053s 0.000031s  19030.3  31962.9
+dsa512 524288B dsa  512 bits 0.000053s 0.000031s  19019.7  31918.9
+dsa512 1048576B dsa  512 bits 0.000053s 0.000031s  18994.1  32022.6
+dsa512 2097152B dsa  512 bits 0.000053s 0.000032s  19000.5  31623.7
+dsa512 4194304B dsa  512 bits 0.000053s 0.000031s  19001.0  32504.4
+dsa512 8388608B dsa  512 bits 0.000053s 0.000031s  19006.7  32312.4
+dsa512 16777216B dsa  512 bits 0.000053s 0.000031s  19015.1  32179.5
+dsa1024 16B dsa 1024 bits 0.000111s 0.000085s   9028.4  11703.2
+dsa1024 64B dsa 1024 bits 0.000111s 0.000086s   9034.5  11569.7
+dsa1024 256B dsa 1024 bits 0.000111s 0.000087s   9031.7  11451.0
+dsa1024 1024B dsa 1024 bits 0.000111s 0.000088s   9029.8  11320.1
+dsa1024 8192B dsa 1024 bits 0.000111s 0.000087s   8973.9  11519.7
+dsa1024 16384B dsa 1024 bits 0.000111s 0.000086s   9022.9  11563.8
+dsa1024 32768B dsa 1024 bits 0.000111s 0.000088s   9031.8  11403.5
+dsa1024 65536B dsa 1024 bits 0.000111s 0.000086s   9024.5  11607.5
+dsa1024 131072B dsa 1024 bits 0.000111s 0.000085s   9034.4  11798.7
+dsa1024 262144B dsa 1024 bits 0.000111s 0.000087s   9026.3  11452.3
+dsa1024 524288B dsa 1024 bits 0.000111s 0.000088s   9028.7  11385.1
+dsa1024 1048576B dsa 1024 bits 0.000111s 0.000087s   9020.0  11556.6
+dsa1024 2097152B dsa 1024 bits 0.000111s 0.000086s   9027.1  11562.0
+dsa1024 4194304B dsa 1024 bits 0.000111s 0.000087s   9026.8  11514.5
+dsa1024 8388608B dsa 1024 bits 0.000111s 0.000087s   9029.6  11560.3
+dsa1024 16777216B dsa 1024 bits 0.000111s 0.000087s   9020.4  11537.3
+dsa2048 16B dsa 2048 bits 0.000329s 0.000299s   3039.0   3348.9
+dsa2048 64B dsa 2048 bits 0.000329s 0.000295s   3040.4   3393.3
+dsa2048 256B dsa 2048 bits 0.000329s 0.000302s   3040.0   3309.2
+dsa2048 1024B dsa 2048 bits 0.000329s 0.000301s   3039.9   3324.9
+dsa2048 8192B dsa 2048 bits 0.000329s 0.000296s   3040.1   3374.9
+dsa2048 16384B dsa 2048 bits 0.000329s 0.000303s   3039.7   3300.6
+dsa2048 32768B dsa 2048 bits 0.000329s 0.000297s   3039.8   3364.2
+dsa2048 65536B dsa 2048 bits 0.000329s 0.000305s   3040.4   3278.7
+dsa2048 131072B dsa 2048 bits 0.000329s 0.000295s   3040.7   3389.3
+dsa2048 262144B dsa 2048 bits 0.000329s 0.000293s   3040.4   3410.5
+dsa2048 524288B dsa 2048 bits 0.000329s 0.000300s   3040.8   3333.3
+dsa2048 1048576B dsa 2048 bits 0.000329s 0.000297s   3040.0   3363.9
+dsa2048 2097152B dsa 2048 bits 0.000329s 0.000299s   3040.5   3349.7
+dsa2048 4194304B dsa 2048 bits 0.000329s 0.000297s   3039.0   3371.5
+dsa2048 8388608B dsa 2048 bits 0.000329s 0.000293s   3040.5   3412.9
+dsa2048 16777216B dsa 2048 bits 0.000329s 0.000301s   3036.3   3322.8
+rsa512 16B rsa  512 bits 0.000029s 0.000002s  34099.0 435290.8
+rsa512 64B rsa  512 bits 0.000029s 0.000002s  34089.2 438977.0
+rsa512 256B rsa  512 bits 0.000029s 0.000002s  34098.9 437095.4
+rsa512 1024B rsa  512 bits 0.000029s 0.000002s  34108.8 438951.2
+rsa512 8192B rsa  512 bits 0.000029s 0.000002s  34030.9 437526.0
+rsa512 16384B rsa  512 bits 0.000029s 0.000002s  34027.5 438232.1
+rsa512 32768B rsa  512 bits 0.000029s 0.000002s  34057.6 439193.4
+rsa512 65536B rsa  512 bits 0.000029s 0.000002s  34045.5 439058.2
+rsa512 131072B rsa  512 bits 0.000029s 0.000002s  34085.0 439315.3
+rsa512 262144B rsa  512 bits 0.000029s 0.000002s  34071.8 438953.4
+rsa512 524288B rsa  512 bits 0.000029s 0.000002s  34057.0 438978.6
+rsa512 1048576B rsa  512 bits 0.000029s 0.000002s  34100.8 437266.6
+rsa512 2097152B rsa  512 bits 0.000029s 0.000002s  34082.0 439332.3
+rsa512 4194304B rsa  512 bits 0.000029s 0.000002s  34052.7 439313.7
+rsa512 8388608B rsa  512 bits 0.000029s 0.000002s  34054.5 437197.7
+rsa512 16777216B rsa  512 bits 0.000029s 0.000002s  34079.9 439684.8
+rsa1024 16B rsa 1024 bits      infs      infs      0.0      0.0
+rsa1024 64B rsa 1024 bits 0.000147s 0.000007s   6805.9 146233.1
+rsa1024 256B rsa 1024 bits 0.000147s 0.000007s   6810.7 146173.4
+rsa1024 1024B rsa 1024 bits 0.000147s 0.000007s   6808.2 146275.6
+rsa1024 8192B rsa 1024 bits 0.000147s 0.000007s   6801.3 146336.8
+rsa1024 16384B rsa 1024 bits 0.000147s 0.000007s   6809.5 146338.4
+rsa1024 32768B rsa 1024 bits 0.000147s 0.000007s   6808.0 146306.7
+rsa1024 65536B rsa 1024 bits 0.000147s 0.000007s   6810.0 146267.2
+rsa1024 131072B rsa 1024 bits 0.000147s 0.000007s   6809.3 146276.7
+rsa1024 262144B rsa 1024 bits 0.000147s 0.000007s   6809.3 146246.9
+rsa1024 524288B rsa 1024 bits 0.000147s 0.000007s   6811.0 146321.4
+rsa1024 1048576B rsa 1024 bits 0.000147s 0.000007s   6806.5 146003.8
+rsa1024 2097152B rsa 1024 bits 0.000147s 0.000007s   6808.6 146310.2
+rsa1024 4194304B rsa 1024 bits 0.000147s 0.000007s   6809.0 146322.8
+rsa1024 8388608B rsa 1024 bits 0.000147s 0.000007s   6809.9 146295.8
+rsa1024 16777216B rsa 1024 bits 0.000147s 0.000007s   6807.1 146407.9
+rsa2048 16B rsa 2048 bits      infs      infs      0.0      0.0
+rsa2048 64B rsa 2048 bits      infs      infs      0.0      0.0
+rsa2048 256B rsa 2048 bits 0.000961s 0.000024s   1040.4  41606.5
+rsa2048 1024B rsa 2048 bits 0.000962s 0.000024s   1039.9  41586.8
+rsa2048 8192B rsa 2048 bits 0.000962s 0.000024s   1040.0  41602.1
+rsa2048 16384B rsa 2048 bits 0.000962s 0.000024s   1040.0  41606.8
+rsa2048 32768B rsa 2048 bits 0.000962s 0.000024s   1039.0  41560.9
+rsa2048 65536B rsa 2048 bits 0.000962s 0.000024s   1039.8  41595.2
+rsa2048 131072B rsa 2048 bits 0.000961s 0.000024s   1040.2  41612.4
+rsa2048 262144B rsa 2048 bits 0.000961s 0.000024s   1040.2  41614.0
+rsa2048 524288B rsa 2048 bits 0.000961s 0.000024s   1040.5  41582.4
+rsa2048 1048576B rsa 2048 bits 0.000962s 0.000024s   1040.0  41601.1
+rsa2048 2097152B rsa 2048 bits 0.000962s 0.000024s   1039.7  41586.2
+rsa2048 4194304B rsa 2048 bits 0.000962s 0.000024s   1039.1  41597.9
+rsa2048 8388608B rsa 2048 bits 0.000962s 0.000024s   1039.9  41584.8
+rsa2048 16777216B rsa 2048 bits 0.000962s 0.000024s   1039.6  41609.5
+rsa3072 16B rsa 3072 bits      infs      infs      0.0      0.0
+rsa3072 64B rsa 3072 bits      infs      infs      0.0      0.0
+rsa3072 256B rsa 3072 bits      infs      infs      0.0      0.0
+rsa3072 1024B rsa 3072 bits 0.002838s 0.000052s    352.4  19166.5
+rsa3072 8192B rsa 3072 bits 0.002841s 0.000052s    352.0  19150.2
+rsa3072 16384B rsa 3072 bits 0.002838s 0.000052s    352.4  19168.8
+rsa3072 32768B rsa 3072 bits 0.002838s 0.000052s    352.3  19176.8
+rsa3072 65536B rsa 3072 bits 0.002838s 0.000052s    352.4  19167.0
+rsa3072 131072B rsa 3072 bits 0.002838s 0.000052s    352.4  19136.6
+rsa3072 262144B rsa 3072 bits 0.002837s 0.000052s    352.5  19170.1
+rsa3072 524288B rsa 3072 bits 0.002838s 0.000052s    352.3  19171.6
+rsa3072 1048576B rsa 3072 bits 0.002838s 0.000052s    352.4  19171.0
+rsa3072 2097152B rsa 3072 bits 0.002838s 0.000052s    352.4  19169.7
+rsa3072 4194304B rsa 3072 bits 0.002838s 0.000052s    352.4  19171.5
+rsa3072 8388608B rsa 3072 bits 0.002838s 0.000052s    352.4  19169.8
+rsa3072 16777216B rsa 3072 bits 0.002842s 0.000052s    351.8  19147.9
+rsa4096 16B rsa 4096 bits      infs      infs      0.0      0.0
+rsa4096 64B rsa 4096 bits      infs      infs      0.0      0.0
+rsa4096 256B rsa 4096 bits      infs      infs      0.0      0.0
+rsa4096 1024B rsa 4096 bits 0.006285s 0.000091s    159.1  10949.7
+rsa4096 8192B rsa 4096 bits 0.006289s 0.000091s    159.0  10931.7
+rsa4096 16384B rsa 4096 bits 0.006289s 0.000091s    159.0  10947.7
+rsa4096 32768B rsa 4096 bits 0.006289s 0.000091s    159.0  10951.4
+rsa4096 65536B rsa 4096 bits 0.006289s 0.000091s    159.0  10951.2
+rsa4096 131072B rsa 4096 bits 0.006285s 0.000091s    159.1  10931.5
+rsa4096 262144B rsa 4096 bits 0.006296s 0.000091s    158.8  10949.0
+rsa4096 524288B rsa 4096 bits 0.006289s 0.000091s    159.0  10950.2
+rsa4096 1048576B rsa 4096 bits 0.006292s 0.000091s    158.9  10949.3
+rsa4096 2097152B rsa 4096 bits 0.006292s 0.000091s    158.9  10950.4
+rsa4096 4194304B rsa 4096 bits 0.006289s 0.000091s    159.0  10949.2
+rsa4096 8388608B rsa 4096 bits 0.006289s 0.000091s    159.0  10948.6
+rsa4096 16777216B rsa 4096 bits 0.006289s 0.000091s    159.0  10950.9
+rsa7680 16B rsa 7680 bits      infs      infs      0.0      0.0
+rsa7680 64B rsa 7680 bits      infs      infs      0.0      0.0
+rsa7680 256B rsa 7680 bits      infs      infs      0.0      0.0
+rsa7680 1024B rsa 7680 bits 0.048592s 0.000314s     20.6   3187.8
+rsa7680 8192B rsa 7680 bits 0.048592s 0.000314s     20.6   3185.4
+rsa7680 16384B rsa 7680 bits 0.048592s 0.000314s     20.6   3187.2
+rsa7680 32768B rsa 7680 bits 0.048592s 0.000314s     20.6   3186.9
+rsa7680 65536B rsa 7680 bits 0.048592s 0.000314s     20.6   3185.6
+rsa7680 131072B rsa 7680 bits 0.048641s 0.000314s     20.6   3186.3
+rsa7680 262144B rsa 7680 bits 0.048592s 0.000314s     20.6   3186.4
+rsa7680 524288B rsa 7680 bits 0.048641s 0.000314s     20.6   3187.5
+rsa7680 1048576B rsa 7680 bits 0.048592s 0.000314s     20.6   3187.3
+rsa7680 2097152B rsa 7680 bits 0.048544s 0.000314s     20.6   3187.1
+rsa7680 4194304B rsa 7680 bits 0.048592s 0.000314s     20.6   3186.9
+rsa7680 8388608B rsa 7680 bits 0.048592s 0.000314s     20.6   3186.9
+rsa7680 16777216B rsa 7680 bits 0.048592s 0.000314s     20.6   3187.8
+rsa15360 16B rsa 15360 bits      infs      infs      0.0      0.0
+rsa15360 64B rsa 15360 bits      infs      infs      0.0      0.0
+rsa15360 256B rsa 15360 bits      infs      infs      0.0      0.0
+rsa15360 1024B rsa 15360 bits      infs      infs      0.0      0.0
+rsa15360 8192B rsa 15360 bits 0.280833s 0.001243s      3.6    804.4
+rsa15360 16384B rsa 15360 bits 0.280278s 0.001244s      3.6    803.7
+rsa15360 32768B rsa 15360 bits 0.280556s 0.001243s      3.6    804.6
+rsa15360 65536B rsa 15360 bits 0.279722s 0.001243s      3.6    804.3
+rsa15360 131072B rsa 15360 bits 0.281111s 0.001243s      3.6    804.6
+rsa15360 262144B rsa 15360 bits 0.280833s 0.001243s      3.6    804.4
+rsa15360 524288B rsa 15360 bits 0.280556s 0.001243s      3.6    804.6
+rsa15360 1048576B rsa 15360 bits 0.280833s 0.001243s      3.6    804.6
+rsa15360 2097152B rsa 15360 bits 0.280833s 0.001243s      3.6    804.6
+rsa15360 4194304B rsa 15360 bits 0.280278s 0.001243s      3.6    804.7
+rsa15360 8388608B rsa 15360 bits 0.280833s 0.001243s      3.6    804.5
+rsa15360 16777216B rsa 15360 bits 0.280833s 0.001243s      3.6    804.6
+ecdsap160 16B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   5999.9   5931.0
+ecdsap160 64B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   6000.3   5746.3
+ecdsap160 256B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   5994.3   6107.1
+ecdsap160 1024B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   5996.2   6035.7
+ecdsap160 8192B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   6004.7   6003.1
+ecdsap160 16384B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   5987.6   6030.8
+ecdsap160 32768B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   5994.2   5946.4
+ecdsap160 65536B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   6005.8   6042.4
+ecdsap160 131072B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   6016.2   5925.6
+ecdsap160 262144B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   5995.8   5955.8
+ecdsap160 524288B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   5995.3   5932.7
+ecdsap160 1048576B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   5989.0   5947.6
+ecdsap160 2097152B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   6008.8   5886.0
+ecdsap160 4194304B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   6008.8   5980.3
+ecdsap160 8388608B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   5995.8   6079.6
+ecdsap160 16777216B  160 bits ecdsa (secp160r1)   0.0002s   0.0002s   5995.5   6024.0
+ecdsap192 16B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4909.2   5094.8
+ecdsap192 64B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4900.3   5118.4
+ecdsap192 256B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4899.0   5047.6
+ecdsap192 1024B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4901.8   5107.0
+ecdsap192 8192B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4900.4   5084.5
+ecdsap192 16384B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4898.1   4878.5
+ecdsap192 32768B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4910.9   5127.1
+ecdsap192 65536B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4894.6   5026.8
+ecdsap192 131072B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4890.6   5045.6
+ecdsap192 262144B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4892.6   5099.5
+ecdsap192 524288B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4900.8   5121.3
+ecdsap192 1048576B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4890.6   5072.7
+ecdsap192 2097152B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4904.4   5068.0
+ecdsap192 4194304B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4907.1   5023.0
+ecdsap192 8388608B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4898.5   5052.3
+ecdsap192 16777216B  192 bits ecdsa (nistp192)   0.0002s   0.0002s   4885.8   5147.1
+ecdsap224 16B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4039.1   4173.6
+ecdsap224 64B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4032.0   4208.1
+ecdsap224 256B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4030.3   4165.5
+ecdsap224 1024B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4035.4   4151.6
+ecdsap224 8192B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4035.3   4226.6
+ecdsap224 16384B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4034.1   4221.8
+ecdsap224 32768B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4035.4   4229.0
+ecdsap224 65536B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4032.7   4215.4
+ecdsap224 131072B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4035.4   4242.7
+ecdsap224 262144B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4038.3   4156.2
+ecdsap224 524288B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4038.9   4239.9
+ecdsap224 1048576B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4036.4   4175.0
+ecdsap224 2097152B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4036.8   4240.3
+ecdsap224 4194304B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4032.5   4196.3
+ecdsap224 8388608B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4035.5   4225.8
+ecdsap224 16777216B  224 bits ecdsa (nistp224)   0.0002s   0.0002s   4035.9   4197.3
+ecdsap256 16B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43209.0  13333.6
+ecdsap256 64B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43238.6  13340.3
+ecdsap256 256B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43183.1  13333.5
+ecdsap256 1024B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43218.0  13334.8
+ecdsap256 8192B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43197.7  13336.7
+ecdsap256 16384B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43171.1  13326.0
+ecdsap256 32768B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43246.5  13336.7
+ecdsap256 65536B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43195.2  13331.7
+ecdsap256 131072B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43245.5  13341.6
+ecdsap256 262144B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43223.8  13338.7
+ecdsap256 524288B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43251.5  13338.5
+ecdsap256 1048576B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43217.9  13334.1
+ecdsap256 2097152B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43153.4  13325.6
+ecdsap256 4194304B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43182.7  13330.6
+ecdsap256 8388608B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43221.5  13334.8
+ecdsap256 16777216B  256 bits ecdsa (nistp256)   0.0000s   0.0001s  43231.2  13333.5
+ecdsap384 16B  384 bits ecdsa (nistp384)      infs      infs      0.0      0.0
+ecdsap384 64B  384 bits ecdsa (nistp384)   0.0009s   0.0007s   1077.6   1336.6
+ecdsap384 256B  384 bits ecdsa (nistp384)   0.0009s   0.0008s   1079.5   1317.6
+ecdsap384 1024B  384 bits ecdsa (nistp384)   0.0009s   0.0008s   1075.7   1320.7
+ecdsap384 8192B  384 bits ecdsa (nistp384)   0.0009s   0.0007s   1078.4   1347.0
+ecdsap384 16384B  384 bits ecdsa (nistp384)   0.0009s   0.0007s   1078.4   1335.4
+ecdsap384 32768B  384 bits ecdsa (nistp384)   0.0009s   0.0008s   1079.7   1323.3
+ecdsap384 65536B  384 bits ecdsa (nistp384)   0.0009s   0.0008s   1076.5   1327.9
+ecdsap384 131072B  384 bits ecdsa (nistp384)   0.0009s   0.0008s   1078.2   1333.2
+ecdsap384 262144B  384 bits ecdsa (nistp384)   0.0009s   0.0008s   1078.3   1331.4
+ecdsap384 524288B  384 bits ecdsa (nistp384)   0.0009s   0.0008s   1079.3   1331.6
+ecdsap384 1048576B  384 bits ecdsa (nistp384)   0.0009s   0.0007s   1071.3   1338.1
+ecdsap384 2097152B  384 bits ecdsa (nistp384)   0.0009s   0.0007s   1079.9   1336.2
+ecdsap384 4194304B  384 bits ecdsa (nistp384)   0.0009s   0.0008s   1076.8   1325.0
+ecdsap384 8388608B  384 bits ecdsa (nistp384)   0.0009s   0.0007s   1077.9   1342.1
+ecdsap384 16777216B  384 bits ecdsa (nistp384)   0.0009s   0.0008s   1079.4   1323.8
+ecdsap521 16B  521 bits ecdsa (nistp521)      infs      infs      0.0      0.0
+ecdsap521 64B  521 bits ecdsa (nistp521)      infs      infs      0.0      0.0
+ecdsap521 256B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.5    543.9
+ecdsap521 1024B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.6    544.6
+ecdsap521 8192B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.9    550.4
+ecdsap521 16384B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    416.5    543.6
+ecdsap521 32768B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.6    543.8
+ecdsap521 65536B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.7    548.5
+ecdsap521 131072B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.3    549.9
+ecdsap521 262144B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.6    548.5
+ecdsap521 524288B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    416.9    546.9
+ecdsap521 1048576B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.7    545.6
+ecdsap521 2097152B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.4    544.3
+ecdsap521 4194304B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.6    548.6
+ecdsap521 8388608B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.7    545.9
+ecdsap521 16777216B  521 bits ecdsa (nistp521)   0.0024s   0.0018s    417.6    543.9
+ecdsak163 16B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3256.9   1637.6
+ecdsak163 64B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3251.5   1630.9
+ecdsak163 256B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3240.9   1636.2
+ecdsak163 1024B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3236.3   1635.5
+ecdsak163 8192B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3247.8   1640.0
+ecdsak163 16384B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3254.2   1641.4
+ecdsak163 32768B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3251.8   1636.2
+ecdsak163 65536B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3253.0   1634.6
+ecdsak163 131072B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3253.5   1632.0
+ecdsak163 262144B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3254.8   1640.2
+ecdsak163 524288B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3253.7   1634.5
+ecdsak163 1048576B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3255.3   1633.0
+ecdsak163 2097152B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3246.4   1638.4
+ecdsak163 4194304B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3250.9   1639.4
+ecdsak163 8388608B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3246.4   1639.0
+ecdsak163 16777216B  163 bits ecdsa (nistk163)   0.0003s   0.0006s   3255.2   1640.9
+ecdsak233 16B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2106.5   1061.8
+ecdsak233 64B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2106.9   1060.8
+ecdsak233 256B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2100.5   1057.7
+ecdsak233 1024B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2101.6   1058.4
+ecdsak233 8192B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2105.3   1057.3
+ecdsak233 16384B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2115.9   1059.2
+ecdsak233 32768B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2102.5   1056.9
+ecdsak233 65536B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2046.1   1056.3
+ecdsak233 131072B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2099.2   1056.5
+ecdsak233 262144B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2104.5   1062.4
+ecdsak233 524288B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2107.7   1062.5
+ecdsak233 1048576B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2057.1   1060.5
+ecdsak233 2097152B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2115.2   1058.9
+ecdsak233 4194304B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2101.7   1058.6
+ecdsak233 8388608B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2105.2   1062.3
+ecdsak233 16777216B  233 bits ecdsa (nistk233)   0.0005s   0.0009s   2093.3   1055.8
+ecdsak283 16B  283 bits ecdsa (nistk283)   0.0010s   0.0019s   1021.3    513.2
+ecdsak283 64B  283 bits ecdsa (nistk283)   0.0010s   0.0019s   1018.0    515.1
+ecdsak283 256B  283 bits ecdsa (nistk283)   0.0010s   0.0019s   1022.0    513.0
+ecdsak283 1024B  283 bits ecdsa (nistk283)   0.0010s   0.0020s   1016.6    511.4
+ecdsak283 8192B  283 bits ecdsa (nistk283)   0.0010s   0.0020s   1017.0    511.9
+ecdsak283 16384B  283 bits ecdsa (nistk283)   0.0010s   0.0020s   1016.7    512.0
+ecdsak283 32768B  283 bits ecdsa (nistk283)   0.0010s   0.0020s   1015.4    512.5
+ecdsak283 65536B  283 bits ecdsa (nistk283)   0.0010s   0.0020s   1021.9    512.8
+ecdsak283 131072B  283 bits ecdsa (nistk283)   0.0010s   0.0020s   1017.5    511.6
+ecdsak283 262144B  283 bits ecdsa (nistk283)   0.0010s   0.0020s   1015.7    512.6
+ecdsak283 524288B  283 bits ecdsa (nistk283)   0.0010s   0.0019s   1022.4    513.8
+ecdsak283 1048576B  283 bits ecdsa (nistk283)   0.0010s   0.0019s   1018.1    515.0
+ecdsak283 2097152B  283 bits ecdsa (nistk283)   0.0010s   0.0020s   1016.9    511.4
+ecdsak283 4194304B  283 bits ecdsa (nistk283)   0.0010s   0.0020s   1017.2    511.7
+ecdsak283 8388608B  283 bits ecdsa (nistk283)   0.0010s   0.0019s   1019.0    515.4
+ecdsak283 16777216B  283 bits ecdsa (nistk283)   0.0010s   0.0020s   1016.5    512.3
+ecdsak409 16B  409 bits ecdsa (nistk409)      infs      infs      0.0      0.0
+ecdsak409 64B  409 bits ecdsa (nistk409)   0.0021s   0.0041s    486.1    246.4
+ecdsak409 256B  409 bits ecdsa (nistk409)   0.0021s   0.0041s    485.2    246.1
+ecdsak409 1024B  409 bits ecdsa (nistk409)   0.0020s   0.0040s    487.9    247.4
+ecdsak409 8192B  409 bits ecdsa (nistk409)   0.0021s   0.0041s    484.4    245.3
+ecdsak409 16384B  409 bits ecdsa (nistk409)   0.0020s   0.0041s    489.0    246.8
+ecdsak409 32768B  409 bits ecdsa (nistk409)   0.0020s   0.0041s    489.5    246.9
+ecdsak409 65536B  409 bits ecdsa (nistk409)   0.0021s   0.0041s    485.8    246.2
+ecdsak409 131072B  409 bits ecdsa (nistk409)   0.0020s   0.0041s    489.0    246.5
+ecdsak409 262144B  409 bits ecdsa (nistk409)   0.0021s   0.0041s    486.1    246.3
+ecdsak409 524288B  409 bits ecdsa (nistk409)   0.0021s   0.0041s    486.9    245.9
+ecdsak409 1048576B  409 bits ecdsa (nistk409)   0.0020s   0.0041s    489.5    246.5
+ecdsak409 2097152B  409 bits ecdsa (nistk409)   0.0021s   0.0040s    487.7    247.4
+ecdsak409 4194304B  409 bits ecdsa (nistk409)   0.0021s   0.0041s    486.1    246.2
+ecdsak409 8388608B  409 bits ecdsa (nistk409)   0.0020s   0.0040s    487.9    247.6
+ecdsak409 16777216B  409 bits ecdsa (nistk409)   0.0021s   0.0041s    487.4    246.0
+ecdsak571 16B  571 bits ecdsa (nistk571)      infs      infs      0.0      0.0
+ecdsak571 64B  571 bits ecdsa (nistk571)      infs      infs      0.0      0.0
+ecdsak571 256B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    233.1    117.8
+ecdsak571 1024B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    231.4    117.5
+ecdsak571 8192B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    231.8    117.6
+ecdsak571 16384B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    233.6    117.9
+ecdsak571 32768B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    232.5    117.2
+ecdsak571 65536B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    233.5    117.9
+ecdsak571 131072B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    232.8    118.2
+ecdsak571 262144B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    232.3    117.0
+ecdsak571 524288B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    233.5    117.8
+ecdsak571 1048576B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    233.6    117.9
+ecdsak571 2097152B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    232.8    118.1
+ecdsak571 4194304B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    232.5    117.3
+ecdsak571 8388608B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    232.9    118.2
+ecdsak571 16777216B  571 bits ecdsa (nistk571)   0.0043s   0.0085s    231.8    117.6
+ecdsab163 16B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3078.3   1553.6
+ecdsab163 64B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3088.4   1550.4
+ecdsab163 256B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3079.8   1553.7
+ecdsab163 1024B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3080.1   1553.9
+ecdsab163 8192B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3091.9   1550.2
+ecdsab163 16384B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3090.1   1549.9
+ecdsab163 32768B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3079.3   1545.5
+ecdsab163 65536B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3079.3   1553.9
+ecdsab163 131072B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3077.6   1543.7
+ecdsab163 262144B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3066.5   1545.2
+ecdsab163 524288B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3062.6   1548.0
+ecdsab163 1048576B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3062.8   1546.5
+ecdsab163 2097152B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3073.2   1541.2
+ecdsab163 4194304B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3074.5   1541.4
+ecdsab163 8388608B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3062.5   1548.0
+ecdsab163 16777216B  163 bits ecdsa (nistb163)   0.0003s   0.0006s   3067.6   1549.3
+ecdsab233 16B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2013.8   1010.4
+ecdsab233 64B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2023.7   1014.0
+ecdsab233 256B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2021.9   1017.2
+ecdsab233 1024B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2018.9   1010.6
+ecdsab233 8192B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2014.9   1010.6
+ecdsab233 16384B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2017.0   1010.2
+ecdsab233 32768B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2024.2   1013.8
+ecdsab233 65536B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2023.5   1014.4
+ecdsab233 131072B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2012.6   1013.6
+ecdsab233 262144B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2009.6   1010.3
+ecdsab233 524288B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2022.8   1013.5
+ecdsab233 1048576B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2013.6   1016.4
+ecdsab233 2097152B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   1974.9   1008.9
+ecdsab233 4194304B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2012.9    989.8
+ecdsab233 8388608B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2024.6   1014.9
+ecdsab233 16777216B  233 bits ecdsa (nistb233)   0.0005s   0.0010s   2014.4   1010.6
+ecdsab283 16B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    942.8    473.1
+ecdsab283 64B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    942.2    472.9
+ecdsab283 256B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    938.5    472.0
+ecdsab283 1024B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    939.2    474.3
+ecdsab283 8192B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    939.5    474.7
+ecdsab283 16384B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    937.2    471.7
+ecdsab283 32768B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    935.5    470.4
+ecdsab283 65536B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    936.3    472.0
+ecdsab283 131072B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    905.8    472.0
+ecdsab283 262144B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    938.9    472.1
+ecdsab283 524288B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    940.5    475.3
+ecdsab283 1048576B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    943.4    473.4
+ecdsab283 2097152B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    937.2    473.0
+ecdsab283 4194304B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    943.3    472.8
+ecdsab283 8388608B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    938.3    471.0
+ecdsab283 16777216B  283 bits ecdsa (nistb283)   0.0011s   0.0021s    935.0    469.9
+ecdsab409 16B  409 bits ecdsa (nistb409)      infs      infs      0.0      0.0
+ecdsab409 64B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    441.2    223.4
+ecdsab409 256B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    443.0    224.4
+ecdsab409 1024B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    442.2    222.9
+ecdsab409 8192B  409 bits ecdsa (nistb409)   0.0023s   0.0047s    441.4    211.3
+ecdsab409 16384B  409 bits ecdsa (nistb409)   0.0022s   0.0045s    444.8    221.9
+ecdsab409 32768B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    442.8    224.2
+ecdsab409 65536B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    443.3    224.7
+ecdsab409 131072B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    442.0    222.6
+ecdsab409 262144B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    441.3    223.4
+ecdsab409 524288B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    443.2    224.6
+ecdsab409 1048576B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    442.3    222.8
+ecdsab409 2097152B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    442.3    222.7
+ecdsab409 4194304B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    443.2    224.2
+ecdsab409 8388608B  409 bits ecdsa (nistb409)   0.0022s   0.0045s    444.5    223.6
+ecdsab409 16777216B  409 bits ecdsa (nistb409)   0.0023s   0.0045s    442.1    223.0
+ecdsab571 16B  571 bits ecdsa (nistb571)      infs      infs      0.0      0.0
+ecdsab571 64B  571 bits ecdsa (nistb571)      infs      infs      0.0      0.0
+ecdsab571 256B  571 bits ecdsa (nistb571)   0.0048s   0.0094s    210.1    105.9
+ecdsab571 1024B  571 bits ecdsa (nistb571)   0.0048s   0.0094s    210.1    106.0
+ecdsab571 8192B  571 bits ecdsa (nistb571)   0.0048s   0.0094s    210.2    105.9
+ecdsab571 16384B  571 bits ecdsa (nistb571)   0.0048s   0.0095s    208.5    105.8
+ecdsab571 32768B  571 bits ecdsa (nistb571)   0.0048s   0.0095s    208.5    105.8
+ecdsab571 65536B  571 bits ecdsa (nistb571)   0.0048s   0.0094s    209.3    106.3
+ecdsab571 131072B  571 bits ecdsa (nistb571)   0.0048s   0.0094s    209.4    106.3
+ecdsab571 262144B  571 bits ecdsa (nistb571)   0.0048s   0.0094s    209.3    106.3
+ecdsab571 524288B  571 bits ecdsa (nistb571)   0.0048s   0.0095s    209.3    105.4
+ecdsab571 1048576B  571 bits ecdsa (nistb571)   0.0048s   0.0094s    210.0    106.0
+ecdsab571 2097152B  571 bits ecdsa (nistb571)   0.0048s   0.0094s    209.5    106.2
+ecdsab571 4194304B  571 bits ecdsa (nistb571)   0.0048s   0.0094s    209.4    106.2
+ecdsab571 8388608B  571 bits ecdsa (nistb571)   0.0048s   0.0095s    208.7    105.7
+ecdsab571 16777216B  571 bits ecdsa (nistb571)   0.0048s   0.0095s    208.4    105.8
+ecdsabrp256r1 16B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3646.9   3532.2
+ecdsabrp256r1 64B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3648.6   3572.1
+ecdsabrp256r1 256B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3647.7   3524.3
+ecdsabrp256r1 1024B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3647.5   3521.3
+ecdsabrp256r1 8192B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3644.2   3524.2
+ecdsabrp256r1 16384B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3644.6   3526.0
+ecdsabrp256r1 32768B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3648.0   3564.0
+ecdsabrp256r1 65536B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3647.8   3542.6
+ecdsabrp256r1 131072B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3646.5   3559.7
+ecdsabrp256r1 262144B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3653.2   3549.3
+ecdsabrp256r1 524288B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3643.9   3542.4
+ecdsabrp256r1 1048576B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3650.1   3533.7
+ecdsabrp256r1 2097152B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3651.8   3523.7
+ecdsabrp256r1 4194304B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3645.1   3507.7
+ecdsabrp256r1 8388608B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3648.3   3487.4
+ecdsabrp256r1 16777216B  256 bits ecdsa (brainpoolP256r1)   0.0003s   0.0003s   3648.7   3537.6
+ecdsabrp256t1 16B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3645.7   3739.0
+ecdsabrp256t1 64B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3649.8   3761.4
+ecdsabrp256t1 256B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3649.6   3741.7
+ecdsabrp256t1 1024B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3648.3   3730.6
+ecdsabrp256t1 8192B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3648.0   3721.9
+ecdsabrp256t1 16384B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3649.5   3788.6
+ecdsabrp256t1 32768B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3646.9   3757.5
+ecdsabrp256t1 65536B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3642.5   3742.6
+ecdsabrp256t1 131072B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3652.7   3733.8
+ecdsabrp256t1 262144B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3652.7   3730.5
+ecdsabrp256t1 524288B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3648.4   3751.6
+ecdsabrp256t1 1048576B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3647.3   3760.5
+ecdsabrp256t1 2097152B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3647.5   3721.0
+ecdsabrp256t1 4194304B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3651.8   3726.3
+ecdsabrp256t1 8388608B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3643.6   3729.4
+ecdsabrp256t1 16777216B  256 bits ecdsa (brainpoolP256t1)   0.0003s   0.0003s   3644.9   3763.3
+ecdsabrp384r1 16B  384 bits ecdsa (brainpoolP384r1)      infs      infs      0.0      0.0
+ecdsabrp384r1 64B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1075.6   1232.7
+ecdsabrp384r1 256B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1075.3   1233.5
+ecdsabrp384r1 1024B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1073.9   1237.1
+ecdsabrp384r1 8192B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1076.2   1236.4
+ecdsabrp384r1 16384B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1076.0   1241.9
+ecdsabrp384r1 32768B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1078.1   1239.8
+ecdsabrp384r1 65536B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1075.1   1227.9
+ecdsabrp384r1 131072B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1073.9   1237.7
+ecdsabrp384r1 262144B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1077.0   1239.3
+ecdsabrp384r1 524288B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1071.6   1227.4
+ecdsabrp384r1 1048576B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1078.0   1234.7
+ecdsabrp384r1 2097152B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1075.5   1227.4
+ecdsabrp384r1 4194304B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1075.4   1237.0
+ecdsabrp384r1 8388608B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1074.2   1239.5
+ecdsabrp384r1 16777216B  384 bits ecdsa (brainpoolP384r1)   0.0009s   0.0008s   1069.0   1237.6
+ecdsabrp384t1 16B  384 bits ecdsa (brainpoolP384t1)      infs      infs      0.0      0.0
+ecdsabrp384t1 64B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0007s   1087.8   1340.8
+ecdsabrp384t1 256B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0007s   1090.2   1340.3
+ecdsabrp384t1 1024B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0008s   1088.5   1333.2
+ecdsabrp384t1 8192B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0008s   1089.1   1333.3
+ecdsabrp384t1 16384B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0007s   1088.9   1333.8
+ecdsabrp384t1 32768B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0007s   1089.1   1353.6
+ecdsabrp384t1 65536B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0008s   1071.7   1330.8
+ecdsabrp384t1 131072B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0007s   1090.3   1350.0
+ecdsabrp384t1 262144B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0007s   1086.9   1348.5
+ecdsabrp384t1 524288B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0007s   1091.7   1340.1
+ecdsabrp384t1 1048576B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0007s   1090.8   1347.0
+ecdsabrp384t1 2097152B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0007s   1090.2   1346.5
+ecdsabrp384t1 4194304B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0008s   1087.8   1331.8
+ecdsabrp384t1 8388608B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0007s   1087.4   1338.5
+ecdsabrp384t1 16777216B  384 bits ecdsa (brainpoolP384t1)   0.0009s   0.0008s   1089.7   1332.3
+ecdsabrp512r1 16B  512 bits ecdsa (brainpoolP512r1)      infs      infs      0.0      0.0
+ecdsabrp512r1 64B  512 bits ecdsa (brainpoolP512r1)      infs      infs      0.0      0.0
+ecdsabrp512r1 256B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    738.4    896.9
+ecdsabrp512r1 1024B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    738.3    887.6
+ecdsabrp512r1 8192B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    738.5    886.8
+ecdsabrp512r1 16384B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    737.1    889.9
+ecdsabrp512r1 32768B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    738.6    889.0
+ecdsabrp512r1 65536B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    737.6    891.6
+ecdsabrp512r1 131072B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    737.6    889.5
+ecdsabrp512r1 262144B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    738.0    892.4
+ecdsabrp512r1 524288B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    737.5    888.0
+ecdsabrp512r1 1048576B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    738.2    891.5
+ecdsabrp512r1 2097152B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    738.6    884.7
+ecdsabrp512r1 4194304B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    738.7    885.4
+ecdsabrp512r1 8388608B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    737.4    888.0
+ecdsabrp512r1 16777216B  512 bits ecdsa (brainpoolP512r1)   0.0014s   0.0011s    737.8    887.9
+ecdsabrp512t1 16B  512 bits ecdsa (brainpoolP512t1)      infs      infs      0.0      0.0
+ecdsabrp512t1 64B  512 bits ecdsa (brainpoolP512t1)      infs      infs      0.0      0.0
+ecdsabrp512t1 256B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0011s    744.5    948.1
+ecdsabrp512t1 1024B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0010s    747.4    960.8
+ecdsabrp512t1 8192B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0011s    747.3    951.0
+ecdsabrp512t1 16384B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0011s    747.1    950.4
+ecdsabrp512t1 32768B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0010s    746.7    957.0
+ecdsabrp512t1 65536B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0011s    747.0    943.7
+ecdsabrp512t1 131072B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0011s    747.1    948.6
+ecdsabrp512t1 262144B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0010s    747.9    954.0
+ecdsabrp512t1 524288B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0010s    747.1    956.6
+ecdsabrp512t1 1048576B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0011s    747.0    950.2
+ecdsabrp512t1 2097152B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0011s    748.1    949.6
+ecdsabrp512t1 4194304B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0010s    746.2    953.5
+ecdsabrp512t1 8388608B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0010s    747.3    954.7
+ecdsabrp512t1 16777216B  512 bits ecdsa (brainpoolP512t1)   0.0013s   0.0010s    747.4    953.0
+ecdhp160 16B  160 bits ecdh (secp160r1)   0.0002s   6358.7
+ecdhp160 64B  160 bits ecdh (secp160r1)   0.0002s   6360.4
+ecdhp160 256B  160 bits ecdh (secp160r1)   0.0002s   6361.7
+ecdhp160 1024B  160 bits ecdh (secp160r1)   0.0002s   6345.5
+ecdhp160 8192B  160 bits ecdh (secp160r1)   0.0002s   6327.7
+ecdhp160 16384B  160 bits ecdh (secp160r1)   0.0002s   6339.9
+ecdhp160 32768B  160 bits ecdh (secp160r1)   0.0002s   6354.4
+ecdhp160 65536B  160 bits ecdh (secp160r1)   0.0002s   6345.1
+ecdhp160 131072B  160 bits ecdh (secp160r1)   0.0002s   6377.2
+ecdhp160 262144B  160 bits ecdh (secp160r1)   0.0002s   6346.1
+ecdhp160 524288B  160 bits ecdh (secp160r1)   0.0002s   6326.2
+ecdhp160 1048576B  160 bits ecdh (secp160r1)   0.0002s   6330.6
+ecdhp160 2097152B  160 bits ecdh (secp160r1)   0.0002s   6348.7
+ecdhp160 4194304B  160 bits ecdh (secp160r1)   0.0002s   6335.0
+ecdhp160 8388608B  160 bits ecdh (secp160r1)   0.0002s   6345.8
+ecdhp160 16777216B  160 bits ecdh (secp160r1)   0.0002s   6342.6
+ecdhp192 16B  192 bits ecdh (nistp192)   0.0002s   5159.9
+ecdhp192 64B  192 bits ecdh (nistp192)   0.0002s   5155.6
+ecdhp192 256B  192 bits ecdh (nistp192)   0.0002s   5158.4
+ecdhp192 1024B  192 bits ecdh (nistp192)   0.0002s   5172.4
+ecdhp192 8192B  192 bits ecdh (nistp192)   0.0002s   5164.0
+ecdhp192 16384B  192 bits ecdh (nistp192)   0.0002s   5170.7
+ecdhp192 32768B  192 bits ecdh (nistp192)   0.0002s   5168.2
+ecdhp192 65536B  192 bits ecdh (nistp192)   0.0002s   5146.9
+ecdhp192 131072B  192 bits ecdh (nistp192)   0.0002s   4861.2
+ecdhp192 262144B  192 bits ecdh (nistp192)   0.0002s   5150.5
+ecdhp192 524288B  192 bits ecdh (nistp192)   0.0002s   5157.4
+ecdhp192 1048576B  192 bits ecdh (nistp192)   0.0002s   5169.4
+ecdhp192 2097152B  192 bits ecdh (nistp192)   0.0002s   5164.3
+ecdhp192 4194304B  192 bits ecdh (nistp192)   0.0002s   5160.2
+ecdhp192 8388608B  192 bits ecdh (nistp192)   0.0002s   5162.5
+ecdhp192 16777216B  192 bits ecdh (nistp192)   0.0002s   5174.9
+ecdhp224 16B  224 bits ecdh (nistp224)   0.0002s   4247.8
+ecdhp224 64B  224 bits ecdh (nistp224)   0.0002s   4246.7
+ecdhp224 256B  224 bits ecdh (nistp224)   0.0002s   4241.6
+ecdhp224 1024B  224 bits ecdh (nistp224)   0.0002s   4243.5
+ecdhp224 8192B  224 bits ecdh (nistp224)   0.0002s   4245.7
+ecdhp224 16384B  224 bits ecdh (nistp224)   0.0002s   4248.9
+ecdhp224 32768B  224 bits ecdh (nistp224)   0.0002s   4242.3
+ecdhp224 65536B  224 bits ecdh (nistp224)   0.0002s   4248.8
+ecdhp224 131072B  224 bits ecdh (nistp224)   0.0002s   4243.6
+ecdhp224 262144B  224 bits ecdh (nistp224)   0.0002s   4246.2
+ecdhp224 524288B  224 bits ecdh (nistp224)   0.0002s   4246.5
+ecdhp224 1048576B  224 bits ecdh (nistp224)   0.0002s   4248.2
+ecdhp224 2097152B  224 bits ecdh (nistp224)   0.0002s   4249.6
+ecdhp224 4194304B  224 bits ecdh (nistp224)   0.0002s   4245.2
+ecdhp224 8388608B  224 bits ecdh (nistp224)   0.0002s   4249.4
+ecdhp224 16777216B  224 bits ecdh (nistp224)   0.0002s   4243.6
+ecdhp256 16B  256 bits ecdh (nistp256)   0.0001s  17256.5
+ecdhp256 64B  256 bits ecdh (nistp256)   0.0001s  17263.0
+ecdhp256 256B  256 bits ecdh (nistp256)   0.0001s  17262.7
+ecdhp256 1024B  256 bits ecdh (nistp256)   0.0001s  17255.6
+ecdhp256 8192B  256 bits ecdh (nistp256)   0.0001s  17264.4
+ecdhp256 16384B  256 bits ecdh (nistp256)   0.0001s  17263.1
+ecdhp256 32768B  256 bits ecdh (nistp256)   0.0001s  17261.7
+ecdhp256 65536B  256 bits ecdh (nistp256)   0.0001s  17261.4
+ecdhp256 131072B  256 bits ecdh (nistp256)   0.0001s  17263.1
+ecdhp256 262144B  256 bits ecdh (nistp256)   0.0001s  17266.4
+ecdhp256 524288B  256 bits ecdh (nistp256)   0.0001s  17262.7
+ecdhp256 1048576B  256 bits ecdh (nistp256)   0.0001s  17261.9
+ecdhp256 2097152B  256 bits ecdh (nistp256)   0.0001s  17265.2
+ecdhp256 4194304B  256 bits ecdh (nistp256)   0.0001s  17265.9
+ecdhp256 8388608B  256 bits ecdh (nistp256)   0.0001s  17264.7
+ecdhp256 16777216B  256 bits ecdh (nistp256)   0.0001s  17268.6
+ecdhp384 16B  384 bits ecdh (nistp384)   0.0009s   1132.8
+ecdhp384 64B  384 bits ecdh (nistp384)   0.0009s   1128.6
+ecdhp384 256B  384 bits ecdh (nistp384)   0.0009s   1129.7
+ecdhp384 1024B  384 bits ecdh (nistp384)   0.0009s   1127.3
+ecdhp384 8192B  384 bits ecdh (nistp384)   0.0009s   1132.8
+ecdhp384 16384B  384 bits ecdh (nistp384)   0.0009s   1132.0
+ecdhp384 32768B  384 bits ecdh (nistp384)   0.0009s   1133.4
+ecdhp384 65536B  384 bits ecdh (nistp384)   0.0009s   1131.3
+ecdhp384 131072B  384 bits ecdh (nistp384)   0.0009s   1131.5
+ecdhp384 262144B  384 bits ecdh (nistp384)   0.0009s   1129.2
+ecdhp384 524288B  384 bits ecdh (nistp384)   0.0009s   1134.5
+ecdhp384 1048576B  384 bits ecdh (nistp384)   0.0009s   1131.9
+ecdhp384 2097152B  384 bits ecdh (nistp384)   0.0009s   1131.5
+ecdhp384 4194304B  384 bits ecdh (nistp384)   0.0009s   1127.3
+ecdhp384 8388608B  384 bits ecdh (nistp384)   0.0009s   1133.3
+ecdhp384 16777216B  384 bits ecdh (nistp384)   0.0009s   1134.6
+ecdhp521 16B  521 bits ecdh (nistp521)   0.0023s    438.6
+ecdhp521 64B  521 bits ecdh (nistp521)   0.0023s    438.3
+ecdhp521 256B  521 bits ecdh (nistp521)   0.0023s    439.2
+ecdhp521 1024B  521 bits ecdh (nistp521)   0.0023s    437.9
+ecdhp521 8192B  521 bits ecdh (nistp521)   0.0023s    438.6
+ecdhp521 16384B  521 bits ecdh (nistp521)   0.0023s    438.9
+ecdhp521 32768B  521 bits ecdh (nistp521)   0.0023s    438.5
+ecdhp521 65536B  521 bits ecdh (nistp521)   0.0023s    439.2
+ecdhp521 131072B  521 bits ecdh (nistp521)   0.0023s    438.5
+ecdhp521 262144B  521 bits ecdh (nistp521)   0.0023s    438.7
+ecdhp521 524288B  521 bits ecdh (nistp521)   0.0023s    438.6
+ecdhp521 1048576B  521 bits ecdh (nistp521)   0.0023s    439.5
+ecdhp521 2097152B  521 bits ecdh (nistp521)   0.0023s    438.8
+ecdhp521 4194304B  521 bits ecdh (nistp521)   0.0023s    438.9
+ecdhp521 8388608B  521 bits ecdh (nistp521)   0.0023s    439.4
+ecdhp521 16777216B  521 bits ecdh (nistp521)   0.0023s    439.5
+ecdhk163 16B  163 bits ecdh (nistk163)   0.0003s   3322.7
+ecdhk163 64B  163 bits ecdh (nistk163)   0.0003s   3329.5
+ecdhk163 256B  163 bits ecdh (nistk163)   0.0003s   3353.3
+ecdhk163 1024B  163 bits ecdh (nistk163)   0.0003s   3332.1
+ecdhk163 8192B  163 bits ecdh (nistk163)   0.0003s   3339.6
+ecdhk163 16384B  163 bits ecdh (nistk163)   0.0003s   3351.2
+ecdhk163 32768B  163 bits ecdh (nistk163)   0.0003s   3299.7
+ecdhk163 65536B  163 bits ecdh (nistk163)   0.0003s   3340.0
+ecdhk163 131072B  163 bits ecdh (nistk163)   0.0003s   3344.4
+ecdhk163 262144B  163 bits ecdh (nistk163)   0.0003s   3340.3
+ecdhk163 524288B  163 bits ecdh (nistk163)   0.0003s   3352.3
+ecdhk163 1048576B  163 bits ecdh (nistk163)   0.0003s   3312.1
+ecdhk163 2097152B  163 bits ecdh (nistk163)   0.0003s   3339.1
+ecdhk163 4194304B  163 bits ecdh (nistk163)   0.0003s   3334.6
+ecdhk163 8388608B  163 bits ecdh (nistk163)   0.0003s   3348.5
+ecdhk163 16777216B  163 bits ecdh (nistk163)   0.0003s   3353.1
+ecdhk233 16B  233 bits ecdh (nistk233)   0.0005s   2155.6
+ecdhk233 64B  233 bits ecdh (nistk233)   0.0005s   2160.3
+ecdhk233 256B  233 bits ecdh (nistk233)   0.0005s   2162.1
+ecdhk233 1024B  233 bits ecdh (nistk233)   0.0005s   2162.9
+ecdhk233 8192B  233 bits ecdh (nistk233)   0.0005s   2170.1
+ecdhk233 16384B  233 bits ecdh (nistk233)   0.0005s   2166.3
+ecdhk233 32768B  233 bits ecdh (nistk233)   0.0005s   2148.5
+ecdhk233 65536B  233 bits ecdh (nistk233)   0.0005s   2169.3
+ecdhk233 131072B  233 bits ecdh (nistk233)   0.0005s   2127.6
+ecdhk233 262144B  233 bits ecdh (nistk233)   0.0005s   2164.3
+ecdhk233 524288B  233 bits ecdh (nistk233)   0.0005s   2156.5
+ecdhk233 1048576B  233 bits ecdh (nistk233)   0.0005s   2152.4
+ecdhk233 2097152B  233 bits ecdh (nistk233)   0.0005s   2159.5
+ecdhk233 4194304B  233 bits ecdh (nistk233)   0.0005s   2164.4
+ecdhk233 8388608B  233 bits ecdh (nistk233)   0.0005s   2155.0
+ecdhk233 16777216B  233 bits ecdh (nistk233)   0.0005s   2154.4
+ecdhk283 16B  283 bits ecdh (nistk283)   0.0010s   1042.6
+ecdhk283 64B  283 bits ecdh (nistk283)   0.0010s   1045.1
+ecdhk283 256B  283 bits ecdh (nistk283)   0.0010s   1047.1
+ecdhk283 1024B  283 bits ecdh (nistk283)   0.0010s   1049.6
+ecdhk283 8192B  283 bits ecdh (nistk283)   0.0010s   1044.9
+ecdhk283 16384B  283 bits ecdh (nistk283)   0.0010s   1039.9
+ecdhk283 32768B  283 bits ecdh (nistk283)   0.0010s   1050.7
+ecdhk283 65536B  283 bits ecdh (nistk283)   0.0010s   1051.2
+ecdhk283 131072B  283 bits ecdh (nistk283)   0.0010s   1044.8
+ecdhk283 262144B  283 bits ecdh (nistk283)   0.0010s   1043.8
+ecdhk283 524288B  283 bits ecdh (nistk283)   0.0010s   1042.9
+ecdhk283 1048576B  283 bits ecdh (nistk283)   0.0010s   1049.5
+ecdhk283 2097152B  283 bits ecdh (nistk283)   0.0010s   1049.7
+ecdhk283 4194304B  283 bits ecdh (nistk283)   0.0010s   1044.5
+ecdhk283 8388608B  283 bits ecdh (nistk283)   0.0010s   1043.9
+ecdhk283 16777216B  283 bits ecdh (nistk283)   0.0010s   1045.0
+ecdhk409 16B  409 bits ecdh (nistk409)   0.0020s    505.4
+ecdhk409 64B  409 bits ecdh (nistk409)   0.0020s    501.2
+ecdhk409 256B  409 bits ecdh (nistk409)   0.0020s    504.3
+ecdhk409 1024B  409 bits ecdh (nistk409)   0.0020s    504.2
+ecdhk409 8192B  409 bits ecdh (nistk409)   0.0020s    500.4
+ecdhk409 16384B  409 bits ecdh (nistk409)   0.0020s    503.3
+ecdhk409 32768B  409 bits ecdh (nistk409)   0.0020s    503.1
+ecdhk409 65536B  409 bits ecdh (nistk409)   0.0020s    501.5
+ecdhk409 131072B  409 bits ecdh (nistk409)   0.0020s    502.7
+ecdhk409 262144B  409 bits ecdh (nistk409)   0.0020s    501.1
+ecdhk409 524288B  409 bits ecdh (nistk409)   0.0020s    500.7
+ecdhk409 1048576B  409 bits ecdh (nistk409)   0.0020s    500.9
+ecdhk409 2097152B  409 bits ecdh (nistk409)   0.0020s    501.6
+ecdhk409 4194304B  409 bits ecdh (nistk409)   0.0020s    503.8
+ecdhk409 8388608B  409 bits ecdh (nistk409)   0.0020s    501.3
+ecdhk409 16777216B  409 bits ecdh (nistk409)   0.0020s    502.5
+ecdhk571 16B  571 bits ecdh (nistk571)   0.0042s    239.6
+ecdhk571 64B  571 bits ecdh (nistk571)   0.0042s    238.6
+ecdhk571 256B  571 bits ecdh (nistk571)   0.0042s    240.5
+ecdhk571 1024B  571 bits ecdh (nistk571)   0.0042s    240.2
+ecdhk571 8192B  571 bits ecdh (nistk571)   0.0042s    239.4
+ecdhk571 16384B  571 bits ecdh (nistk571)   0.0042s    239.0
+ecdhk571 32768B  571 bits ecdh (nistk571)   0.0042s    240.8
+ecdhk571 65536B  571 bits ecdh (nistk571)   0.0042s    239.1
+ecdhk571 131072B  571 bits ecdh (nistk571)   0.0042s    239.6
+ecdhk571 262144B  571 bits ecdh (nistk571)   0.0042s    239.4
+ecdhk571 524288B  571 bits ecdh (nistk571)   0.0042s    239.3
+ecdhk571 1048576B  571 bits ecdh (nistk571)   0.0042s    239.3
+ecdhk571 2097152B  571 bits ecdh (nistk571)   0.0042s    238.5
+ecdhk571 4194304B  571 bits ecdh (nistk571)   0.0042s    239.3
+ecdhk571 8388608B  571 bits ecdh (nistk571)   0.0042s    239.7
+ecdhk571 16777216B  571 bits ecdh (nistk571)   0.0042s    239.2
+ecdhb163 16B  163 bits ecdh (nistb163)   0.0003s   3172.6
+ecdhb163 64B  163 bits ecdh (nistb163)   0.0003s   3168.7
+ecdhb163 256B  163 bits ecdh (nistb163)   0.0003s   3166.4
+ecdhb163 1024B  163 bits ecdh (nistb163)   0.0003s   3181.0
+ecdhb163 8192B  163 bits ecdh (nistb163)   0.0003s   3173.7
+ecdhb163 16384B  163 bits ecdh (nistb163)   0.0003s   3154.9
+ecdhb163 32768B  163 bits ecdh (nistb163)   0.0003s   3158.1
+ecdhb163 65536B  163 bits ecdh (nistb163)   0.0003s   3168.4
+ecdhb163 131072B  163 bits ecdh (nistb163)   0.0003s   3140.3
+ecdhb163 262144B  163 bits ecdh (nistb163)   0.0003s   3157.9
+ecdhb163 524288B  163 bits ecdh (nistb163)   0.0003s   3173.6
+ecdhb163 1048576B  163 bits ecdh (nistb163)   0.0003s   3180.9
+ecdhb163 2097152B  163 bits ecdh (nistb163)   0.0003s   3170.3
+ecdhb163 4194304B  163 bits ecdh (nistb163)   0.0003s   3164.7
+ecdhb163 8388608B  163 bits ecdh (nistb163)   0.0003s   3173.4
+ecdhb163 16777216B  163 bits ecdh (nistb163)   0.0003s   3154.3
+ecdhb233 16B  233 bits ecdh (nistb233)   0.0005s   2066.5
+ecdhb233 64B  233 bits ecdh (nistb233)   0.0005s   2073.2
+ecdhb233 256B  233 bits ecdh (nistb233)   0.0005s   2070.2
+ecdhb233 1024B  233 bits ecdh (nistb233)   0.0005s   2068.7
+ecdhb233 8192B  233 bits ecdh (nistb233)   0.0005s   2073.9
+ecdhb233 16384B  233 bits ecdh (nistb233)   0.0005s   2073.4
+ecdhb233 32768B  233 bits ecdh (nistb233)   0.0005s   2068.5
+ecdhb233 65536B  233 bits ecdh (nistb233)   0.0005s   2066.2
+ecdhb233 131072B  233 bits ecdh (nistb233)   0.0005s   2059.0
+ecdhb233 262144B  233 bits ecdh (nistb233)   0.0005s   2069.5
+ecdhb233 524288B  233 bits ecdh (nistb233)   0.0005s   2071.9
+ecdhb233 1048576B  233 bits ecdh (nistb233)   0.0005s   2067.5
+ecdhb233 2097152B  233 bits ecdh (nistb233)   0.0005s   1996.9
+ecdhb233 4194304B  233 bits ecdh (nistb233)   0.0005s   2068.5
+ecdhb233 8388608B  233 bits ecdh (nistb233)   0.0005s   2065.4
+ecdhb233 16777216B  233 bits ecdh (nistb233)   0.0005s   2067.4
+ecdhb283 16B  283 bits ecdh (nistb283)   0.0010s    966.1
+ecdhb283 64B  283 bits ecdh (nistb283)   0.0010s    968.8
+ecdhb283 256B  283 bits ecdh (nistb283)   0.0010s    960.5
+ecdhb283 1024B  283 bits ecdh (nistb283)   0.0010s    960.7
+ecdhb283 8192B  283 bits ecdh (nistb283)   0.0010s    963.4
+ecdhb283 16384B  283 bits ecdh (nistb283)   0.0010s    960.6
+ecdhb283 32768B  283 bits ecdh (nistb283)   0.0010s    961.2
+ecdhb283 65536B  283 bits ecdh (nistb283)   0.0010s    964.4
+ecdhb283 131072B  283 bits ecdh (nistb283)   0.0010s    964.3
+ecdhb283 262144B  283 bits ecdh (nistb283)   0.0010s    962.7
+ecdhb283 524288B  283 bits ecdh (nistb283)   0.0010s    963.7
+ecdhb283 1048576B  283 bits ecdh (nistb283)   0.0010s    962.1
+ecdhb283 2097152B  283 bits ecdh (nistb283)   0.0010s    963.4
+ecdhb283 4194304B  283 bits ecdh (nistb283)   0.0010s    959.0
+ecdhb283 8388608B  283 bits ecdh (nistb283)   0.0010s    953.1
+ecdhb283 16777216B  283 bits ecdh (nistb283)   0.0010s    960.1
+ecdhb409 16B  409 bits ecdh (nistb409)   0.0022s    456.5
+ecdhb409 64B  409 bits ecdh (nistb409)   0.0022s    455.4
+ecdhb409 256B  409 bits ecdh (nistb409)   0.0022s    454.1
+ecdhb409 1024B  409 bits ecdh (nistb409)   0.0022s    452.9
+ecdhb409 8192B  409 bits ecdh (nistb409)   0.0022s    454.9
+ecdhb409 16384B  409 bits ecdh (nistb409)   0.0022s    455.1
+ecdhb409 32768B  409 bits ecdh (nistb409)   0.0022s    453.2
+ecdhb409 65536B  409 bits ecdh (nistb409)   0.0022s    455.6
+ecdhb409 131072B  409 bits ecdh (nistb409)   0.0022s    456.2
+ecdhb409 262144B  409 bits ecdh (nistb409)   0.0022s    456.4
+ecdhb409 524288B  409 bits ecdh (nistb409)   0.0022s    453.1
+ecdhb409 1048576B  409 bits ecdh (nistb409)   0.0022s    453.6
+ecdhb409 2097152B  409 bits ecdh (nistb409)   0.0022s    455.5
+ecdhb409 4194304B  409 bits ecdh (nistb409)   0.0022s    456.7
+ecdhb409 8388608B  409 bits ecdh (nistb409)   0.0022s    456.2
+ecdhb409 16777216B  409 bits ecdh (nistb409)   0.0022s    456.5
+ecdhb571 16B  571 bits ecdh (nistb571)   0.0047s    214.3
+ecdhb571 64B  571 bits ecdh (nistb571)   0.0046s    216.2
+ecdhb571 256B  571 bits ecdh (nistb571)   0.0046s    215.2
+ecdhb571 1024B  571 bits ecdh (nistb571)   0.0047s    214.3
+ecdhb571 8192B  571 bits ecdh (nistb571)   0.0047s    214.8
+ecdhb571 16384B  571 bits ecdh (nistb571)   0.0046s    215.1
+ecdhb571 32768B  571 bits ecdh (nistb571)   0.0046s    215.4
+ecdhb571 65536B  571 bits ecdh (nistb571)   0.0046s    215.1
+ecdhb571 131072B  571 bits ecdh (nistb571)   0.0047s    214.4
+ecdhb571 262144B  571 bits ecdh (nistb571)   0.0046s    216.1
+ecdhb571 524288B  571 bits ecdh (nistb571)   0.0046s    215.3
+ecdhb571 1048576B  571 bits ecdh (nistb571)   0.0046s    215.6
+ecdhb571 2097152B  571 bits ecdh (nistb571)   0.0046s    215.9
+ecdhb571 4194304B  571 bits ecdh (nistb571)   0.0046s    215.1
+ecdhb571 8388608B  571 bits ecdh (nistb571)   0.0046s    215.1
+ecdhb571 16777216B  571 bits ecdh (nistb571)   0.0047s    214.1
+ecdhbrp256r1 16B  256 bits ecdh (brainpoolP256r1)   0.0003s   3838.1
+ecdhbrp256r1 64B  256 bits ecdh (brainpoolP256r1)   0.0003s   3841.7
+ecdhbrp256r1 256B  256 bits ecdh (brainpoolP256r1)   0.0003s   3837.4
+ecdhbrp256r1 1024B  256 bits ecdh (brainpoolP256r1)   0.0003s   3839.4
+ecdhbrp256r1 8192B  256 bits ecdh (brainpoolP256r1)   0.0003s   3839.1
+ecdhbrp256r1 16384B  256 bits ecdh (brainpoolP256r1)   0.0003s   3843.5
+ecdhbrp256r1 32768B  256 bits ecdh (brainpoolP256r1)   0.0003s   3836.6
+ecdhbrp256r1 65536B  256 bits ecdh (brainpoolP256r1)   0.0003s   3844.0
+ecdhbrp256r1 131072B  256 bits ecdh (brainpoolP256r1)   0.0003s   3841.0
+ecdhbrp256r1 262144B  256 bits ecdh (brainpoolP256r1)   0.0003s   3841.3
+ecdhbrp256r1 524288B  256 bits ecdh (brainpoolP256r1)   0.0003s   3837.5
+ecdhbrp256r1 1048576B  256 bits ecdh (brainpoolP256r1)   0.0003s   3838.2
+ecdhbrp256r1 2097152B  256 bits ecdh (brainpoolP256r1)   0.0003s   3836.7
+ecdhbrp256r1 4194304B  256 bits ecdh (brainpoolP256r1)   0.0003s   3839.3
+ecdhbrp256r1 8388608B  256 bits ecdh (brainpoolP256r1)   0.0003s   3844.6
+ecdhbrp256r1 16777216B  256 bits ecdh (brainpoolP256r1)   0.0003s   3841.4
+ecdhbrp256t1 16B  256 bits ecdh (brainpoolP256t1)   0.0003s   3838.1
+ecdhbrp256t1 64B  256 bits ecdh (brainpoolP256t1)   0.0003s   3832.7
+ecdhbrp256t1 256B  256 bits ecdh (brainpoolP256t1)   0.0003s   3834.3
+ecdhbrp256t1 1024B  256 bits ecdh (brainpoolP256t1)   0.0003s   3840.9
+ecdhbrp256t1 8192B  256 bits ecdh (brainpoolP256t1)   0.0003s   3839.2
+ecdhbrp256t1 16384B  256 bits ecdh (brainpoolP256t1)   0.0003s   3841.5
+ecdhbrp256t1 32768B  256 bits ecdh (brainpoolP256t1)   0.0003s   3841.8
+ecdhbrp256t1 65536B  256 bits ecdh (brainpoolP256t1)   0.0003s   3837.8
+ecdhbrp256t1 131072B  256 bits ecdh (brainpoolP256t1)   0.0003s   3843.8
+ecdhbrp256t1 262144B  256 bits ecdh (brainpoolP256t1)   0.0003s   3838.7
+ecdhbrp256t1 524288B  256 bits ecdh (brainpoolP256t1)   0.0003s   3839.8
+ecdhbrp256t1 1048576B  256 bits ecdh (brainpoolP256t1)   0.0003s   3847.2
+ecdhbrp256t1 2097152B  256 bits ecdh (brainpoolP256t1)   0.0003s   3842.5
+ecdhbrp256t1 4194304B  256 bits ecdh (brainpoolP256t1)   0.0003s   3838.2
+ecdhbrp256t1 8388608B  256 bits ecdh (brainpoolP256t1)   0.0003s   3840.7
+ecdhbrp256t1 16777216B  256 bits ecdh (brainpoolP256t1)   0.0003s   3844.7
+ecdhbrp384r1 16B  384 bits ecdh (brainpoolP384r1)   0.0009s   1131.2
+ecdhbrp384r1 64B  384 bits ecdh (brainpoolP384r1)   0.0009s   1130.0
+ecdhbrp384r1 256B  384 bits ecdh (brainpoolP384r1)   0.0009s   1132.6
+ecdhbrp384r1 1024B  384 bits ecdh (brainpoolP384r1)   0.0009s   1129.6
+ecdhbrp384r1 8192B  384 bits ecdh (brainpoolP384r1)   0.0009s   1131.5
+ecdhbrp384r1 16384B  384 bits ecdh (brainpoolP384r1)   0.0009s   1132.4
+ecdhbrp384r1 32768B  384 bits ecdh (brainpoolP384r1)   0.0009s   1127.9
+ecdhbrp384r1 65536B  384 bits ecdh (brainpoolP384r1)   0.0009s   1128.1
+ecdhbrp384r1 131072B  384 bits ecdh (brainpoolP384r1)   0.0009s   1133.1
+ecdhbrp384r1 262144B  384 bits ecdh (brainpoolP384r1)   0.0009s   1131.3
+ecdhbrp384r1 524288B  384 bits ecdh (brainpoolP384r1)   0.0009s   1128.4
+ecdhbrp384r1 1048576B  384 bits ecdh (brainpoolP384r1)   0.0009s   1131.3
+ecdhbrp384r1 2097152B  384 bits ecdh (brainpoolP384r1)   0.0009s   1131.0
+ecdhbrp384r1 4194304B  384 bits ecdh (brainpoolP384r1)   0.0009s   1133.2
+ecdhbrp384r1 8388608B  384 bits ecdh (brainpoolP384r1)   0.0009s   1130.5
+ecdhbrp384r1 16777216B  384 bits ecdh (brainpoolP384r1)   0.0009s   1128.3
+ecdhbrp384t1 16B  384 bits ecdh (brainpoolP384t1)   0.0009s   1143.3
+ecdhbrp384t1 64B  384 bits ecdh (brainpoolP384t1)   0.0009s   1141.0
+ecdhbrp384t1 256B  384 bits ecdh (brainpoolP384t1)   0.0009s   1143.5
+ecdhbrp384t1 1024B  384 bits ecdh (brainpoolP384t1)   0.0009s   1142.5
+ecdhbrp384t1 8192B  384 bits ecdh (brainpoolP384t1)   0.0009s   1144.9
+ecdhbrp384t1 16384B  384 bits ecdh (brainpoolP384t1)   0.0009s   1145.1
+ecdhbrp384t1 32768B  384 bits ecdh (brainpoolP384t1)   0.0009s   1143.7
+ecdhbrp384t1 65536B  384 bits ecdh (brainpoolP384t1)   0.0009s   1144.6
+ecdhbrp384t1 131072B  384 bits ecdh (brainpoolP384t1)   0.0009s   1140.8
+ecdhbrp384t1 262144B  384 bits ecdh (brainpoolP384t1)   0.0009s   1143.6
+ecdhbrp384t1 524288B  384 bits ecdh (brainpoolP384t1)   0.0009s   1142.7
+ecdhbrp384t1 1048576B  384 bits ecdh (brainpoolP384t1)   0.0009s   1143.0
+ecdhbrp384t1 2097152B  384 bits ecdh (brainpoolP384t1)   0.0009s   1145.3
+ecdhbrp384t1 4194304B  384 bits ecdh (brainpoolP384t1)   0.0009s   1146.6
+ecdhbrp384t1 8388608B  384 bits ecdh (brainpoolP384t1)   0.0009s   1144.7
+ecdhbrp384t1 16777216B  384 bits ecdh (brainpoolP384t1)   0.0009s   1147.1
+ecdhbrp512r1 16B  512 bits ecdh (brainpoolP512r1)   0.0013s    768.8
+ecdhbrp512r1 64B  512 bits ecdh (brainpoolP512r1)   0.0013s    771.3
+ecdhbrp512r1 256B  512 bits ecdh (brainpoolP512r1)   0.0013s    761.6
+ecdhbrp512r1 1024B  512 bits ecdh (brainpoolP512r1)   0.0013s    770.8
+ecdhbrp512r1 8192B  512 bits ecdh (brainpoolP512r1)   0.0013s    770.7
+ecdhbrp512r1 16384B  512 bits ecdh (brainpoolP512r1)   0.0013s    771.5
+ecdhbrp512r1 32768B  512 bits ecdh (brainpoolP512r1)   0.0013s    770.7
+ecdhbrp512r1 65536B  512 bits ecdh (brainpoolP512r1)   0.0013s    771.4
+ecdhbrp512r1 131072B  512 bits ecdh (brainpoolP512r1)   0.0013s    770.8
+ecdhbrp512r1 262144B  512 bits ecdh (brainpoolP512r1)   0.0013s    771.0
+ecdhbrp512r1 524288B  512 bits ecdh (brainpoolP512r1)   0.0013s    771.1
+ecdhbrp512r1 1048576B  512 bits ecdh (brainpoolP512r1)   0.0013s    771.4
+ecdhbrp512r1 2097152B  512 bits ecdh (brainpoolP512r1)   0.0013s    771.3
+ecdhbrp512r1 4194304B  512 bits ecdh (brainpoolP512r1)   0.0013s    770.4
+ecdhbrp512r1 8388608B  512 bits ecdh (brainpoolP512r1)   0.0013s    770.6
+ecdhbrp512r1 16777216B  512 bits ecdh (brainpoolP512r1)   0.0013s    770.2
+ecdhbrp512t1 16B  512 bits ecdh (brainpoolP512t1)   0.0013s    780.7
+ecdhbrp512t1 64B  512 bits ecdh (brainpoolP512t1)   0.0013s    781.5
+ecdhbrp512t1 256B  512 bits ecdh (brainpoolP512t1)   0.0013s    780.5
+ecdhbrp512t1 1024B  512 bits ecdh (brainpoolP512t1)   0.0013s    780.8
+ecdhbrp512t1 8192B  512 bits ecdh (brainpoolP512t1)   0.0013s    780.8
+ecdhbrp512t1 16384B  512 bits ecdh (brainpoolP512t1)   0.0013s    781.6
+ecdhbrp512t1 32768B  512 bits ecdh (brainpoolP512t1)   0.0013s    780.9
+ecdhbrp512t1 65536B  512 bits ecdh (brainpoolP512t1)   0.0013s    780.1
+ecdhbrp512t1 131072B  512 bits ecdh (brainpoolP512t1)   0.0013s    780.9
+ecdhbrp512t1 262144B  512 bits ecdh (brainpoolP512t1)   0.0013s    780.9
+ecdhbrp512t1 524288B  512 bits ecdh (brainpoolP512t1)   0.0013s    779.6
+ecdhbrp512t1 1048576B  512 bits ecdh (brainpoolP512t1)   0.0013s    781.6
+ecdhbrp512t1 2097152B  512 bits ecdh (brainpoolP512t1)   0.0013s    781.3
+ecdhbrp512t1 4194304B  512 bits ecdh (brainpoolP512t1)   0.0013s    780.6
+ecdhbrp512t1 8388608B  512 bits ecdh (brainpoolP512t1)   0.0013s    779.3
+ecdhbrp512t1 16777216B  512 bits ecdh (brainpoolP512t1)   0.0013s    781.7
+ecdhx25519 16B  253 bits ecdh (X25519)   0.0000s  20755.0
+ecdhx25519 64B  253 bits ecdh (X25519)   0.0000s  20875.8
+ecdhx25519 256B  253 bits ecdh (X25519)   0.0000s  20754.2
+ecdhx25519 1024B  253 bits ecdh (X25519)   0.0000s  20734.1
+ecdhx25519 8192B  253 bits ecdh (X25519)   0.0000s  20884.5
+ecdhx25519 16384B  253 bits ecdh (X25519)   0.0000s  20881.6
+ecdhx25519 32768B  253 bits ecdh (X25519)   0.0000s  20733.5
+ecdhx25519 65536B  253 bits ecdh (X25519)   0.0000s  20789.8
+ecdhx25519 131072B  253 bits ecdh (X25519)   0.0000s  20737.1
+ecdhx25519 262144B  253 bits ecdh (X25519)   0.0000s  20873.3
+ecdhx25519 524288B  253 bits ecdh (X25519)   0.0000s  20752.7
+ecdhx25519 1048576B  253 bits ecdh (X25519)   0.0000s  20794.1
+ecdhx25519 2097152B  253 bits ecdh (X25519)   0.0000s  20757.0
+ecdhx25519 4194304B  253 bits ecdh (X25519)   0.0000s  20876.7
+ecdhx25519 8388608B  253 bits ecdh (X25519)   0.0000s  20751.5
+ecdhx25519 16777216B  253 bits ecdh (X25519)   0.0000s  20755.5
+ecdhx448 16B  448 bits ecdh (X448)   0.0002s   5543.3
+ecdhx448 64B  448 bits ecdh (X448)   0.0002s   5555.4
+ecdhx448 256B  448 bits ecdh (X448)   0.0002s   5553.4
+ecdhx448 1024B  448 bits ecdh (X448)   0.0002s   5546.1
+ecdhx448 8192B  448 bits ecdh (X448)   0.0002s   5547.9
+ecdhx448 16384B  448 bits ecdh (X448)   0.0002s   5550.9
+ecdhx448 32768B  448 bits ecdh (X448)   0.0002s   5549.2
+ecdhx448 65536B  448 bits ecdh (X448)   0.0002s   5543.2
+ecdhx448 131072B  448 bits ecdh (X448)   0.0002s   5544.7
+ecdhx448 262144B  448 bits ecdh (X448)   0.0002s   5545.1
+ecdhx448 524288B  448 bits ecdh (X448)   0.0002s   5547.5
+ecdhx448 1048576B  448 bits ecdh (X448)   0.0002s   5551.5
+ecdhx448 2097152B  448 bits ecdh (X448)   0.0002s   5548.8
+ecdhx448 4194304B  448 bits ecdh (X448)   0.0002s   5549.9
+ecdhx448 8388608B  448 bits ecdh (X448)   0.0002s   5548.6
+ecdhx448 16777216B  448 bits ecdh (X448)   0.0002s   5557.6
+ed25519 16B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33071.6  10423.0
+ed25519 64B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33036.1  10432.5
+ed25519 256B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33154.9  10556.8
+ed25519 1024B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33160.2  10351.3
+ed25519 8192B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33111.5  10502.1
+ed25519 16384B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33055.5  10506.4
+ed25519 32768B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33109.1  10449.4
+ed25519 65536B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33058.6  10529.4
+ed25519 131072B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33103.8  10411.4
+ed25519 262144B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33081.3  10497.6
+ed25519 524288B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33041.8  10467.8
+ed25519 1048576B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33060.6  10477.5
+ed25519 2097152B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33098.4  10777.7
+ed25519 4194304B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33054.1  10460.5
+ed25519 8388608B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33153.3  10486.5
+ed25519 16777216B  253 bits EdDSA (Ed25519)   0.0000s   0.0001s  33109.7  10523.7
+ed448 16B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3412.4   4694.5
+ed448 64B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3412.8   4643.1
+ed448 256B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3359.4   4654.9
+ed448 1024B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3415.9   4570.4
+ed448 8192B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3355.8   4633.2
+ed448 16384B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3348.4   4672.3
+ed448 32768B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3355.3   4685.7
+ed448 65536B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3351.2   4654.5
+ed448 131072B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3417.4   4582.3
+ed448 262144B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3402.7   4597.9
+ed448 524288B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3410.2   4685.9
+ed448 1048576B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3357.6   4682.5
+ed448 2097152B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3355.8   4698.2
+ed448 4194304B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3353.7   4705.7
+ed448 8388608B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3358.7   4679.6
+ed448 16777216B  456 bits EdDSA (Ed448)   0.0003s   0.0002s   3354.6   4678.9
